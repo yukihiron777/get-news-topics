@@ -1,0 +1,6 @@
+=== 日次記事処理の手順メモ ===
+1. 必ず `export GITHUB_TOKEN=XXXX` を設定したシェルで作業する
+2. 最新日付や任意日付を `npm run process:daily -- 2026-01-04` のように指定する
+3. `latest` で `data/latest.json` を処理できる
+4. 処理結果は GitHub Actions (create-article) の成功を確認する
+===

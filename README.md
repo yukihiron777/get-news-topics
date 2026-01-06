@@ -77,7 +77,36 @@ npm start
   - 同じ日に複数回実行した場合、新しい記事のみが追加されます
   - URLで重複チェックされるため、同じ記事が複数回保存されることはありません
 
+## 記事作成ガイドライン
+
+このリポジトリで生成したデータをもとに技術記事を執筆する場合は、必ず `docs/article-guidelines.md` に記載した「技術記事作成ガイドライン」を参照してください。フロントマター、文字数の考え方、構成テンプレート、スラッグ生成ルールなど、すべての記事作成タスクのベースラインとして活用します。  
+日付指定でサクッと実行したい場合は以下のコマンド例をそのまま使ってください。
+
+```bash
+export GITHUB_TOKEN=ghp_xxx  # 初回のみ
+npm run process:daily -- 2026-01-04  # 「data/2026-01-04.json」を処理
+npm run process:daily -- latest      # 「data/latest.json」を処理
+```
+
 ## 今後の予定
 
 - GitHub Actionsでの定期実行設定
 - Vercelへのデプロイ
+
+## 日次記事の自動生成＆送信
+
+`GITHUB_TOKEN`（`repo` + `workflow` 権限）を環境変数として設定した状態で、次のコマンドを実行すると指定日の JSON ファイルから記事を生成し、GitHub Dispatch 経由で送信までまとめて実行できます。
+
+```bash
+export GITHUB_TOKEN=ghp_xxx   # 1回のシェルで有効にしておく
+npm run process:daily -- 2026-01-04   # もしくは npm run process:daily -- latest
+```
+
+処理内容:
+
+1. `scripts/batch-generate-from-daily.ts` を呼び出し、Markdown と `data/article-status.json` を更新します。
+2. 対象日の `status == drafted` の slug を順に `npm run dispatch:article <slug>` で送信します。
+
+Dispatch 後は GitHub リポジトリ側の `create-article` ワークフローが自動で rebase → push まで行います。翌日以降は日付を変えて同じコマンドを実行するだけで済みます。
+
+引数は `2026-01-04` のような日付、`data/XXXX.json` へのパス、または `latest` を指定できます。
