@@ -42,7 +42,7 @@ function getJSTDate(): string {
   return `${year}-${month}-${day}`;
 }
 
-export async function saveRanking(articles: Article[]): Promise<void> {
+export async function saveRanking(articles: Article[], targetDate?: string): Promise<void> {
   const dataDir = path.join(process.cwd(), 'data');
 
   // データディレクトリを作成
@@ -50,7 +50,7 @@ export async function saveRanking(articles: Article[]): Promise<void> {
 
   // JSTタイムスタンプと日付を取得
   const timestamp = getJSTTimestamp();
-  const date = getJSTDate();
+  const date = targetDate || getJSTDate();
   const filename = `${date}.json`;
   const filepath = path.join(dataDir, filename);
 

@@ -1,5 +1,5 @@
-import { fetchNikkeiTopNews, fetchArticleDetail } from './scraper';
-import { saveRanking } from './storage';
+import { fetchNikkeiTopNews, fetchArticleDetail } from '../src/scraper';
+import { saveRanking } from '../src/storage';
 
 // レート制限のための遅延関数
 function sleep(ms: number): Promise<void> {
@@ -7,9 +7,16 @@ function sleep(ms: number): Promise<void> {
 }
 
 async function main() {
+  // コマンドライン引数から日付を取得（YYYY-MM-DD形式）
+  const dateArg = process.argv[2];
+  if (!dateArg) {
+    console.error('Usage: tsx scripts/fetch-date.ts YYYY-MM-DD');
+    process.exit(1);
+  }
+
   try {
-    console.log('Fetching Nikkei top 30 news...');
-    const articles = await fetchNikkeiTopNews();
+    console.log(`Fetching Nikkei top 30 news for ${dateArg}...`);
+    const articles = await fetchNikkeiTopNews(dateArg);
 
     console.log(`Found ${articles.length} articles`);
 
@@ -34,7 +41,7 @@ async function main() {
     }
 
     console.log('\nSaving ranking data...');
-    await saveRanking(articles);
+    await saveRanking(articles, dateArg);
     console.log('Successfully saved ranking data');
   } catch (error) {
     console.error('Failed to fetch or save news:', error);

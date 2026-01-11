@@ -73,9 +73,16 @@ export async function fetchArticleDetail(url: string): Promise<Partial<Article>>
   }
 }
 
-export async function fetchNikkeiTopNews(): Promise<Article[]> {
+export async function fetchNikkeiTopNews(date?: string): Promise<Article[]> {
   try {
-    const response = await axios.get('https://www.nikkei.com/access/', {
+    // dateが指定されている場合はYYYYMMDD形式に変換
+    let url = 'https://www.nikkei.com/access/index/?bd=hKijiSougou';
+    if (date) {
+      const dateStr = date.replace(/-/g, '');
+      url = `https://www.nikkei.com/access/index/?bc=${dateStr}&bd=hKijiSougou`;
+    }
+
+    const response = await axios.get(url, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
       }
@@ -84,16 +91,15 @@ export async function fetchNikkeiTopNews(): Promise<Article[]> {
     const $ = cheerio.load(response.data);
     const articles: Article[] = [];
 
-    // 総合ランキングの記事を取得
-    $('.m-sub_access_ranking_list').each((index, element) => {
-      if (index >= 10) return false; // 10件まで
+    // 1-30位の記事を取得
+    $('.m-miM32_item').each((index, element) => {
+      if (index >= 30) return false; // 30件まで
 
       const $element = $(element);
-      const $link = $element.find('.m-sub_access_ranking_link');
-      const $title = $element.find('.m-sub_access_ranking_title');
+      const $link = $element.find('.m-miM32_itemTitleText a');
 
-      // タイトルテキストを取得（有料会員限定タグを除外）
-      const titleText = $title.clone().children().remove().end().text().trim();
+      // タイトルテキストを取得
+      const titleText = $link.text().trim();
       const relativeUrl = $link.attr('href');
 
       if (titleText && relativeUrl) {
