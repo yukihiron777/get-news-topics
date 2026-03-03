@@ -96,6 +96,13 @@ export async function fetchNikkeiTopNews(date?: string): Promise<Article[]> {
       if (index >= 30) return false; // 30件まで
 
       const $element = $(element);
+
+      // 有料会員限定の記事のみを対象にする
+      const itemText = $element.text();
+      if (!itemText.includes('有料会員限定')) {
+        return; // 無料記事はスキップ
+      }
+
       const $link = $element.find('.m-miM32_itemTitleText a');
 
       // タイトルテキストを取得

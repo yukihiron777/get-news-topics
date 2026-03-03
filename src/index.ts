@@ -8,7 +8,7 @@ function sleep(ms: number): Promise<void> {
 
 async function main() {
   try {
-    console.log('Fetching Nikkei top 30 news...');
+    console.log('Fetching Nikkei top news (paid articles only)...');
     const articles = await fetchNikkeiTopNews();
 
     console.log(`Found ${articles.length} articles`);

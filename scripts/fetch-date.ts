@@ -15,7 +15,7 @@ async function main() {
   }
 
   try {
-    console.log(`Fetching Nikkei top 30 news for ${dateArg}...`);
+    console.log(`Fetching Nikkei top news (paid articles only) for ${dateArg}...`);
     const articles = await fetchNikkeiTopNews(dateArg);
 
     console.log(`Found ${articles.length} articles`);
