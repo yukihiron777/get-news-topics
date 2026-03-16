@@ -1,4 +1,4 @@
-name: Fetch Nikkei News
+name: Fetch All News
 
 on:
   schedule:
@@ -18,15 +18,15 @@ permissions:
   contents: write
 
 jobs:
-  fetch-news:
+  fetch-all:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: '20'
           cache: 'npm'
@@ -36,10 +36,19 @@ jobs:
 
       - name: Fetch Nikkei news
         run: npm run fetch
+        continue-on-error: true
+
+      - name: Fetch Nikkei Business ranking
+        run: npm run fetch:nikkei-business
+        continue-on-error: true
+
+      - name: Fetch Toyokeizai ranking
+        run: npm run fetch:toyokeizai
+        continue-on-error: true
 
       - name: Commit and push if changed
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add data/nikkei/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update news data - $(date -u '+%Y-%m-%d %H:%M:%S UTC')" && git push)
+          git add data/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update news data - $(date -u '+%Y-%m-%d %H:%M:%S UTC')" && git pull --rebase && git push)
