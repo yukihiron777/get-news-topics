@@ -65,59 +65,53 @@ async function fetchArticleDetail(url: string): Promise<Partial<Article>> {
 }
 
 /**
- * 日経ビジネスのランキングページから記事一覧を取得
+ * 日経ビジネスのランキングページから有料記事を全セクション取得
+ * セクション: 有料会員 / 人気記事 / ブックマーク数 / 経営層が読んだ
  */
 export async function fetchArticles(): Promise<Article[]> {
   try {
     console.log(`Fetching ${SOURCE_CONFIG.displayName} ranking...`);
     const response = await axios.get(SOURCE_CONFIG.url, { headers: HEADERS });
     const $ = cheerio.load(response.data);
+    const seenUrls = new Set<string>();
     const articles: Article[] = [];
 
-    // メインランキングリストの記事を取得
-    const mainList = $('.p-articleList.-ranking').first();
-    const items = mainList.find('.p-articleList_item');
-
-    items.each((index, element) => {
-      if (index >= 10) return false; // 10件まで
-
+    // 全セクションの記事を取得（有料記事のみ）
+    $('.p-articleList.-ranking .p-articleList_item').each((_, element) => {
       const $el = $(element);
+
+      // 有料記事のみ（-titleLockクラスで判定）
+      const dateEl = $el.find('.p-articleList_item_date');
+      if (!dateEl.hasClass('-titleLock')) return;
+
       const relativeUrl = $el.find('.p-articleList_item_link').attr('href');
       const title = $el.find('.p-articleList_item_title').text().trim();
 
-      if (title && relativeUrl) {
-        const fullUrl = relativeUrl.startsWith('http')
-          ? relativeUrl
-          : `${SOURCE_CONFIG.baseUrl}${relativeUrl}`;
+      if (!title || !relativeUrl) return;
 
-        const article: Article = { title, url: fullUrl };
+      const fullUrl = relativeUrl.startsWith('http')
+        ? relativeUrl
+        : `${SOURCE_CONFIG.baseUrl}${relativeUrl}`;
 
-        // ランキングページから取得できるメタデータ
-        const subTitle = $el.find('.p-articleList_item_subTitle').text().trim();
-        if (subTitle) {
-          article.category = subTitle;
-        }
+      // URL重複除去
+      if (seenUrls.has(fullUrl)) return;
+      seenUrls.add(fullUrl);
 
-        const description = $el.find('.p-articleList_item_description').text().trim();
-        if (description) {
-          article.summary = description;
-        }
+      const article: Article = { title, url: fullUrl };
 
-        const date = $el.find('.p-articleList_item_date').text().trim();
-        if (date) {
-          article.publishDate = date;
-        }
+      const subTitle = $el.find('.p-articleList_item_subTitle').text().trim();
+      if (subTitle) article.category = subTitle;
 
-        const author = $el.find('.p-articleList_item_author').text().trim();
-        if (author) {
-          article.author = author;
-        }
+      const description = $el.find('.p-articleList_item_description').text().trim();
+      if (description) article.summary = description;
 
-        articles.push(article);
-      }
+      const date = dateEl.text().trim();
+      if (date) article.publishDate = date;
+
+      articles.push(article);
     });
 
-    console.log(`Found ${articles.length} articles from ranking`);
+    console.log(`Found ${articles.length} paid articles from ranking (deduplicated)`);
 
     // 各記事の詳細を取得
     console.log('\nFetching article details...');
