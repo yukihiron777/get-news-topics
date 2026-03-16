@@ -1,10 +1,6 @@
 import { fetchNikkeiTopNews, fetchArticleDetail } from './scraper';
 import { saveRanking } from './storage';
-
-// レート制限のための遅延関数
-function sleep(ms: number): Promise<void> {
-  return new Promise(resolve => setTimeout(resolve, ms));
-}
+import { sleep } from './utils';
 
 async function main() {
   try {

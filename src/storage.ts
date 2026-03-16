@@ -1,49 +1,12 @@
 import fs from 'fs/promises';
 import path from 'path';
-import { Article } from './scraper';
+import { Article, RankingSnapshot } from './types';
+import { getJSTTimestamp, getJSTDate } from './utils';
 
-export interface RankingSnapshot {
-  timestamp: string;
-  articles: Article[];
-}
-
-/**
- * JSTタイムスタンプを生成（ISO 8601形式）
- */
-function getJSTTimestamp(): string {
-  const now = new Date();
-  // JSTはUTC+9時間
-  const jstOffset = 9 * 60 * 60 * 1000;
-  const jstDate = new Date(now.getTime() + jstOffset);
-
-  // ISO 8601形式でタイムゾーン付き
-  const year = jstDate.getUTCFullYear();
-  const month = String(jstDate.getUTCMonth() + 1).padStart(2, '0');
-  const day = String(jstDate.getUTCDate()).padStart(2, '0');
-  const hours = String(jstDate.getUTCHours()).padStart(2, '0');
-  const minutes = String(jstDate.getUTCMinutes()).padStart(2, '0');
-  const seconds = String(jstDate.getUTCSeconds()).padStart(2, '0');
-
-  return `${year}-${month}-${day}T${hours}:${minutes}:${seconds}+09:00`;
-}
-
-/**
- * JST日付文字列を取得（YYYY-MM-DD形式）
- */
-function getJSTDate(): string {
-  const now = new Date();
-  const jstOffset = 9 * 60 * 60 * 1000;
-  const jstDate = new Date(now.getTime() + jstOffset);
-
-  const year = jstDate.getUTCFullYear();
-  const month = String(jstDate.getUTCMonth() + 1).padStart(2, '0');
-  const day = String(jstDate.getUTCDate()).padStart(2, '0');
-
-  return `${year}-${month}-${day}`;
-}
+export type { RankingSnapshot };
 
 export async function saveRanking(articles: Article[], targetDate?: string): Promise<void> {
-  const dataDir = path.join(process.cwd(), 'data');
+  const dataDir = path.join(process.cwd(), 'data', 'nikkei');
 
   // データディレクトリを作成
   await fs.mkdir(dataDir, { recursive: true });

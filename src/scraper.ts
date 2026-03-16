@@ -1,15 +1,8 @@
 import axios from 'axios';
 import * as cheerio from 'cheerio';
+import { Article } from './types';
 
-export interface Article {
-  title: string;
-  url: string;
-  publishDate?: string;
-  category?: string;
-  summary?: string;
-  tags?: string[];
-  author?: string;
-}
+export type { Article };
 
 export async function fetchArticleDetail(url: string): Promise<Partial<Article>> {
   try {

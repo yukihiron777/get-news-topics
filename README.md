@@ -73,7 +73,7 @@ npm start
 
 ## ファイル構成
 
-- `data/YYYY-MM-DD.json` - 日別のランキングスナップショット（JST基準）
+- `data/nikkei/YYYY-MM-DD.json` - 日別のランキングスナップショット（JST基準）
   - 同じ日に複数回実行した場合、新しい記事のみが追加されます
   - URLで重複チェックされるため、同じ記事が複数回保存されることはありません
 
@@ -84,8 +84,8 @@ npm start
 
 ```bash
 export GITHUB_TOKEN=ghp_xxx  # 初回のみ
-npm run process:daily -- 2026-01-04  # 「data/2026-01-04.json」を処理
-npm run process:daily -- latest      # 「data/latest.json」を処理
+npm run process:daily -- 2026-01-04  # 「data/nikkei/2026-01-04.json」を処理
+npm run process:daily -- latest      # 「data/nikkei/latest.json」を処理
 ```
 
 ## 今後の予定
@@ -104,9 +104,9 @@ npm run process:daily -- 2026-01-04   # もしくは npm run process:daily -- la
 
 処理内容:
 
-1. `scripts/batch-generate-from-daily.ts` を呼び出し、Markdown と `data/article-status.json` を更新します。
+1. `scripts/batch-generate-from-daily.ts` を呼び出し、Markdown と `data/nikkei/article-status.json` を更新します。
 2. 対象日の `status == drafted` の slug を順に `npm run dispatch:article <slug>` で送信します。
 
 Dispatch 後は GitHub リポジトリ側の `create-article` ワークフローが自動で rebase → push まで行います。翌日以降は日付を変えて同じコマンドを実行するだけで済みます。
 
-引数は `2026-01-04` のような日付、`data/XXXX.json` へのパス、または `latest` を指定できます。
+引数は `2026-01-04` のような日付、`data/nikkei/XXXX.json` へのパス、または `latest` を指定できます。

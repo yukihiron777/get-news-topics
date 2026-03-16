@@ -106,11 +106,83 @@ function sanitizeDescription(text: string, limit = 120) {
   return text.replace(/\s+/g, ' ').trim().slice(0, limit);
 }
 
-function sanitizeTags(tags?: string[]) {
-  if (!tags || tags.length === 0) {
-    return ['ニュース分析'];
+const DEFAULT_TAG = 'ニュース分析';
+const BAD_TAG_COMBINATIONS = [
+  ['ベネズエラ攻撃', '日中対立'],
+];
+
+function normalizeTagList(tags?: string[]) {
+  if (!tags) {
+    return [];
   }
-  return tags.map((tag) => tag.replace(/^[#＃]/, '').replace(/[\\/]/g, '-'));
+  return tags
+    .map((tag) => tag.replace(/^[#＃]/, '').replace(/[\\/]/g, '-').trim())
+    .filter((tag) => tag.length > 0);
+}
+
+function isBadTagCombo(tags: string[]) {
+  if (tags.length === 0) {
+    return false;
+  }
+  return BAD_TAG_COMBINATIONS.some((combo) => {
+    if (combo.length !== tags.length) {
+      return false;
+    }
+    const tagSet = new Set(tags);
+    return combo.every((tag) => tagSet.has(tag));
+  });
+}
+
+function segmentTitle(title: string) {
+  const cleaned = title.replace(/[「」『』【】［］（）()、・，。]/g, ' ');
+  const segments: string[] = [];
+  const hasSegmenter = typeof Intl !== 'undefined' && typeof (Intl as any).Segmenter === 'function';
+  if (hasSegmenter) {
+    const segmenter = new Intl.Segmenter('ja', { granularity: 'word' });
+    for (const { segment } of segmenter.segment(cleaned)) {
+      segments.push(segment);
+    }
+  } else {
+    segments.push(...cleaned.split(/\s+/));
+  }
+  return segments;
+}
+
+function generateKeywordTags(title: string) {
+  const keywords: string[] = [];
+  const seen = new Set<string>();
+  for (const token of segmentTitle(title)) {
+    const trimmed = token.trim();
+    if (!trimmed) {
+      continue;
+    }
+    if (/^[\p{P}\p{S}]+$/u.test(trimmed)) {
+      continue;
+    }
+    if (trimmed.length === 1 && !/[A-Za-z0-9]/.test(trimmed)) {
+      continue;
+    }
+    if (seen.has(trimmed)) {
+      continue;
+    }
+    seen.add(trimmed);
+    keywords.push(trimmed.slice(0, 12));
+    if (keywords.length >= 2) {
+      break;
+    }
+  }
+  if (keywords.length === 0) {
+    return [DEFAULT_TAG];
+  }
+  return [DEFAULT_TAG, ...keywords];
+}
+
+function sanitizeTags(tags: string[] | undefined, title: string) {
+  const normalized = Array.from(new Set(normalizeTagList(tags)));
+  if (normalized.length === 0 || isBadTagCombo(normalized)) {
+    return generateKeywordTags(title);
+  }
+  return normalized;
 }
 
 function escapeYaml(text: string) {
@@ -156,6 +228,21 @@ function ensureDir(dir: string) {
   }
 }
 
+function dedupeRecords(records: any[]) {
+  const seen = new Set<number>();
+  return records.filter((record) => {
+    const index = typeof record.articleIndex === 'number' ? record.articleIndex : undefined;
+    if (index === undefined) {
+      return true;
+    }
+    if (seen.has(index)) {
+      return false;
+    }
+    seen.add(index);
+    return true;
+  });
+}
+
 function buildArticleBody(article: ArticleEntry) {
   const summary = article.summary?.replace(/\s+/g, ' ').trim() ?? '最新の報道内容を踏まえて分析します。';
   const intro = `${article.title}に関する報道では、${summary}`;
@@ -195,10 +282,12 @@ function main() {
   const articleDir = path.join('articles', dateKey);
   ensureDir(articleDir);
 
-  const statusPath = path.join('data', 'article-status.json');
+  const statusPath = path.join('data', 'nikkei', 'article-status.json');
   const statusData = existsSync(statusPath) ? JSON.parse(readFileSync(statusPath, 'utf-8')) : {};
   if (!statusData[dateKey]) {
     statusData[dateKey] = [];
+  } else {
+    statusData[dateKey] = dedupeRecords(statusData[dateKey]);
   }
 
   const draftedAt = new Date().toISOString();
@@ -207,13 +296,23 @@ function main() {
     entries.forEach((entry: any) => usedSlugs.add(entry.slug));
   });
   const suffix = dateSuffix(dateKey);
+  const existingByIndex = new Map<number, any>();
+  statusData[dateKey].forEach((entry: any) => {
+    if (typeof entry.articleIndex === 'number') {
+      existingByIndex.set(entry.articleIndex, entry);
+    }
+  });
 
   dailyData.articles.forEach((article, index) => {
     const overrideSlug = slugOverrides[dateKey]?.[index];
     const slugBase = overrideSlug ?? baseSlug(article.title);
-    const slug = uniqueSlug(slugBase, suffix, usedSlugs);
+    const existing = existingByIndex.get(index);
+    const slug = existing ? existing.slug : uniqueSlug(slugBase, suffix, usedSlugs);
+    if (existing) {
+      usedSlugs.add(slug);
+    }
     const description = sanitizeDescription(article.summary ?? article.title);
-    const tags = sanitizeTags(article.tags);
+    const tags = sanitizeTags(article.tags, article.title);
 
     const frontMatter = [
       '---',
@@ -231,8 +330,7 @@ function main() {
     writeFileSync(outputPath, content);
 
     const existingIndex = statusData[dateKey].findIndex((entry: any) => entry.slug === slug);
-    const existing = existingIndex >= 0 ? statusData[dateKey][existingIndex] : null;
-    const record: any = existing ? { ...existing } : { slug, status: 'drafted' };
+    const record: any = existing ? { ...existing } : existingIndex >= 0 ? { ...statusData[dateKey][existingIndex] } : { slug, status: 'drafted' };
     record.sourceFile = dailyPath;
     record.articleIndex = index;
     record.contentPath = outputPath;
@@ -242,6 +340,13 @@ function main() {
 
     if (existingIndex >= 0) {
       statusData[dateKey][existingIndex] = record;
+    } else if (existing) {
+      const replaceIndex = statusData[dateKey].findIndex((entry: any) => entry.articleIndex === index);
+      if (replaceIndex >= 0) {
+        statusData[dateKey][replaceIndex] = record;
+      } else {
+        statusData[dateKey].push(record);
+      }
     } else {
       statusData[dateKey].push(record);
     }
