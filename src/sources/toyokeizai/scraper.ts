@@ -58,52 +58,85 @@ export async function fetchArticles(): Promise<Article[]> {
     console.log(`Fetching ${config.label} ranking...`);
     const response = await axios.get(config.url, { headers: HEADERS });
     const $ = cheerio.load(response.data);
+    const seenUrls = new Set<string>();
     const articles: Article[] = [];
+    let duplicateCount = 0;
 
-    // ランキングリストの記事を取得
-    const rankingList = $('ul[class^="ranking-"]').first();
-    const items = rankingList.find('li[id^="rank"]').filter((_, el) => {
-      // サイドバーの rank1b 等を除外（数字のみのIDを対象）
-      const id = $(el).attr('id') || '';
-      return /^rank\d+$/.test(id);
+    // 全ランキングセクションの記事を取得
+    $('ul[class^="ranking-"]').each((_, rankingList) => {
+      const items = $(rankingList).find('li[id^="rank"]').filter((__, el) => {
+        // サイドバーの rank1b 等を除外（数字のみのIDを対象）
+        const id = $(el).attr('id') || '';
+        return /^rank\d+$/.test(id);
+      });
+
+      items.each((__, element) => {
+        const $el = $(element);
+        const linkEl = $el.find('a.link-box');
+        const relativeUrl = linkEl.attr('href');
+        const title = $el.find('span.column-main-ttl').text().trim();
+
+        if (title && relativeUrl) {
+          const fullUrl = relativeUrl.startsWith('http')
+            ? relativeUrl
+            : `${config.baseUrl}${relativeUrl}`;
+
+          // URL正規化（末尾スラッシュ統一、クエリパラメータ除去）して重複チェック
+          const normalizedUrl = fullUrl.split('?')[0].replace(/\/+$/, '');
+          if (seenUrls.has(normalizedUrl)) {
+            duplicateCount++;
+            return;
+          }
+          seenUrls.add(normalizedUrl);
+
+          const article: Article = { title, url: fullUrl };
+
+          // ランキングページから取得できるメタデータ
+          const author = $el.find('div.meta > span.author').text().trim();
+          if (author) {
+            article.author = author;
+          }
+
+          const date = $el.find('div.meta > span.date').text().trim();
+          if (date) {
+            article.publishDate = date;
+          }
+
+          const summary = $el.find('span.summary').text().trim();
+          if (summary) {
+            article.summary = summary;
+          }
+
+          articles.push(article);
+        }
+      });
     });
 
-    items.each((index, element) => {
-      if (index >= 10) return false; // 10件まで
-
+    // div.ranking-list セクションからも記事を取得（display:none の書籍セクションは除外）
+    $('div.ranking-list:not([style*="display:none"]) li[class^="rank"]').each((_, element) => {
       const $el = $(element);
-      const linkEl = $el.find('a.link-box');
+      const linkEl = $el.find('a[href^="/articles/-/"]');
       const relativeUrl = linkEl.attr('href');
-      const title = $el.find('span.column-main-ttl').text().trim();
+      const title = $el.find('span.title').text().trim();
 
       if (title && relativeUrl) {
-        const fullUrl = relativeUrl.startsWith('http')
-          ? relativeUrl
-          : `${config.baseUrl}${relativeUrl}`;
+        const fullUrl = `${config.baseUrl}${relativeUrl}`;
+        const normalizedUrl = fullUrl.split('?')[0].replace(/\/+$/, '');
+        if (seenUrls.has(normalizedUrl)) {
+          duplicateCount++;
+          return;
+        }
+        seenUrls.add(normalizedUrl);
 
         const article: Article = { title, url: fullUrl };
-
-        // ランキングページから取得できるメタデータ
-        const author = $el.find('div.meta > span.author').text().trim();
-        if (author) {
-          article.author = author;
-        }
-
-        const date = $el.find('div.meta > span.date').text().trim();
-        if (date) {
-          article.publishDate = date;
-        }
-
-        const summary = $el.find('span.summary').text().trim();
-        if (summary) {
-          article.summary = summary;
-        }
+        const author = $el.find('span.author').text().trim();
+        if (author) article.author = author;
 
         articles.push(article);
       }
     });
 
-    console.log(`Found ${articles.length} articles from ranking`);
+    console.log(`Found ${articles.length} articles from ranking (skipped ${duplicateCount} duplicates)`);
 
     // 各記事の詳細を取得
     console.log('\nFetching article details...');

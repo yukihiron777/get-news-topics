@@ -67,8 +67,8 @@ async function fetchArticleDetail(url: string): Promise<Partial<Article>> {
 }
 
 /**
- * 日経ビジネスのランキングページから有料記事を全セクション取得
- * セクション: 有料会員 / 人気記事 / ブックマーク数 / 経営層が読んだ
+ * 日経ビジネスのランキング・最新ページから記事を全セクション取得
+ * ランキング: 有料会員 / 人気記事 / ブックマーク数 / 経営層が読んだ + /latest/
  */
 export async function fetchArticles(): Promise<Article[]> {
   try {
@@ -78,13 +78,11 @@ export async function fetchArticles(): Promise<Article[]> {
     const seenUrls = new Set<string>();
     const articles: Article[] = [];
 
-    // 全セクションの記事を取得（有料記事のみ）
+    let duplicateCount = 0;
+
+    // 全セクションの記事を取得（有料・無料問わず）
     $('.p-articleList.-ranking .p-articleList_item').each((_, element) => {
       const $el = $(element);
-
-      // 有料記事のみ（-titleLockクラスで判定）
-      const dateEl = $el.find('.p-articleList_item_date');
-      if (!dateEl.hasClass('-titleLock')) return;
 
       const relativeUrl = $el.find('.p-articleList_item_link').attr('href');
       const title = $el.find('.p-articleList_item_title').text().trim();
@@ -95,9 +93,13 @@ export async function fetchArticles(): Promise<Article[]> {
         ? relativeUrl
         : `${config.baseUrl}${relativeUrl}`;
 
-      // URL重複除去
-      if (seenUrls.has(fullUrl)) return;
-      seenUrls.add(fullUrl);
+      // URL正規化（末尾スラッシュ統一、クエリパラメータ除去）して重複チェック
+      const normalizedUrl = fullUrl.split('?')[0].replace(/\/+$/, '');
+      if (seenUrls.has(normalizedUrl)) {
+        duplicateCount++;
+        return;
+      }
+      seenUrls.add(normalizedUrl);
 
       const article: Article = { title, url: fullUrl };
 
@@ -107,13 +109,65 @@ export async function fetchArticles(): Promise<Article[]> {
       const description = $el.find('.p-articleList_item_description').text().trim();
       if (description) article.summary = description;
 
+      const dateEl = $el.find('.p-articleList_item_date');
       const date = dateEl.text().trim();
       if (date) article.publishDate = date;
 
       articles.push(article);
     });
 
-    console.log(`Found ${articles.length} paid articles from ranking (deduplicated)`);
+    console.log(`Found ${articles.length} articles from ranking (skipped ${duplicateCount} duplicates)`);
+
+    // /latest/ ページから最新記事を追加取得
+    const latestUrl = `${config.baseUrl}/latest/`;
+    console.log(`Fetching ${config.label} latest...`);
+    await sleep(1500);
+    try {
+      const latestResponse = await axios.get(latestUrl, { headers: HEADERS });
+      const $latest = cheerio.load(latestResponse.data);
+      let latestCount = 0;
+      let latestDuplicateCount = 0;
+
+      $latest('.p-articleList_item').each((_, element) => {
+        const $el = $latest(element);
+        const relativeUrl = $el.find('.p-articleList_item_link').attr('href')
+          || $el.find('a').attr('href');
+        const title = $el.find('.p-articleList_item_title').text().trim()
+          || $el.find('a').text().trim();
+
+        if (!title || !relativeUrl) return;
+
+        const fullUrl = relativeUrl.startsWith('http')
+          ? relativeUrl
+          : `${config.baseUrl}${relativeUrl}`;
+
+        const normalizedUrl = fullUrl.split('?')[0].replace(/\/+$/, '');
+        if (seenUrls.has(normalizedUrl)) {
+          latestDuplicateCount++;
+          return;
+        }
+        seenUrls.add(normalizedUrl);
+
+        const article: Article = { title, url: fullUrl };
+
+        const subTitle = $el.find('.p-articleList_item_subTitle').text().trim();
+        if (subTitle) article.category = subTitle;
+
+        const description = $el.find('.p-articleList_item_description').text().trim();
+        if (description) article.summary = description;
+
+        const dateEl = $el.find('.p-articleList_item_date');
+        const date = dateEl.text().trim();
+        if (date) article.publishDate = date;
+
+        articles.push(article);
+        latestCount++;
+      });
+
+      console.log(`Found ${latestCount} articles from /latest/ (skipped ${latestDuplicateCount} duplicates)`);
+    } catch (error) {
+      console.error(`Error fetching /latest/:`, error);
+    }
 
     // 各記事の詳細を取得
     console.log('\nFetching article details...');
