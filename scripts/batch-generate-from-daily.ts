@@ -1,5 +1,10 @@
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
 import path from 'path';
+import { getJSTTimestamp } from '../src/utils';
+import { getSource } from '../src/sources-registry';
+
+const SOURCE_ID = 'nikkei';
+const config = getSource(SOURCE_ID);
 
 interface ArticleEntry {
   title: string;
@@ -282,7 +287,7 @@ function main() {
   const articleDir = path.join('articles', dateKey);
   ensureDir(articleDir);
 
-  const statusPath = path.join('data', 'nikkei', 'article-status.json');
+  const statusPath = path.join('data', SOURCE_ID, 'article-status.json');
   const statusData = existsSync(statusPath) ? JSON.parse(readFileSync(statusPath, 'utf-8')) : {};
   if (!statusData[dateKey]) {
     statusData[dateKey] = [];
@@ -290,7 +295,7 @@ function main() {
     statusData[dateKey] = dedupeRecords(statusData[dateKey]);
   }
 
-  const draftedAt = new Date().toISOString();
+  const draftedAt = getJSTTimestamp();
   const usedSlugs = new Set<string>();
   Object.values(statusData).forEach((entries: any) => {
     entries.forEach((entry: any) => usedSlugs.add(entry.slug));

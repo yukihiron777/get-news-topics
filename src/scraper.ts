@@ -1,8 +1,11 @@
 import axios from 'axios';
 import * as cheerio from 'cheerio';
 import { Article } from './types';
+import { getSource } from './sources-registry';
 
 export type { Article };
+
+const config = getSource('nikkei');
 
 export async function fetchArticleDetail(url: string): Promise<Partial<Article>> {
   try {
@@ -69,10 +72,10 @@ export async function fetchArticleDetail(url: string): Promise<Partial<Article>>
 export async function fetchNikkeiTopNews(date?: string): Promise<Article[]> {
   try {
     // dateが指定されている場合はYYYYMMDD形式に変換
-    let url = 'https://www.nikkei.com/access/index/?bd=hKijiSougou';
+    let url = config.url;
     if (date) {
       const dateStr = date.replace(/-/g, '');
-      url = `https://www.nikkei.com/access/index/?bc=${dateStr}&bd=hKijiSougou`;
+      url = `${config.baseUrl}/access/index/?bc=${dateStr}&bd=hKijiSougou`;
     }
 
     const response = await axios.get(url, {
@@ -105,7 +108,7 @@ export async function fetchNikkeiTopNews(date?: string): Promise<Article[]> {
       if (titleText && relativeUrl) {
         const fullUrl = relativeUrl.startsWith('http')
           ? relativeUrl
-          : `https://www.nikkei.com${relativeUrl}`;
+          : `${config.baseUrl}${relativeUrl}`;
 
         articles.push({
           title: titleText,

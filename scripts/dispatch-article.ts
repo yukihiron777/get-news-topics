@@ -1,6 +1,11 @@
 import axios from 'axios';
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import path from 'path';
+import { getJSTTimestamp } from '../src/utils';
+import { getSource } from '../src/sources-registry';
+
+const SOURCE_ID = 'nikkei';
+const config = getSource(SOURCE_ID);
 
 interface ArticleStatusRecord {
   slug: string;
@@ -18,8 +23,8 @@ interface ArticleStatusRecord {
 
 type StatusMap = Record<string, ArticleStatusRecord[]>;
 
-const STATUS_PATH = path.join('data', 'nikkei', 'article-status.json');
-const API_URL = 'https://api.github.com/repos/yukihiron777/research/dispatches';
+const STATUS_PATH = path.join('data', SOURCE_ID, 'article-status.json');
+const API_URL = `https://api.github.com/repos/${config.target!.repo}/dispatches`;
 
 function loadDotEnv() {
   const envPath = path.resolve('.env');
@@ -107,7 +112,7 @@ async function main() {
   };
 
   record.status = 'queued';
-  record.queuedAt = new Date().toISOString();
+  record.queuedAt = getJSTTimestamp();
   statusData[dateKey][index] = record;
   saveStatus(statusData);
 
@@ -125,7 +130,7 @@ async function main() {
     }
 
     record.status = 'dispatched';
-    record.dispatchedAt = new Date().toISOString();
+    record.dispatchedAt = getJSTTimestamp();
     record.dispatchId = `${record.slug}-${record.dispatchedAt}`;
     statusData[dateKey][index] = record;
     saveStatus(statusData);

@@ -1,14 +1,16 @@
 import { fetchArticles } from './scraper';
 import { saveRanking } from '../../source-storage';
-import { SOURCE_CONFIG } from './config';
+import { getSource } from '../../sources-registry';
+
+const config = getSource('toyokeizai');
 
 async function main() {
   try {
-    console.log(`Starting ${SOURCE_CONFIG.displayName} fetch...`);
+    console.log(`Starting ${config.label} fetch...`);
     const articles = await fetchArticles();
 
     console.log('\nSaving ranking data...');
-    await saveRanking(SOURCE_CONFIG.name, articles);
+    await saveRanking(config.id, articles);
     console.log('Done');
   } catch (error) {
     console.error('Failed to fetch or save:', error);

@@ -4,5 +4,8 @@ dist/
 .env
 .DS_Store
 
+# np-docsからDLされるレジストリ（チェックインしない）
+sources.json
+
 # データファイル（必要に応じてコメントアウト）
 # data/

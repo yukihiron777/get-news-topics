@@ -2,7 +2,9 @@ import axios from 'axios';
 import * as cheerio from 'cheerio';
 import { Article } from '../../types';
 import { sleep } from '../../utils';
-import { SOURCE_CONFIG } from './config';
+import { getSource } from '../../sources-registry';
+
+const config = getSource('toyokeizai');
 
 const HEADERS = {
   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
@@ -53,8 +55,8 @@ async function fetchArticleDetail(url: string): Promise<Partial<Article>> {
  */
 export async function fetchArticles(): Promise<Article[]> {
   try {
-    console.log(`Fetching ${SOURCE_CONFIG.displayName} ranking...`);
-    const response = await axios.get(SOURCE_CONFIG.url, { headers: HEADERS });
+    console.log(`Fetching ${config.label} ranking...`);
+    const response = await axios.get(config.url, { headers: HEADERS });
     const $ = cheerio.load(response.data);
     const articles: Article[] = [];
 
@@ -77,7 +79,7 @@ export async function fetchArticles(): Promise<Article[]> {
       if (title && relativeUrl) {
         const fullUrl = relativeUrl.startsWith('http')
           ? relativeUrl
-          : `${SOURCE_CONFIG.baseUrl}${relativeUrl}`;
+          : `${config.baseUrl}${relativeUrl}`;
 
         const article: Article = { title, url: fullUrl };
 
@@ -120,7 +122,7 @@ export async function fetchArticles(): Promise<Article[]> {
 
     return articles;
   } catch (error) {
-    console.error(`Error fetching ${SOURCE_CONFIG.displayName}:`, error);
+    console.error(`Error fetching ${config.label}:`, error);
     throw error;
   }
 }
