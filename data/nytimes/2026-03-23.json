@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-23T04:29:56+09:00",
+  "timestamp": "2026-03-23T08:25:26+09:00",
   "articles": [
     {
       "title": "Israel Thought It Could Spur Rebellion Inside Iran. That Hasn’t Happened.",
@@ -688,6 +688,231 @@
         "Economic Policy Institute",
         "Labor Department (US)",
         "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Israel’s Missile Defense Under Scrutiny After Iranian Attack",
+      "url": "https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html",
+      "summary": "Two missiles landed hours apart, wreaking havoc in two towns near a heavily guarded nuclear site in the Negev Desert.",
+      "author": "Isabel Kershner",
+      "publishDate": "2026-03-22T21:15:18.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Missiles and Missile Defense Systems",
+        "Arad (Israel)",
+        "Dimona (Israel)",
+        "Bombs and Explosives",
+        "Netanyahu, Benjamin",
+        "Israel",
+        "Iran"
+      ]
+    },
+    {
+      "title": "Taylor Frankie Paul and the Downfall of the ‘Bachelor’ Empire",
+      "url": "https://www.nytimes.com/2026/03/22/arts/taylor-frankie-paul-bachelorette-canceled.html",
+      "summary": "As competing dating shows flaunt modern norms, the ABC franchise finds itself mired in scandals and stymied by its traditional approach to love.",
+      "author": "Reggie Ugwu and Shivani Gonzalez",
+      "publishDate": "2026-03-22T21:27:00.000Z",
+      "category": "Reality Television",
+      "tags": [
+        "Reality Television",
+        "Dating and Relationships",
+        "ABC Inc",
+        "Walt Disney Company",
+        "Paul, Taylor Frankie",
+        "The Bachelor (TV Program)",
+        "Bachelor in Paradise (TV Program)",
+        "The Bachelorette (TV Program)",
+        "The Golden Bachelor (TV Program)",
+        "The Golden Bachelorette (TV Program)"
+      ]
+    },
+    {
+      "title": "Trump Says He Is the ‘Least Racist’ President. But His Term Echoes a Grim Past.",
+      "url": "https://www.nytimes.com/2026/03/01/us/politics/trump-racism-woodrow-wilson.html",
+      "summary": "Woodrow Wilson’s presidency has taken on new resonance among historians and critics of President Trump, particularly when it comes to race.",
+      "author": "Erica L. Green",
+      "publishDate": "2026-03-22T19:24:09.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "Wilson, Woodrow",
+        "Trump, Donald J",
+        "United States Politics and Government",
+        "Black People",
+        "Discrimination",
+        "Diversity Initiatives",
+        "Civil Rights and Liberties",
+        "Race and Ethnicity",
+        "Presidents and Presidency (US)",
+        "Government Employees"
+      ]
+    },
+    {
+      "title": "Anti-Muslim Comments by G.O.P. Congressman Reflect a Rising Trend",
+      "url": "https://www.nytimes.com/2026/03/22/us/politics/ogles-republicans-anti-muslim.html",
+      "summary": "On Capitol Hill and in Nashville, comments by Representative Andy Ogles of Tennessee have sown division and underscored a growing tolerance on the right for Islamophobia.",
+      "author": "Annie Karni and Emily Cochrane",
+      "publishDate": "2026-03-22T17:50:17.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Muslim Americans",
+        "Discrimination",
+        "Religion and Belief",
+        "Muslims and Islam",
+        "US and Israeli Attack on Iran (2026)",
+        "Shariah (Islamic Law)",
+        "Council on American-Islamic Relations",
+        "Republican Party",
+        "Fine, Randy (1974- )"
+      ]
+    },
+    {
+      "title": "French Local Elections Are Yardstick for Far Right. Initial Results Are Mixed.",
+      "url": "https://www.nytimes.com/2026/03/22/world/europe/france-mayor-elections.html",
+      "summary": "France’s municipal elections ended on Sunday evening. Full results were not expected for hours, but the first projections suggested the far right may not have made major gains.",
+      "author": "Mark Landler and Catherine Porter",
+      "publishDate": "2026-03-22T21:03:57.000Z",
+      "category": "Elections",
+      "tags": [
+        "Elections",
+        "France",
+        "National Rally (France)",
+        "France Unbowed (Political Party)",
+        "Socialist Party (France)",
+        "Right-Wing Extremism and Alt-Right",
+        "Politics and Government"
+      ]
+    },
+    {
+      "title": "The ‘Hunger Games,’ Hamptons-Style: Hiring a Private Chef for Summer",
+      "url": "https://www.nytimes.com/2026/03/21/nyregion/hamptons-private-chef-summer.html",
+      "summary": "On New York’s eastern shore, the wealthy are already competing to secure a chef for the season.",
+      "author": "Dionne Searcey",
+      "publishDate": "2026-03-22T17:38:04.000Z",
+      "category": "Chefs",
+      "tags": [
+        "Hamptons (NY)",
+        "Chefs",
+        "High Net Worth Individuals",
+        "Luxury Goods and Services",
+        "Cooking and Cookbooks",
+        "Summer (Season)",
+        "Kitchens"
+      ]
+    },
+    {
+      "title": "A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began.",
+      "url": "https://www.nytimes.com/2026/03/22/us/meteor-hunters-ohio-cleveland.html",
+      "summary": "After a seven-ton fireball exploded above the Cleveland area, a group of meteorite hunters descended too, in the name of science — and possibly cash.",
+      "author": "Billy Witz",
+      "publishDate": "2026-03-22T15:42:36.000Z",
+      "category": "Meteors and Meteorites",
+      "tags": [
+        "Meteors and Meteorites",
+        "Treasure Troves",
+        "Ohio",
+        "National Aeronautics and Space Administration",
+        "vis-photo"
+      ]
+    },
+    {
+      "title": "Meteorite Crashes Through Roof of House Near Houston",
+      "url": "https://www.nytimes.com/2026/03/22/us/meteorite-crash-texas-home.html",
+      "summary": "No one was injured, but a woman was startled on Saturday when a meteorite pierced the roof of her home, ricocheted off the floor and struck a bedroom ceiling.",
+      "author": "Johnny Diaz",
+      "publishDate": "2026-03-22T19:41:02.000Z",
+      "category": "Meteors and Meteorites",
+      "tags": [
+        "Meteors and Meteorites",
+        "Harris County (Tex)",
+        "Texas"
+      ]
+    },
+    {
+      "title": "Heat Wave in California and Other Western States Wilts a More Air-Conditioned U.S.",
+      "url": "https://www.nytimes.com/2026/03/22/us/heat-wave-air-conditioning-california-utah-colorado-oklahoma.html",
+      "summary": "In recent years, more homes have added air-conditioning, something that may come in handy this week as some areas are expected to see temperatures 40 degrees above normal.",
+      "author": "Alan Blinder and Sonia A. Rao",
+      "publishDate": "2026-03-22T21:47:38.000Z",
+      "category": "Heat and Heat Waves",
+      "tags": [
+        "Heat and Heat Waves",
+        "Air Conditioning",
+        "National Weather Service",
+        "Arizona",
+        "California",
+        "San Francisco (Calif)",
+        "Seattle (Wash)"
+      ]
+    },
+    {
+      "title": "Who Is Antigone? The 2500-Year-Old Rebel With a Cause.",
+      "url": "https://www.nytimes.com/2026/03/22/theater/antigone-theater-art-sophocles-adaptations.html",
+      "summary": "“Antigone” gave us the original “bad girl,” but its themes go beyond that. How do adaptations keep making Sophocles’ ideas about democracy and theater new?",
+      "author": "Helen Shaw",
+      "publishDate": "2026-03-22T17:41:10.000Z",
+      "category": "Theater",
+      "tags": [
+        "Theater",
+        "Theater (Off Broadway)",
+        "Democracy (Theory and Philosophy)",
+        "Antigone (Play)",
+        "Sophocles"
+      ]
+    },
+    {
+      "title": "J. Michael Bishop, Nobel Prize Winner for Cancer Research, Dies at 90",
+      "url": "https://www.nytimes.com/2026/03/22/obituaries/j-michael-bishop-dead.html",
+      "summary": "He helped discover cancer-causing genes. Later, as chancellor of the University of California, San Francisco, he led a major expansion.",
+      "author": "Delthia Ricks",
+      "publishDate": "2026-03-22T19:00:02.000Z",
+      "category": "Deaths (Obituaries)",
+      "tags": [
+        "Michael Bishop, J",
+        "Deaths (Obituaries)",
+        "Cancer",
+        "Genetics and Heredity",
+        "Research",
+        "Nobel Prizes",
+        "Colleges and Universities",
+        "University of California, San Francisco",
+        "Varmus, Harold E"
+      ]
+    },
+    {
+      "title": "Attack on a Sudan Hospital Kills Dozens, Head of W.H.O. Says",
+      "url": "https://www.nytimes.com/2026/03/22/world/africa/sudan-hospital-darfur-attack.html",
+      "summary": "The group’s director general said 13 children were among those killed in the latest violence in the Darfur region, and he decried the targeting of health care facilities in the civil war.",
+      "author": "Lynsey Chutel",
+      "publishDate": "2026-03-22T15:47:02.000Z",
+      "category": "Civilian Casualties",
+      "tags": [
+        "Civilian Casualties",
+        "War and Armed Conflicts",
+        "Hospitals",
+        "Rapid Support Forces (Sudan)",
+        "Sudanese Armed Forces",
+        "United Nations",
+        "World Health Organization",
+        "Darfur (Sudan)",
+        "Sudan",
+        "Tedros Adhanom Ghebreyesus"
+      ]
+    },
+    {
+      "title": "Death of University of Alabama Student in Barcelona Was Likely an Accident, Police Say",
+      "url": "https://www.nytimes.com/2026/03/19/world/europe/american-student-missing-spain-barcelona-james-gracey.html",
+      "summary": "James Gracey, 20, a student at the University of Alabama, went missing during a visit to a beachfront nightclub in Barcelona. His body was found on Thursday, the police said.",
+      "author": "Jonathan Wolfe, Aimee Ortiz and Rylee Kirk",
+      "publishDate": "2026-03-20T10:40:17.000Z",
+      "category": "Deaths (Fatalities)",
+      "tags": [
+        "Deaths (Fatalities)",
+        "Missing Persons",
+        "Barcelona (Spain)",
+        "University of Alabama"
       ]
     }
   ]
