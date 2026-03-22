@@ -51,6 +51,10 @@ jobs:
         run: npm run fetch:toyokeizai
         continue-on-error: true
 
+      - name: Fetch NYTimes news
+        run: npm run fetch:nytimes
+        continue-on-error: true
+
       - name: Commit and push if changed
         run: |
           git config --global user.name 'github-actions[bot]'
