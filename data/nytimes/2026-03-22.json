@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-22T19:25:42+09:00",
+  "timestamp": "2026-03-22T21:36:16+09:00",
   "articles": [
     {
       "title": "Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?",
@@ -671,6 +671,59 @@
         "Jordan, Michael B",
         "O'Brien, Conan",
         "Redford, Robert"
+      ]
+    },
+    {
+      "title": "The Billionaire Funding France’s Far Right",
+      "url": "https://www.nytimes.com/2026/03/22/world/europe/pierre-eduoard-sterin-france-far-right.html",
+      "summary": "Pierre-Édouard Stérin is financing projects to make France less Muslim, more Catholic and more capitalist. He says his program has trained thousands running for municipal office on Sunday.",
+      "author": "Catherine Porter",
+      "publishDate": "2026-03-22T11:35:09.000Z",
+      "category": "Religion-State Relations",
+      "tags": [
+        "Sterin, Pierre-Edouard",
+        "Religion-State Relations",
+        "Right-Wing Extremism and Alt-Right",
+        "Budgets and Budgeting",
+        "Politics and Government",
+        "Philanthropy",
+        "Muslim Veiling",
+        "Immigration and Emigration",
+        "Muslims and Islam",
+        "Discrimination"
+      ]
+    },
+    {
+      "title": "In Odesa, Dressing Up Is Living",
+      "url": "https://www.nytimes.com/2026/03/22/opinion/fashion-odesa-ukraine-war.html",
+      "summary": "In Odesa, the older generation continues to dress up, showing people’s determination to carry on despite the blows of history.",
+      "author": "Alyona Synenko and Olga Engibarova",
+      "publishDate": "2026-03-22T11:00:07.000Z",
+      "category": "Age, Chronological",
+      "tags": [
+        "Age, Chronological",
+        "Youth",
+        "Fashion and Apparel",
+        "Buildings (Structures)",
+        "Humanitarian Aid",
+        "Scarves",
+        "Ukraine",
+        "Odessa (Ukraine)",
+        "ukraine war"
+      ]
+    },
+    {
+      "title": "Introducing the Robot Umpire",
+      "url": "https://www.nytimes.com/2026/03/22/briefing/introducing-the-robot-umpire.html",
+      "summary": "We explain a technological change that’s about to transform baseball.",
+      "author": "Matthew Cullen",
+      "publishDate": "2026-03-22T11:35:52.000Z",
+      "category": "internal-storyline-no",
+      "tags": [
+        "internal-storyline-no",
+        "Baseball",
+        "Major League Baseball",
+        "Robots and Robotics"
       ]
     }
   ]
