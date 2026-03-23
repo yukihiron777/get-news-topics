@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-24T04:53:14+09:00",
+  "timestamp": "2026-03-24T08:29:25+09:00",
   "articles": [
     {
       "title": "Trump Delays Energy Strikes, but Iran’s Infrastructure is Already Battered",
@@ -712,6 +712,178 @@
         "Muslims and Islam",
         "United States International Relations",
         "Freedom of Religion"
+      ]
+    },
+    {
+      "title": "For Canadians, Another Reason to Avoid Traveling to the U.S.",
+      "url": "https://www.nytimes.com/2026/03/23/nyregion/canada-laguardia-crash-travel-reaction.html",
+      "summary": "The collision between an Air Canada jet and a fire truck in New York brought the shortcomings of U.S. traffic control in focus.",
+      "author": "Ian Austen",
+      "publishDate": "2026-03-23T22:30:52.000Z",
+      "category": "Airlines and Airplanes",
+      "tags": [
+        "Air Canada",
+        "Bombardier Inc",
+        "Jazz Aviation LP",
+        "LaGuardia Airport (Queens, NY)",
+        "Airlines and Airplanes",
+        "Aviation Accidents, Safety and Disasters",
+        "Air Traffic Control",
+        "Canada"
+      ]
+    },
+    {
+      "title": "Pentagon Adopts New Limits for Journalists After Court Loss",
+      "url": "https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html",
+      "summary": "The Defense Department said it would close the Pentagon’s work area for journalists, among other changes, after a judge found the existing media policy unconstitutional.",
+      "author": "Erik Wemple",
+      "publishDate": "2026-03-23T22:27:39.000Z",
+      "category": "Decisions and Verdicts",
+      "tags": [
+        "Decisions and Verdicts",
+        "United States Defense and Military Forces",
+        "News and News Media",
+        "Courts and the Judiciary",
+        "Defense Department",
+        "New York Times",
+        "Friedman, Paul L"
+      ]
+    },
+    {
+      "title": "Trump Administration Targets Harvard With Two New Investigations",
+      "url": "https://www.nytimes.com/2026/03/23/us/politics/harvard-trump-antisemitism.html",
+      "summary": "The inquiries target antisemitism and admissions policies. The university called it retaliation for refusing to give in to the administration’s demands.",
+      "author": "Michael C. Bender and Alan Blinder",
+      "publishDate": "2026-03-23T22:04:07.000Z",
+      "category": "Colleges and Universities",
+      "tags": [
+        "Colleges and Universities",
+        "Admissions Standards",
+        "United States Politics and Government",
+        "Anti-Semitism",
+        "Education Department (US)",
+        "Harvard University",
+        "McMahon, Linda E",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Trump Visits Elvis’s Graceland Estate",
+      "url": "https://www.nytimes.com/2026/03/23/us/politics/trump-memphis-elvis-graceland.html",
+      "summary": "Amid a war with Iran, rising gas prices and a government shutdown, the president detoured on a trip to Memphis to visit the king of rock’s mansion.",
+      "author": "Chris Cameron",
+      "publishDate": "2026-03-23T22:05:47.000Z",
+      "tags": [
+        "Presley, Elvis",
+        "Trump, Donald J",
+        "Memphis (Tenn)",
+        "Graceland"
+      ]
+    },
+    {
+      "title": "‘Don’t Make Any Deal’: Trump Tells Republicans to Hold Firm on Shutdown Talks",
+      "url": "https://www.nytimes.com/2026/03/23/us/politics/trump-shutdown-deal.html",
+      "summary": "The president is using the standoff over funding the Department of Homeland Security as leverage to pass a strict voter ID bill. Critics say the bill would place an undue burden on eligible voters.",
+      "author": "Erica L. Green and Michael Gold",
+      "publishDate": "2026-03-23T22:52:49.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Airport Security",
+        "Voting Rights, Registration and Requirements",
+        "Airports",
+        "Shutdowns (Institutional)",
+        "Homeland Security Department",
+        "Immigration and Customs Enforcement (US)",
+        "Republican Party",
+        "Senate",
+        "Transportation Security Administration"
+      ]
+    },
+    {
+      "title": "ICE Agents Are Now Patrolling U.S. Airports. Here’s What to Know.",
+      "url": "https://www.nytimes.com/2026/03/23/travel/ice-agents-tsa-airports.html",
+      "summary": "The deployment comes as a battle over Department of Homeland Security funding has led to closed security checkpoints, long lines and missed flights.",
+      "author": "Gabe Castro-Root",
+      "publishDate": "2026-03-23T21:52:28.000Z",
+      "category": "Airport Security",
+      "tags": [
+        "Airport Security",
+        "Homeland Security Department",
+        "Immigration and Customs Enforcement (US)",
+        "Transportation Security Administration",
+        "Homan, Thomas D"
+      ]
+    },
+    {
+      "title": "Trauma Bonding: What It Means and How to Spot the Signs",
+      "url": "https://www.nytimes.com/2026/03/19/well/mind/trauma-bond.html",
+      "summary": "The phrase has been used online to describe connections built through shared suffering, but experts say that’s all wrong.",
+      "author": "Christina Caron",
+      "publishDate": "2026-03-19T15:00:04.000Z",
+      "category": "Mental Health and Disorders",
+      "tags": [
+        "Mental Health and Disorders",
+        "Domestic Violence",
+        "Psychology and Psychologists",
+        "Post-Traumatic Stress Disorder",
+        "Therapy and Rehabilitation"
+      ]
+    },
+    {
+      "title": "Carbon Capture Technology Is Helping This Pub Make Beer",
+      "url": "https://www.nytimes.com/2026/03/23/climate/beer-carbon-capture.html",
+      "summary": "A pub in California is pulling carbon dioxide from the air to carbonate pints. If the business model works, it could give the broader carbon-capture industry a boost.",
+      "author": "Rachel Nuwer and Ian C. Bates",
+      "publishDate": "2026-03-23T15:30:46.000Z",
+      "category": "Beer",
+      "tags": [
+        "Beer",
+        "Carbon Capture and Sequestration",
+        "Carbon Dioxide",
+        "Greenhouse Gas Emissions",
+        "Global Warming",
+        "Sustainable Living"
+      ]
+    },
+    {
+      "title": "‘Everything After This Will Be Harder’: Gen. Stanley McChrystal on Iran",
+      "url": "https://www.nytimes.com/2026/03/23/opinion/trump-iran-general-mcchrystal.html",
+      "summary": "David French talks with the retired general about the “great seduction” America fell for in Iran.",
+      "author": "David French, Victoria Chamberlin and Derek Arthur",
+      "publishDate": "2026-03-23T20:52:44.000Z",
+      "category": "audio-neutral-informative",
+      "tags": [
+        "audio-neutral-informative",
+        "Iran",
+        "McChrystal, Stanley A",
+        "War and Armed Conflicts",
+        "United States Defense and Military Forces",
+        "US and Israeli Attack on Iran (2026)",
+        "Trump, Donald J",
+        "Diyala Province (Iraq)"
+      ]
+    },
+    {
+      "title": "Supreme Court Seems Poised to Reject Late-Arriving Mail-In Ballots",
+      "url": "https://www.nytimes.com/2026/03/23/briefing/supreme-court-mail-in-ballots-laguardia-crash.html",
+      "summary": "Also, audio suggests confusion before deadly LaGuardia crash. Here’s the latest at the end of Monday.",
+      "author": "Matthew Cullen",
+      "publishDate": "2026-03-23T21:45:22.000Z"
+    },
+    {
+      "title": "Boston University Pulls Pride Flags, Raising Free Speech Worries",
+      "url": "https://www.nytimes.com/2026/03/23/us/boston-university-pride-flags-free-speech.html",
+      "summary": "The university said the flags broke a rule against hanging signs, a policy embraced by other campuses that cracked down on protests. Professors and others say such rules chill speech.",
+      "author": "Alan Blinder",
+      "publishDate": "2026-03-23T23:08:48.000Z",
+      "category": "Colleges and Universities",
+      "tags": [
+        "Colleges and Universities",
+        "Homosexuality and Bisexuality",
+        "Boston University",
+        "Boston (Mass)",
+        "Massachusetts"
       ]
     }
   ]
