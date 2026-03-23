@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-23T17:07:32+09:00",
+  "timestamp": "2026-03-23T21:49:34+09:00",
   "articles": [
     {
       "title": "Israel Thought It Could Spur Rebellion Inside Iran. That Hasn’t Happened.",
@@ -1207,6 +1207,432 @@
         "Oil (Petroleum) and Gasoline",
         "International Trade and World Market",
         "Ships and Shipping"
+      ]
+    },
+    {
+      "title": "Energy Attacks in War on Iran Could Turn Economic Shock Into Long-Term Damage",
+      "url": "https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html",
+      "summary": "A new phase targeting oil and gas infrastructure in the Persian Gulf threatens to hurt businesses and customers around the world for months or even years.",
+      "author": "Patricia Cohen",
+      "publishDate": "2026-03-23T09:02:31.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Oil (Petroleum) and Gasoline",
+        "International Trade and World Market",
+        "Prices (Fares, Fees and Rates)",
+        "Natural Gas",
+        "Economic Conditions and Trends"
+      ]
+    },
+    {
+      "title": "Markets Rally as Trump’s Iran Deadline Is Deferred",
+      "url": "https://www.nytimes.com/2026/03/23/business/dealbook/trump-iran-energy-attacks.html",
+      "summary": "Stock futures rose and oil prices fell after President Trump cited “very good and productive” talks with Iran over ending the war.",
+      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount",
+      "publishDate": "2026-03-23T11:48:42.000Z",
+      "category": "internal-storyline-no",
+      "tags": [
+        "internal-storyline-no",
+        "Iran",
+        "Trump, Donald J",
+        "Oil (Petroleum) and Gasoline",
+        "US and Israeli Attack on Iran (2026)",
+        "Stocks and Bonds"
+      ]
+    },
+    {
+      "title": "A Deadly Collision at LaGuardia Airport, and Trump Postpones Strait of Hormuz Deadline",
+      "url": "https://www.nytimes.com/2026/03/23/podcasts/the-headlines/runway-collision-laguardia-airport-and-trumps-ultimatum-iran.html",
+      "summary": "Plus, chasing meteorites for money.",
+      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Ian Stewart and Paulina Villegas",
+      "publishDate": "2026-03-23T12:09:22.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Iran-Israel War (2025- )",
+        "Meteors and Meteorites",
+        "Airport Security",
+        "LaGuardia Airport (Queens, NY)",
+        "Immigration and Customs Enforcement (US)",
+        "Trump, Donald J",
+        "Ohio",
+        "internal-open-access-audio"
+      ]
+    },
+    {
+      "title": "Deadly Plane Crash at LaGuardia Airport: What We Know",
+      "url": "https://www.nytimes.com/2026/03/23/nyregion/laguardia-airport-air-canada-plane-crash.html",
+      "summary": "Two pilots were killed and dozens of others were injured when a regional jet collided with a fire truck on the runway.",
+      "author": "Ali Watkins",
+      "publishDate": "2026-03-23T12:34:09.000Z",
+      "category": "Airlines and Airplanes",
+      "tags": [
+        "Airlines and Airplanes",
+        "Aviation Accidents, Safety and Disasters",
+        "Airports",
+        "Deaths (Fatalities)",
+        "Shutdowns (Institutional)",
+        "LaGuardia Airport (Queens, NY)",
+        "Port Authority of New York and New Jersey",
+        "New York City"
+      ]
+    },
+    {
+      "title": "Suspect in Chicago Student’s Killing Was in U.S. Illegally, D.H.S. Says",
+      "url": "https://www.nytimes.com/2026/03/22/us/loyola-student-death-arrest.html",
+      "summary": "Sheridan Gorman, 18, was killed last week near Loyola University Chicago. The Trump administration has sought to highlight crimes committed by undocumented people in its deportation campaign.",
+      "author": "Mitch Smith",
+      "publishDate": "2026-03-23T03:06:39.000Z",
+      "category": "Murders, Attempted Murders and Homicides",
+      "tags": [
+        "Chicago (Ill)",
+        "Murders, Attempted Murders and Homicides",
+        "Illegal Immigration",
+        "Loyola University Chicago",
+        "Homeland Security Department"
+      ]
+    },
+    {
+      "title": "Christopher Columbus Statue Is Installed on White House Grounds",
+      "url": "https://www.nytimes.com/2026/03/22/arts/design/columbus-statue-trump-white-house.html",
+      "summary": "The statue of the explorer, a replica of one that protesters toppled in 2020, was placed outside the Eisenhower Executive Office Building.",
+      "author": "Julia Jacobs",
+      "publishDate": "2026-03-22T18:50:28.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Sculpture",
+        "White House Building (Washington, DC)",
+        "Monuments and Memorials (Structures)",
+        "Demonstrations, Protests and Riots",
+        "George Floyd Protests (2020)",
+        "Italian-Americans",
+        "White House Historical Assn",
+        "National Endowment for the Humanities",
+        "Columbus, Christopher"
+      ]
+    },
+    {
+      "title": "Takeaways From the Times’s Inside Look at the C.D.C.",
+      "url": "https://www.nytimes.com/2026/03/23/magazine/takeaways-cdc-oral-history.html",
+      "summary": "Many current and former employees say the actions of Health Secretary Robert F. Kennedy Jr. are undermining the agency’s role in safeguarding public health.",
+      "author": "Jeneen Interlandi",
+      "publishDate": "2026-03-23T09:30:05.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "Centers for Disease Control and Prevention",
+        "Kennedy, Robert F Jr",
+        "Monarez, Susan",
+        "Trump, Donald J",
+        "United States Politics and Government",
+        "Medicine and Health",
+        "Daskalakis, Demetre C",
+        "Measles",
+        "Vaccination and Immunization"
+      ]
+    },
+    {
+      "title": "Justices to Hear Challenge to State Mail-in Ballot Law",
+      "url": "https://www.nytimes.com/2026/03/23/us/supreme-court-mail-in-ballots.html",
+      "summary": "The case focuses on Mississippi’s mail-in ballot law, but the outcome could upend similar rules in more than a dozen states and territories.",
+      "author": "Abbie VanSickle",
+      "publishDate": "2026-03-23T09:02:05.000Z",
+      "category": "Federal-State Relations (US)",
+      "tags": [
+        "Federal-State Relations (US)",
+        "United States Politics and Government",
+        "Midterm Elections (2026)",
+        "Decisions and Verdicts",
+        "Absentee Voting",
+        "Law and Legislation",
+        "Elections, Courts and the Judiciary",
+        "Voting Rights Act (1965)",
+        "Suits and Litigation (Civil)",
+        "Voter Fraud (Election Fraud)"
+      ]
+    },
+    {
+      "title": "When Voters Worry About ‘Affordability,’ Many Point to Health Care",
+      "url": "https://www.nytimes.com/2026/03/23/us/politics/when-voters-worry-about-affordability-many-point-to-health-care.html",
+      "summary": "Democrats have had limited political success running on the Affordable Care Act, even with its relative popularity. Now President Trump’s health care cuts may have given the issue new resonance.",
+      "author": "Ruth Igielnik and Kate Zernike",
+      "publishDate": "2026-03-23T09:00:32.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Health Insurance and Managed Care",
+        "Patient Protection and Affordable Care Act (2010)",
+        "Midterm Elections (2026)",
+        "One Big Beautiful Bill Act (2025)",
+        "Trump, Donald J",
+        "Perriello, Tom"
+      ]
+    },
+    {
+      "title": "‘Real Housewives’ Has Been a Meme Gold Mine for 20 Years",
+      "url": "https://www.nytimes.com/2026/03/23/arts/television/real-housewives-memes-bravo.html",
+      "summary": "The Bravo TV empire, which turns 20 this month, has also been a gold mine for the internet.",
+      "author": "Derrick Bryson Taylor",
+      "publishDate": "2026-03-23T09:00:19.000Z",
+      "category": "Reality Television",
+      "tags": [
+        "Reality Television",
+        "Social Media",
+        "Content Type: Service",
+        "Bravo",
+        "Real Housewives (TV Program)",
+        "The Real Housewives of Orange County (TV Program)",
+        "Burruss, Kandi",
+        "Nene Leakes",
+        "Giudice, Teresa",
+        "Medley, Dorinda"
+      ]
+    },
+    {
+      "title": "Born Abroad and Fearful of ICE, Adoptees Try to Prove They Belong",
+      "url": "https://www.nytimes.com/2026/03/23/us/politics/foreign-adoptees-citizenship-immigration-enforcement.html",
+      "summary": "Up to 200,000 people adopted as children from abroad are vulnerable to deportation by an administration searching for problems with their citizenship.",
+      "author": "Elizabeth Williamson",
+      "publishDate": "2026-03-23T09:01:29.000Z",
+      "category": "Adoptions",
+      "tags": [
+        "Adoptions",
+        "Citizenship and Naturalization",
+        "Deportation",
+        "Trump, Donald J",
+        "United States Politics and Government",
+        "Drivers Licenses",
+        "Passports",
+        "Immigration and Emigration",
+        "Birth Certificates",
+        "Immigration and Customs Enforcement (US)"
+      ]
+    },
+    {
+      "title": "Immigrant Detentions and Deportations Leave Pets Behind",
+      "url": "https://www.nytimes.com/2026/03/23/us/trump-ice-deportations-pets-left-behind.html",
+      "summary": "As immigrant detentions and self-deportations soar, animal welfare groups in cities like New Orleans scramble to feed, foster and re-home the pets left behind.",
+      "author": "Miriam Jordan and Kathleen Flynn",
+      "publishDate": "2026-03-23T09:00:24.000Z",
+      "category": "vis-photo",
+      "tags": [
+        "vis-photo"
+      ]
+    },
+    {
+      "title": "How Epstein Helped Solve a Billionaire’s Problems With Women",
+      "url": "https://www.nytimes.com/2026/03/23/business/jeffrey-epstein-leon-black.html",
+      "summary": "The Wall Street titan Leon Black paid Jeffrey Epstein $170 million for what he said was tax and estate work. But his services went beyond that.",
+      "author": "Matthew Goldstein, Jessica Silver-Greenberg, Steve Eder and David Enrich",
+      "publishDate": "2026-03-23T09:01:44.000Z",
+      "category": "Sex Crimes",
+      "tags": [
+        "Sex Crimes",
+        "Taxation",
+        "Apollo Global Management",
+        "Dechert LLP",
+        "Nardello & Co",
+        "Black, Leon D",
+        "Epstein, Jeffrey E (1953- )",
+        "Karp, Brad S",
+        "Wyden, Ron",
+        "Private Equity"
+      ]
+    },
+    {
+      "title": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
+      "url": "https://www.nytimes.com/2026/03/23/world/europe/ukraine-drones-marketplace-military-russia.html",
+      "summary": "Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement.",
+      "author": "Maria Varenikova",
+      "publishDate": "2026-03-23T09:34:28.000Z",
+      "category": "Russian Invasion of Ukraine (2022)",
+      "tags": [
+        "Russian Invasion of Ukraine (2022)",
+        "Drones (Pilotless Planes)",
+        "Defense and Military Forces",
+        "International Relations",
+        "Firearms",
+        "North Atlantic Treaty Organization",
+        "Zelensky, Volodymyr",
+        "Ukraine",
+        "Russia"
+      ]
+    },
+    {
+      "title": "Canada’s Military Wants to Prove It Can Defend the High Arctic",
+      "url": "https://www.nytimes.com/2026/03/23/world/canada/canada-arctic-territory-military.html",
+      "summary": "Canadian soldiers transported M777 howitzers to the High Arctic to show their ability to fight in an increasingly contested part of the world. It did not go as planned.",
+      "author": "Norimitsu Onishi and Renaud Philippe",
+      "publishDate": "2026-03-23T09:00:46.000Z",
+      "category": "Defense and Military Forces",
+      "tags": [
+        "Canada",
+        "Defense and Military Forces",
+        "Arctic Regions",
+        "Weather",
+        "Carney, Mark J",
+        "Trump, Donald J",
+        "Cambridge Bay (Nunavut)",
+        "United States"
+      ]
+    },
+    {
+      "title": "Canada May Need to Lean on the US as Military Threats in the Arctic Rise",
+      "url": "https://www.nytimes.com/2026/03/23/world/americas/canada-us-arctic-military-norad.html",
+      "summary": "For the past seven decades, Canada has been the junior partner in a military agreement with the United States to protect the Canadian Arctic.",
+      "author": "Norimitsu Onishi",
+      "publishDate": "2026-03-23T09:02:11.000Z",
+      "category": "United States Defense and Military Forces",
+      "tags": [
+        "Canada",
+        "United States Defense and Military Forces",
+        "North American Aerospace Defense Command",
+        "Radar",
+        "Cold War Era",
+        "Trump, Donald J",
+        "Cambridge Bay (Nunavut)"
+      ]
+    },
+    {
+      "title": "Jewish and Muslim People Face a Wave of Hate. Can Schools Turn the Tide?",
+      "url": "https://www.nytimes.com/2026/03/23/nyregion/nyc-schools-jewish-muslim-history-lessons.html",
+      "summary": "New York City is rolling out lessons on Jewish and Muslim American history. Too often, some leaders say, what students know comes from TikTok and social media.",
+      "author": "Troy Closson",
+      "publishDate": "2026-03-23T11:05:21.000Z",
+      "category": "Education (K-12)",
+      "tags": [
+        "Education (K-12)",
+        "Children and Childhood",
+        "Discrimination",
+        "New York City",
+        "Jews and Judaism",
+        "Muslim Americans",
+        "Muslims and Islam",
+        "History (Academic Subject)",
+        "Petrzela, Natalia Mehlman",
+        "Anti-Semitism"
+      ]
+    },
+    {
+      "title": "Diabetes, Overlooked and Unchecked, Poses New Risks in Africa",
+      "url": "https://www.nytimes.com/2026/03/23/health/diabetes-africa-cameroon-type-5.html",
+      "summary": "As deaths from diabetes start to rival those from infectious threats like malaria, a new form of the condition linked to malnutrition is surfacing in patients who can afford neither screening nor care.",
+      "author": "Stephanie Nolen and Arlette Bashizi",
+      "publishDate": "2026-03-23T12:35:39.000Z",
+      "category": "Diabetes",
+      "tags": [
+        "Diabetes",
+        "Disease Rates",
+        "Deaths (Fatalities)",
+        "Malnutrition",
+        "Medicine and Health",
+        "Africa",
+        "Cameroon",
+        "your-feed-science",
+        "your-feed-healthcare"
+      ]
+    },
+    {
+      "title": "A Professional’s Guide to Spring Cleaning Your Life",
+      "url": "https://www.nytimes.com/2026/03/23/realestate/spring-cleaning-tips-professional-organizer.html",
+      "summary": "Tackle clutter, let go of sentimental objects and create a home that reflects who you are now.",
+      "author": "Alix Strauss",
+      "publishDate": "2026-03-23T09:00:07.000Z",
+      "category": "Orderliness and Clutter",
+      "tags": [
+        "Orderliness and Clutter",
+        "New Year",
+        "Content Type: Service",
+        "Real Estate and Housing (Residential)",
+        "Cleaning Services",
+        "Moving and Moving Industry"
+      ]
+    },
+    {
+      "title": "We Shouldn’t Want a World Run by Prediction Markets",
+      "url": "https://www.nytimes.com/2026/03/23/opinion/prediction-markets-gambling.html",
+      "summary": "Prediction markets teach us to look at the future as gamblers, rather than as citizens.",
+      "author": "David Wallace-Wells",
+      "publishDate": "2026-03-23T11:45:33.000Z",
+      "category": "Gambling",
+      "tags": [
+        "Gambling",
+        "Polymarket (Adventure One QSS Inc)",
+        "Kalshi Inc",
+        "Polls and Public Opinion",
+        "Mobile Commerce and Payments",
+        "Insider Trading",
+        "Securities and Commodities Violations",
+        "United States Politics and Government",
+        "Iran"
+      ]
+    },
+    {
+      "title": "Chuck Schumer: What the SAVE Act Would Really Do",
+      "url": "https://www.nytimes.com/2026/03/23/opinion/chuck-schumer-save-act.html",
+      "summary": "Republicans want to pretend it’s a voter ID bill.",
+      "author": "Chuck Schumer",
+      "publishDate": "2026-03-23T09:01:42.000Z",
+      "category": "Midterm Elections (2026)",
+      "tags": [
+        "Midterm Elections (2026)",
+        "United States Politics and Government",
+        "Voting Rights, Registration and Requirements",
+        "Republican Party",
+        "Schumer, Charles E"
+      ]
+    },
+    {
+      "title": "Death by Paper",
+      "url": "https://www.nytimes.com/2026/03/23/briefing/drug-soaked-paper.html",
+      "summary": "We examine a new innovation in drug smuggling.",
+      "author": "Sam Sifton",
+      "publishDate": "2026-03-23T12:17:34.000Z",
+      "category": "internal-storyline-no",
+      "tags": [
+        "internal-storyline-no",
+        "Drug Abuse and Traffic",
+        "Addiction (Psychology)",
+        "Prisons and Prisoners",
+        "Synthetic Cannabinoids"
+      ]
+    },
+    {
+      "title": "Jeff Webb, Who Built a Competitive Cheerleading Empire, Dies at 76",
+      "url": "https://www.nytimes.com/2026/03/22/business/jeff-webb-dead-cheerleading.html",
+      "summary": "Through Varsity Spirit, the company he established in 1974, he turned cheerleading into a multibillion-dollar juggernaut and exerted control over almost every aspect of it.",
+      "author": "Adeel Hassan",
+      "publishDate": "2026-03-23T12:18:58.000Z",
+      "category": "Deaths (Obituaries)",
+      "tags": [
+        "Webb, Jeff (Entrepreneur)",
+        "Deaths (Obituaries)",
+        "Cheerleaders",
+        "College Athletics",
+        "United States All Star Federation (USASF)",
+        "Memphis (Tenn)",
+        "Varsity Spirit Corp"
+      ]
+    },
+    {
+      "title": "Taiwan Debates Military Spending as Choices Over U.S. and China Loom",
+      "url": "https://www.nytimes.com/2026/03/23/world/asia/taiwan-defense-budget-china-us.html",
+      "summary": "Tensions in the opposition Nationalist Party could surface this week as lawmakers argue over additional defense funding intended to counter Beijing’s growing might.",
+      "author": "Chris Buckley and Amy Chang Chien",
+      "publishDate": "2026-03-23T10:29:21.000Z",
+      "category": "Politics and Government",
+      "tags": [
+        "Politics and Government",
+        "Budgets and Budgeting",
+        "Defense and Military Forces",
+        "United States International Relations",
+        "International Relations",
+        "Chinese Nationalist Party (Taiwan)",
+        "Cheng Li-wun (1969- )",
+        "Lu Shiow-yen",
+        "China",
+        "Taiwan"
       ]
     }
   ]
