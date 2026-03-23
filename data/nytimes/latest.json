@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-23T08:25:26+09:00",
+  "timestamp": "2026-03-23T13:36:11+09:00",
   "articles": [
     {
       "title": "Israel Thought It Could Spur Rebellion Inside Iran. That Hasn’t Happened.",
@@ -913,6 +913,219 @@
         "Missing Persons",
         "Barcelona (Spain)",
         "University of Alabama"
+      ]
+    },
+    {
+      "title": "At NYC Airports, Long TSA Lines and Frustrated Travelers",
+      "url": "https://www.nytimes.com/2026/03/22/nyregion/airports-tsa-delays-nyc.html",
+      "summary": "The shortage of checkpoint workers created lines of at least three hours at LaGuardia Airport. Many passengers doubted ICE agents were the solution.",
+      "author": "Tara Terranova and Ellen Yan",
+      "publishDate": "2026-03-22T23:39:23.000Z",
+      "category": "Airports",
+      "tags": [
+        "Airports",
+        "Airport Security",
+        "Illegal Immigration",
+        "Shortages",
+        "United States Politics and Government",
+        "Government Employees",
+        "Shutdowns (Institutional)",
+        "Homeland Security Department",
+        "Immigration and Customs Enforcement (US)",
+        "Kennedy International Airport (Queens, NY)"
+      ]
+    },
+    {
+      "title": "How Obama’s Strategist Discouraged Biden From Running in 2016",
+      "url": "https://www.nytimes.com/2026/03/23/us/politics/obama-strategist-biden-2016-election.html",
+      "summary": "In a new set of oral histories, David Plouffe, President Barack Obama’s political adviser, described how he urged Vice President Joseph R. Biden Jr. not to challenge Hillary Clinton for the nomination.",
+      "author": "Peter Baker",
+      "publishDate": "2026-03-23T04:01:05.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Presidential Election of 2016",
+        "Polls and Public Opinion",
+        "Primaries and Caucuses",
+        "Miller Center",
+        "University of Virginia",
+        "Biden, Joseph R Jr",
+        "Clinton, Hillary Rodham",
+        "Obama, Barack",
+        "Plouffe, David"
+      ]
+    },
+    {
+      "title": "How the G.O.P. and Democrats Are Talking About the Surge in Gas Prices",
+      "url": "https://www.nytimes.com/2026/03/22/us/politics/republicans-democrats-gas-prices-comments-midterms.html",
+      "summary": "Republicans have largely been on defense against Democratic criticism. Here are five arguments advanced by figures in both parties.",
+      "author": "Tim Balk",
+      "publishDate": "2026-03-23T01:03:42.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Midterm Elections (2026)",
+        "Democratic Party",
+        "Republican Party",
+        "Duffy, Sean P",
+        "Kaptur, Marcy",
+        "Schumer, Charles E",
+        "Trump, Donald J",
+        "Tafoya, Michele"
+      ]
+    },
+    {
+      "title": "For ‘Buffy’ Fans, Nicholas Brendon’s Xander Was a Complicated Everyman",
+      "url": "https://www.nytimes.com/2026/03/22/arts/television/nicholas-brendon-death-buffy-xander.html",
+      "summary": "The actor, who died on Friday, was a fan favorite on “Buffy the Vampire Slayer,” even as his character mixed quiet heroism with hostility toward the show’s women.",
+      "author": "Derrick Bryson Taylor",
+      "publishDate": "2026-03-22T22:21:45.000Z",
+      "category": "Television",
+      "tags": [
+        "Television",
+        "Actors and Actresses",
+        "Fans (Persons)",
+        "Brendon, Nicholas (1971-2026)",
+        "Gellar, Sarah Michelle",
+        "Whedon, Joss",
+        "Buffy the Vampire Slayer (TV Program)",
+        "Xander Harris"
+      ]
+    },
+    {
+      "title": "Nicholas Brendon, Beloved Sidekick on ‘Buffy the Vampire Slayer,’ Dies at 54",
+      "url": "https://www.nytimes.com/2026/03/20/arts/television/nicholas-brendon-dead.html",
+      "summary": "He played the part of Xander Harris, one of Buffy’s closest friends, on the hit television show about a teenage girl who protects the world from monsters.",
+      "author": "Francesca Regalado and Hannah Ziegler",
+      "publishDate": "2026-03-22T07:22:13.000Z",
+      "category": "Deaths (Obituaries)",
+      "tags": [
+        "Brendon, Nicholas (1971-2026)",
+        "Deaths (Obituaries)",
+        "Actors and Actresses",
+        "Television",
+        "Buffy the Vampire Slayer (TV Program)"
+      ]
+    },
+    {
+      "title": "In Denmark’s Election, How Will the Woman Who Took On Trump Fare?",
+      "url": "https://www.nytimes.com/2026/03/23/world/asia/denmark-elections-frederiksen-hometown.html",
+      "summary": "Prime Minister Mette Frederiksen is the biggest force this country has seen in decades. The crisis in Greenland has energized her, but are voters itching for change?",
+      "author": "Jeffrey Gettleman and Maya Tekeli",
+      "publishDate": "2026-03-23T04:01:14.000Z",
+      "category": "Politics and Government",
+      "tags": [
+        "Politics and Government",
+        "United States Politics and Government",
+        "International Relations",
+        "United States International Relations",
+        "Territorial Disputes",
+        "Elections",
+        "Content Type: Personal Profile",
+        "Immigration and Emigration",
+        "Legislatures and Parliaments",
+        "Asylum, Right of"
+      ]
+    },
+    {
+      "title": "U.N. Climate Report Finds Growing Energy Imbalance on Earth",
+      "url": "https://www.nytimes.com/2026/03/22/climate/energy-imbalance-un-report.html",
+      "summary": "The continued burning of fossil fuels is locking heat in Earth’s atmosphere, oceans and land — instead of allowing it to reflect back into space, a new report finds.",
+      "author": "Eric Niiler",
+      "publishDate": "2026-03-23T03:00:04.000Z",
+      "category": "Global Warming",
+      "tags": [
+        "Global Warming",
+        "Research",
+        "Greenhouse Gas Emissions",
+        "Earth",
+        "Oceans and Seas",
+        "Carbon Dioxide",
+        "World Meteorological Organization",
+        "United Nations"
+      ]
+    },
+    {
+      "title": "In Odesa, Dressing Up Is Living",
+      "url": "https://www.nytimes.com/2026/03/22/opinion/fashion-odesa-ukraine-war.html",
+      "summary": "In Odesa, the older generation continues to dress up, showing people’s determination to carry on despite the blows of history.",
+      "author": "Alyona Synenko and Olga Engibarova",
+      "publishDate": "2026-03-22T18:05:18.000Z",
+      "category": "Russian Invasion of Ukraine (2022)",
+      "tags": [
+        "Russian Invasion of Ukraine (2022)",
+        "Fashion and Apparel",
+        "Elderly",
+        "Odessa (Ukraine)",
+        "Ukraine"
+      ]
+    },
+    {
+      "title": "Pro-Palestinian Activists Rally in Support of Freed Columbia Protester",
+      "url": "https://www.nytimes.com/2026/03/22/nyregion/columbia-protester-palestinian-ice-detention-new-jersey.html",
+      "summary": "After speaking alongside city officials in Paterson, N.J., Leqaa Kordia, who was recently released after a year in ICE detention, led a crowd in chants of “globalize the intifada.”",
+      "author": "Nate Schweber",
+      "publishDate": "2026-03-23T00:11:18.000Z",
+      "category": "Palestinian-Americans",
+      "tags": [
+        "Palestinian-Americans",
+        "Immigration Detention",
+        "Pro-Palestinian Campus Protests (2023- )",
+        "Demonstrations, Protests and Riots",
+        "Immigration and Customs Enforcement (US)",
+        "Kordia, Leqaa",
+        "Sayegh, Andre",
+        "Paterson (NJ)"
+      ]
+    },
+    {
+      "title": "I Was an F.B.I. Agent for 25 Years. Kash Patel Is Playing a Dangerous Game.",
+      "url": "https://www.nytimes.com/2026/03/16/opinion/kash-patel-fbi-iran.html",
+      "summary": "Let’s hope it doesn’t take another Sept. 11 to snap the F.B.I.’s leadership into action.",
+      "author": "Jacqueline Maguire",
+      "publishDate": "2026-03-16T20:37:16.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "Patel, Kashyap",
+        "Federal Bureau of Investigation",
+        "US and Israeli Attack on Iran (2026)",
+        "Terrorism",
+        "Iran",
+        "United States International Relations",
+        "Islamic Revolutionary Guards Corps"
+      ]
+    },
+    {
+      "title": "Dubai Was Not Built for War",
+      "url": "https://www.nytimes.com/2026/03/16/opinion/dubai-hormuz-war-iran-elite.html",
+      "summary": "The new global city under fire.",
+      "author": "Richard Florida",
+      "publishDate": "2026-03-20T19:48:12.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Dubai (United Arab Emirates)",
+        "Dubai International Airport",
+        "Iran",
+        "Strait of Hormuz",
+        "Urban Areas",
+        "High Net Worth Individuals"
+      ]
+    },
+    {
+      "title": "Trump Is Hiding the Truth About the War in Iran",
+      "url": "https://www.nytimes.com/2026/03/21/opinion/iran-war-trump-lying.html",
+      "summary": "Whatever short-term gain the president thinks he is getting by lying about the war in Iran is far exceeded by the cost, for him, the country and the world.",
+      "author": "The Editorial Board",
+      "publishDate": "2026-03-22T16:58:49.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States Politics and Government",
+        "Rumors and Misinformation",
+        "Lying",
+        "Trump, Donald J",
+        "Iran"
       ]
     }
   ]
