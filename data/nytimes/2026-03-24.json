@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-24T08:29:25+09:00",
+  "timestamp": "2026-03-24T13:27:08+09:00",
   "articles": [
     {
       "title": "Trump Delays Energy Strikes, but Iran’s Infrastructure is Already Battered",
@@ -884,6 +884,297 @@
         "Boston University",
         "Boston (Mass)",
         "Massachusetts"
+      ]
+    },
+    {
+      "title": "Trump Delays Threat to Iran, but War Negotiations Are in Early Stage",
+      "url": "https://www.nytimes.com/2026/03/23/us/politics/trump-iran-gas-oil-strait.html",
+      "summary": "President Trump postponed his threat to strike power plants in Iran, citing “productive conversations” with the Iranians. But officials said the talks were in an early stage and not substantive.",
+      "author": "Tyler Pager, David E. Sanger and Farnaz Fassihi",
+      "publishDate": "2026-03-24T00:14:14.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States Politics and Government",
+        "Iran-Israel War (2025- )",
+        "Peace Process",
+        "Infrastructure (Public Works)",
+        "United States International Relations",
+        "Nuclear Energy",
+        "Oil (Petroleum) and Gasoline",
+        "Nuclear Weapons",
+        "Araghchi, Abbas"
+      ]
+    },
+    {
+      "title": "Trump Sours on British Leader Over Iran War: ‘What If Donald Shouts at Me?’",
+      "url": "https://www.nytimes.com/2026/03/24/world/europe/trump-starmer-snl.html",
+      "summary": "President Trump once called Prime Minister Keir Starmer a friend. But Mr. Starmer’s decision not to join the attacks on Iran has led to merciless mocking by the president.",
+      "author": "Michael D. Shear",
+      "publishDate": "2026-03-24T04:00:22.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States International Relations",
+        "International Relations",
+        "Progressive Policy Institute",
+        "Starmer, Keir",
+        "Trump, Donald J",
+        "Europe",
+        "Great Britain",
+        "United States"
+      ]
+    },
+    {
+      "title": "In LaGuardia Crash That Killed 2, Call to ‘Stop!’ Came Too Late",
+      "url": "https://www.nytimes.com/2026/03/23/nyregion/air-canada-crash-laguardia-nyc.html",
+      "summary": "A collision between an Air Canada Express jet and a fire truck on Sunday night left two pilots dead and dozens injured.",
+      "author": "Christopher Maag",
+      "publishDate": "2026-03-24T02:26:38.000Z",
+      "category": "Aviation Accidents, Safety and Disasters",
+      "tags": [
+        "Aviation Accidents, Safety and Disasters",
+        "Air Traffic Control",
+        "Government Employees",
+        "Air Canada",
+        "Federal Aviation Administration",
+        "LaGuardia Airport (Queens, NY)",
+        "National Transportation Safety Board",
+        "Port Authority of New York and New Jersey",
+        "New York City"
+      ]
+    },
+    {
+      "title": "FAA Is Investigating if Another Jet’s Issue Distracted LaGuardia Air Traffic Controller",
+      "url": "https://www.nytimes.com/2026/03/23/nyregion/faa-air-traffic-controller-laguardia-crash.html",
+      "summary": "Two controllers were said to be working at LaGuardia Airport’s control center at the time of the crash that killed two pilots, and one had been dealing with an odor on a United Airlines plane.",
+      "author": "Kate Kelly",
+      "publishDate": "2026-03-23T23:06:33.000Z",
+      "category": "Airlines and Airplanes",
+      "tags": [
+        "Airlines and Airplanes",
+        "Air Traffic Control",
+        "Airports",
+        "Aviation Accidents, Safety and Disasters",
+        "Pilots",
+        "Deaths (Fatalities)",
+        "Accidents and Safety",
+        "Government Employees",
+        "Air Canada",
+        "Federal Aviation Administration"
+      ]
+    },
+    {
+      "title": "Mullin’s Smooth Confirmation Was a Throwback in the Senate",
+      "url": "https://www.nytimes.com/2026/03/23/us/politics/mullins-confirmation-throwback-senate.html",
+      "summary": "In choosing Senator Markwayne Mullin, who has warm relationships across the Capitol and the political aisle, President Trump was reverting to a bygone tradition.",
+      "author": "Michael Gold",
+      "publishDate": "2026-03-24T01:05:33.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Appointments and Executive Changes",
+        "Immigration and Emigration",
+        "Homeland Security Department",
+        "Republican Party",
+        "Senate",
+        "Trump, Donald J",
+        "Mullin, Markwayne",
+        "Noem, Kristi",
+        "Paul, Rand"
+      ]
+    },
+    {
+      "title": "MDMA Therapy in Australia Shows Results for PTSD Patients, but the Cost Is Limiting Access",
+      "url": "https://www.nytimes.com/2026/03/24/health/mdma-therapy-ptsd-psychedelic-australia.html",
+      "summary": "The country’s experiment with psychedelic medicine has led to positive outcomes, psychiatrists say, but also highlights the limitations of the nascent field.",
+      "author": "Andrew Jacobs",
+      "publishDate": "2026-03-24T04:00:12.000Z",
+      "category": "Psychedelic and Hallucinogenic Drugs",
+      "tags": [
+        "Psychedelic and Hallucinogenic Drugs",
+        "Australia",
+        "Psychiatry and Psychiatrists",
+        "Mental Health and Disorders",
+        "Therapy and Rehabilitation",
+        "Post-Traumatic Stress Disorder",
+        "Regulation and Deregulation of Industry",
+        "Psilocybin Mushrooms"
+      ]
+    },
+    {
+      "title": "Ukraine Spent Big to Shield Energy Industry From Drones. Is the Mideast Next?",
+      "url": "https://www.nytimes.com/2026/03/24/world/europe/ukraine-middle-east-oil-and-gas-drones.html",
+      "summary": "With the use of electronic jamming systems and interceptor drones, the Ukrainian national oil and gas company may be a model for others.",
+      "author": "Andrew E. Kramer",
+      "publishDate": "2026-03-24T04:01:05.000Z",
+      "category": "Russian Invasion of Ukraine (2022)",
+      "tags": [
+        "Russian Invasion of Ukraine (2022)",
+        "US and Israeli Attack on Iran (2026)",
+        "Drones (Pilotless Planes)",
+        "War and Armed Conflicts",
+        "Oil (Petroleum) and Gasoline",
+        "Natural Gas",
+        "Energy and Power",
+        "Naftogaz of Ukraine",
+        "Persian Gulf",
+        "Middle East"
+      ]
+    },
+    {
+      "title": "Pakistan Dials Up Its Information War",
+      "url": "https://www.nytimes.com/2026/03/24/world/asia/pakistan-media-news-misinformation.html",
+      "summary": "New, friendly media operations and expanded state-run television are pushing Pakistan’s message while independent news outlets face repression.",
+      "author": "Elian Peltier and Zia ur-Rehman",
+      "publishDate": "2026-03-24T04:00:11.000Z",
+      "category": "News and News Media",
+      "tags": [
+        "Pakistan",
+        "News and News Media",
+        "Freedom of the Press",
+        "Politics and Government",
+        "Television",
+        "Dawn (Pakistani Newspaper)"
+      ]
+    },
+    {
+      "title": "Colombian Military Plane Crash Kills 66 and Injures Dozens",
+      "url": "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html",
+      "summary": "A military aircraft transporting 128 people was involved in an accident as it took off from southern Colombia, according to the authorities.",
+      "author": "Luis Ferré-Sadurní and Federico Rios",
+      "publishDate": "2026-03-24T03:37:39.000Z",
+      "category": "Aviation Accidents, Safety and Disasters",
+      "tags": [
+        "Aviation Accidents, Safety and Disasters",
+        "Airlines and Airplanes",
+        "Military Aircraft",
+        "Defense and Military Forces",
+        "Petro, Gustavo",
+        "Colombia"
+      ]
+    },
+    {
+      "title": "A Murder Charge in Georgia Exposes Complexities of the Abortion Debate",
+      "url": "https://www.nytimes.com/2026/03/23/us/georgia-abortion-pill-murder.html",
+      "summary": "A woman who took medication to induce an abortion, and then delivered the baby, was arrested on a murder charge. But on Monday, a state judge expressed deep skepticism about the case.",
+      "author": "Rick Rojas, Pam Belluck and Susan Cooper Eastman",
+      "publishDate": "2026-03-24T01:03:33.000Z",
+      "category": "Abortion",
+      "tags": [
+        "Abortion",
+        "Abortion Drugs",
+        "Georgia",
+        "Murders, Attempted Murders and Homicides",
+        "Pregnancy and Childbirth"
+      ]
+    },
+    {
+      "title": "Valerie Perrine, Screen Siren Who Won Critical Acclaim, Dies at 82",
+      "url": "https://www.nytimes.com/2026/03/23/movies/valerie-perrine-dead.html",
+      "summary": "Known early on for skin-baring temptress roles, she later earned rave reviews, a Cannes award and an Oscar nomination for her performance in the Lenny Bruce biopic “Lenny.”",
+      "author": "Alex Williams",
+      "publishDate": "2026-03-24T00:43:55.000Z",
+      "category": "Actors and Actresses",
+      "tags": [
+        "Actors and Actresses",
+        "Academy Awards (Oscars)",
+        "Deaths (Obituaries)",
+        "Perrine, Valerie",
+        "Bruce, Lenny",
+        "Los Angeles (Calif)",
+        "Lenny (Movie)",
+        "Superman (Movie)",
+        "Slaughterhouse-Five (Movie)"
+      ]
+    },
+    {
+      "title": "Hasan Piker Defends Upscale Lodging During Humanitarian Mission in Cuba",
+      "url": "https://www.nytimes.com/2026/03/23/world/americas/hasan-piker-humanitarian-mission-cuba.html",
+      "summary": "He helped bring attention to a group delivering humanitarian aid to Cuba, which was criticized for staying in an upscale hotel as Cubans faced another blackout.",
+      "author": "Annie Correal",
+      "publishDate": "2026-03-24T02:49:26.000Z",
+      "category": "Socialism (Theory and Philosophy)",
+      "tags": [
+        "Cuba",
+        "Trump, Donald J",
+        "Piker, Hasan",
+        "Socialism (Theory and Philosophy)",
+        "Communism (Theory and Philosophy)",
+        "Latin America",
+        "Code Pink",
+        "Thunberg, Greta",
+        "Cuban-Americans",
+        "Rubio, Marco"
+      ]
+    },
+    {
+      "title": "Beshear Criticizes Vance in Ohio, Stoking 2028 Presidential Tensions",
+      "url": "https://www.nytimes.com/2026/03/21/us/politics/beshear-vance-2028-presidential-race.html",
+      "summary": "Mr. Beshear, the Democratic governor of Kentucky, sharply criticized Mr. Vance as both angle for potential presidential runs.",
+      "author": "Tim Balk",
+      "publishDate": "2026-03-22T08:05:58.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "Kentucky",
+        "Beshear, Andrew G (1977- )",
+        "United States Politics and Government",
+        "Presidential Election of 2028",
+        "Democratic Party",
+        "Republican Party",
+        "Vance, J D",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Deadly Plane Crash at LaGuardia Airport: What We Know",
+      "url": "https://www.nytimes.com/2026/03/23/nyregion/laguardia-airport-air-canada-plane-crash.html",
+      "summary": "Two pilots were killed and dozens of others were injured when a regional jet collided with a fire truck on the runway.",
+      "author": "Ali Watkins and Christine Hauser",
+      "publishDate": "2026-03-23T23:12:34.000Z",
+      "category": "Airlines and Airplanes",
+      "tags": [
+        "Airlines and Airplanes",
+        "live-detached",
+        "Aviation Accidents, Safety and Disasters",
+        "Airports",
+        "Deaths (Fatalities)",
+        "Shutdowns (Institutional)",
+        "LaGuardia Airport (Queens, NY)",
+        "Port Authority of New York and New Jersey",
+        "New York City"
+      ]
+    },
+    {
+      "title": "Trump Has Made a Fundamental Miscalculation about Iran",
+      "url": "https://www.nytimes.com/2026/03/22/opinion/trump-iran-war-memes.html",
+      "summary": "America shouldn’t fight a war like this.",
+      "author": "Phil Klay",
+      "publishDate": "2026-03-22T05:51:58.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States Defense and Military Forces",
+        "Iran",
+        "Hegseth, Pete"
+      ]
+    },
+    {
+      "title": "ICE to Help TSA at Airports Amid Partial Shutdown, Trump’s Border Czar Says",
+      "url": "https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html",
+      "summary": "Tom Homan, President Trump’s chief border official, cast the operation largely as one to help ease long security lines. The Homeland Security Department said 14 airports across the country would be involved.",
+      "author": "Erica L. Green, Hamed Aleaziz and Gabe Castro-Root",
+      "publishDate": "2026-03-23T03:12:29.000Z",
+      "category": "Airport Security",
+      "tags": [
+        "Airport Security",
+        "Immigration and Customs Enforcement (US)",
+        "Transportation Security Administration",
+        "Shutdowns (Institutional)",
+        "Trump, Donald J",
+        "Homan, Thomas D",
+        "Homeland Security Department",
+        "United States Politics and Government"
       ]
     }
   ]
