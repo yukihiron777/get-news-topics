@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-25T04:59:44+09:00",
+  "timestamp": "2026-03-25T08:28:54+09:00",
   "articles": [
     {
       "title": "Supreme Court Seems Open to Trump Request to Block Asylum Seekers at Border",
@@ -829,6 +829,272 @@
         "Habba, Alina",
         "Quraishi, Zahid N",
         "New Jersey"
+      ]
+    },
+    {
+      "title": "Flight 8646 to LaGuardia: From Routine Landing to Disaster in 20 Seconds",
+      "url": "https://www.nytimes.com/2026/03/24/nyregion/air-canada-laguardia-crash-investigation.html",
+      "summary": "In the early stages of the investigation into the Air Canada Express crash on Sunday night, a hazy timeline has begun to emerge.",
+      "author": "Christopher Maag",
+      "publishDate": "2026-03-24T23:02:13.000Z",
+      "category": "Airlines and Airplanes",
+      "tags": [
+        "Airlines and Airplanes",
+        "Air Traffic Control",
+        "Aviation Accidents, Safety and Disasters",
+        "Fires and Firefighters",
+        "Airports",
+        "Deaths (Fatalities)",
+        "Pilots",
+        "Air Canada",
+        "LaGuardia Airport (Queens, NY)",
+        "National Transportation Safety Board"
+      ]
+    },
+    {
+      "title": "Air Canada Pilots Killed in LaGuardia Crash Were Early in Flying Careers",
+      "url": "https://www.nytimes.com/2026/03/24/nyregion/air-canada-pilots-laguardia.html",
+      "summary": "The pilots were identified as Antoine Forest, 30, and Mackenzie Gunther. They were the only two fatalities in the plane’s collision with a fire truck at New York’s LaGuardia Airport.",
+      "author": "Pranav Baskar, Vjosa Isai, Hurubie Meko and Norimitsu Onishi",
+      "publishDate": "2026-03-24T21:35:32.000Z",
+      "category": "Airlines and Airplanes",
+      "tags": [
+        "Airlines and Airplanes",
+        "Aviation Accidents, Safety and Disasters",
+        "Pilots",
+        "Air Canada",
+        "Jazz Aviation LP",
+        "LaGuardia Airport (Queens, NY)"
+      ]
+    },
+    {
+      "title": "Key Adviser Quits Federal Vaccine Panel",
+      "url": "https://www.nytimes.com/2026/03/24/health/robert-malone-vaccines-cdc.html",
+      "summary": "Dr. Robert Malone, vice chair of the committee, was appointed by Robert F. Kennedy Jr. after a purge of the previous advisers.",
+      "author": "Apoorva Mandavilli",
+      "publishDate": "2026-03-24T22:22:41.000Z",
+      "category": "Decisions and Verdicts",
+      "tags": [
+        "Decisions and Verdicts",
+        "Vaccination and Immunization",
+        "Courts and the Judiciary",
+        "Federal Courts (US)",
+        "Coronavirus (2019-nCoV)",
+        "Advisory Committee on Immunization Practices",
+        "Health and Human Services Department",
+        "Kennedy, Robert F Jr"
+      ]
+    },
+    {
+      "title": "New York Times Accuses Pentagon of Defying Court Order",
+      "url": "https://www.nytimes.com/2026/03/24/business/media/new-york-times-pentagon-court-order.html",
+      "summary": "The company said in a legal filing that the department sought to fashion an “end run” when it issued revised media rules on Monday.",
+      "author": "Erik Wemple",
+      "publishDate": "2026-03-24T23:17:02.000Z",
+      "category": "United States Defense and Military Forces",
+      "tags": [
+        "United States Defense and Military Forces",
+        "Decisions and Verdicts",
+        "Newspapers",
+        "Friedman, Paul L",
+        "New York Times",
+        "Defense Department",
+        "News and News Media",
+        "Freedom of the Press",
+        "Constitution (US)",
+        "Washington (DC)"
+      ]
+    },
+    {
+      "title": "N.C. Senator Phil Berger Officially Just Lost to Sam Page",
+      "url": "https://www.nytimes.com/2026/03/24/us/berger-page-north-carolina-senate-gop.html",
+      "summary": "Phil Berger had money, power and an endorsement from President Trump. But his critics had a long list of resentments and, on Tuesday, he lost by a mere 23 votes.",
+      "author": "Eduardo Medina",
+      "publishDate": "2026-03-24T23:05:46.000Z",
+      "category": "Midterm Elections (2026)",
+      "tags": [
+        "Midterm Elections (2026)",
+        "Elections, State Legislature",
+        "Primaries and Caucuses",
+        "Republican Party",
+        "Berger, Phil (1952- )",
+        "Page, Sam (1957- )",
+        "Tillis, Thomas R",
+        "Guilford County (NC)",
+        "Rockingham County (NC)",
+        "North Carolina"
+      ]
+    },
+    {
+      "title": "Newsom Says He Regrets Remarks Comparing Israel to ‘Apartheid State’",
+      "url": "https://www.nytimes.com/2026/03/24/us/politics/newsom-israel-apartheid-state.html",
+      "summary": "The California governor suggested that he had meant to refer to Israel’s potential future direction, not its current policies. “I revere the state of Israel,” he said.",
+      "author": "Jennifer Medina",
+      "publishDate": "2026-03-24T21:49:11.000Z",
+      "category": "Apartheid (Policy)",
+      "tags": [
+        "Newsom, Gavin",
+        "Israel",
+        "Apartheid (Policy)",
+        "Israel-Gaza War (2023- )",
+        "Netanyahu, Benjamin",
+        "Friedman, Thomas L",
+        "United States Politics and Government",
+        "Presidential Election of 2028",
+        "Democratic Party",
+        "American Israel Public Affairs Committee"
+      ]
+    },
+    {
+      "title": "San Francisco Killed 8th-Grade Algebra. Now It’s Set to Come Back.",
+      "url": "https://www.nytimes.com/2026/03/24/us/san-francisco-public-schools-algebra.html",
+      "summary": "The San Francisco school board will vote on a plan to restore algebra as an option at all middle schools, more than a decade after it was removed over equity concerns.",
+      "author": "Dana Goldstein",
+      "publishDate": "2026-03-24T23:24:50.000Z",
+      "category": "Mathematics",
+      "tags": [
+        "Mathematics",
+        "School Boards",
+        "Education (K-12)",
+        "San Francisco (Calif)"
+      ]
+    },
+    {
+      "title": "Russia Launches Daytime Attack on Ukraine With Over 500 Drones",
+      "url": "https://www.nytimes.com/2026/03/24/world/europe/russia-attack-drones-ukraine-lviv.html",
+      "summary": "The assault, which came after overnight strikes across the country, was one of the largest of the war, the Ukrainian authorities said.",
+      "author": "Cassandra Vinograd",
+      "publishDate": "2026-03-24T21:03:01.000Z",
+      "category": "Russian Invasion of Ukraine (2022)",
+      "tags": [
+        "Russian Invasion of Ukraine (2022)",
+        "Drones (Pilotless Planes)",
+        "Zelensky, Volodymyr",
+        "Dnipro (Ukraine)",
+        "Ivano-Frankivsk (Ukraine)",
+        "Kharkiv (Ukraine)",
+        "Lviv (Ukraine)",
+        "Poltava (Ukraine)",
+        "Russia",
+        "Ternopil (Ukraine)"
+      ]
+    },
+    {
+      "title": "Meta Ordered to Pay $375 Million Over Child Safety Violations",
+      "url": "https://www.nytimes.com/2026/03/24/technology/meta-new-mexico-child-safety-violations.html",
+      "summary": "In one of the company’s first major losses, New Mexico jurors found that it had misled consumers about the safety of its platforms, enabling sexual exploitation of young users.",
+      "author": "Cecilia Kang and Eli Tan",
+      "publishDate": "2026-03-24T22:27:38.000Z",
+      "category": "Social Media",
+      "tags": [
+        "Social Media",
+        "Decisions and Verdicts",
+        "Jury System",
+        "Fines (Penalties)",
+        "Computers and the Internet",
+        "Consumer Protection",
+        "Suits and Litigation (Civil)",
+        "Meta Platforms Inc",
+        "Instagram Inc",
+        "Torrez, Raul (1976- )"
+      ]
+    },
+    {
+      "title": "OpenAI Is Shutting Down Sora, Its A.I. Video Generator",
+      "url": "https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html",
+      "summary": "The start-up said it would discontinue Sora just three months after signing a multiyear deal to bring Disney characters to the service.",
+      "author": "Cade Metz",
+      "publishDate": "2026-03-24T23:07:42.000Z",
+      "category": "Artificial Intelligence",
+      "tags": [
+        "Artificial Intelligence",
+        "Movies",
+        "Video Recordings, Downloads and Streaming",
+        "Copyrights and Copyright Violations",
+        "Computers and the Internet",
+        "Midjourney Inc",
+        "OpenAI Labs",
+        "Walt Disney Company"
+      ]
+    },
+    {
+      "title": "The War Is Going Better Than You Think",
+      "url": "https://www.nytimes.com/2026/03/24/opinion/iran-war-history.html",
+      "summary": "How the fight in Iran compares to past conflicts.",
+      "author": "Bret Stephens",
+      "publishDate": "2026-03-24T21:00:08.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Oil (Petroleum) and Gasoline",
+        "Persian Gulf War",
+        "Iraq War (2003-11)",
+        "Ships and Shipping",
+        "Trump, Donald J",
+        "Hussein, Saddam",
+        "Iran",
+        "Iraq",
+        "United States Defense and Military Forces"
+      ]
+    },
+    {
+      "title": "Iran’s ‘Nuclear’ Option",
+      "url": "https://www.nytimes.com/2026/03/24/opinion/iran-trump-hormuz.html",
+      "summary": "How U.S. strategy encouraged mutually assured destruction.",
+      "author": "Ross Douthat",
+      "publishDate": "2026-03-24T21:20:50.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States Politics and Government",
+        "International Relations",
+        "Threats and Threatening Messages",
+        "Trump, Donald J",
+        "Iran",
+        "Strait of Hormuz"
+      ]
+    },
+    {
+      "title": "Justices Seem Open to Allowing Trump to Block Some Asylum Seekers",
+      "url": "https://www.nytimes.com/2026/03/24/briefing/supreme-court-asylum-laguardia-crash.html",
+      "summary": "Also, officials described overlapping failures before the deadly LaGuardia crash. Here’s the latest at the end of Tuesday.",
+      "author": "Matthew Cullen",
+      "publishDate": "2026-03-24T21:58:54.000Z"
+    },
+    {
+      "title": "Hawaii Storms Bring More Rain to Oahu and Maui",
+      "url": "https://www.nytimes.com/2026/03/24/weather/hawaii-storms-rain-records.html",
+      "summary": "Experts agree that the past weeks have been one of the rainiest periods in recent memory across the state.",
+      "author": "Amy Graff",
+      "publishDate": "2026-03-24T21:51:53.000Z",
+      "category": "Floods",
+      "tags": [
+        "Floods",
+        "Rain",
+        "Hawaii (The Big Island)",
+        "Maui (Hawaii)",
+        "Oahu (Hawaii)",
+        "Weather"
+      ]
+    },
+    {
+      "title": "Investigators Seek Answers in Attacks on Jewish Sites in Europe",
+      "url": "https://www.nytimes.com/2026/03/24/world/europe/attacks-jewish-sites-europe.html",
+      "summary": "Attacks on schools and property in several countries have Jewish communities on edge, amid suspicions that Iran is behind the violence.",
+      "author": "Adam Goldman and Lizzie Dearden",
+      "publishDate": "2026-03-24T20:41:13.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Jews and Judaism",
+        "Iran-Israel Proxy Conflict",
+        "Israel-Gaza War (2023- )",
+        "War and Armed Conflicts",
+        "Synagogues",
+        "Kataib Hezbollah",
+        "Antwerp (Belgium)",
+        "Baghdad (Iraq)",
+        "Belgium"
       ]
     }
   ]
