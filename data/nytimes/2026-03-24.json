@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-24T16:59:32+09:00",
+  "timestamp": "2026-03-24T21:53:16+09:00",
   "articles": [
     {
       "title": "Trump Delays Energy Strikes, but Iran’s Infrastructure is Already Battered",
@@ -1270,6 +1270,306 @@
         "Albanese, Anthony (1963- )",
         "von der Leyen, Ursula",
         "European Union"
+      ]
+    },
+    {
+      "title": "Trump Faces Blowback on Easing Iran Oil Sanctions",
+      "url": "https://www.nytimes.com/2026/03/23/business/trump-iran-sanctions-relief-oil.html",
+      "summary": "President Trump once assailed the Obama administration for making cash payments to Iran. Now he supports sanctions relief that could give the country a $14 billion windfall.",
+      "author": "Alan Rappeport",
+      "publishDate": "2026-03-23T20:48:58.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States International Relations",
+        "Embargoes and Sanctions",
+        "Iran",
+        "China",
+        "Prices (Fares, Fees and Rates)",
+        "Oil (Petroleum) and Gasoline",
+        "Presidential Election of 2016",
+        "War and Armed Conflicts",
+        "Ships and Shipping"
+      ]
+    },
+    {
+      "title": "A New Phase of the War in Iran, and the Latest on the LaGuardia Plane Crash",
+      "url": "https://www.nytimes.com/2026/03/24/podcasts/the-headlines/war-iran-laguardia-plane-crash.html",
+      "summary": "Plus, how dancing the tango can help patients with Parkinson’s disease.",
+      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa and Ian Stewart",
+      "publishDate": "2026-03-24T11:41:23.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States Politics and Government",
+        "Iran",
+        "United States",
+        "internal-open-access-audio"
+      ]
+    },
+    {
+      "title": "College Graduates Are Facing the Grimmest Job Market in Years",
+      "url": "https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html",
+      "summary": "Artificial intelligence could reshape work, but for now a low-hire, low-fire labor market is the main impediment for young people seeking employment.",
+      "author": "Sydney Ember",
+      "publishDate": "2026-03-24T09:01:20.000Z",
+      "category": "Hiring and Promotion",
+      "tags": [
+        "Hiring and Promotion",
+        "Labor and Jobs",
+        "Careers and Professions",
+        "United States Economy",
+        "Youth"
+      ]
+    },
+    {
+      "title": "Gregory Bovino’s Final Days: Harsh Words and Few Regrets",
+      "url": "https://www.nytimes.com/2026/03/24/us/gregory-bovino-border-patrol.html",
+      "summary": "He was the face of the Trump administration’s immigration crackdown. But as he begins a retirement that was not entirely voluntary, the Border Patrol leader says he did not go far enough.",
+      "author": "Katie J.M. Baker and Hamed Aleaziz",
+      "publishDate": "2026-03-24T09:01:42.000Z",
+      "category": "Illegal Immigration",
+      "tags": [
+        "Illegal Immigration",
+        "United States Politics and Government",
+        "Demonstrations, Protests and Riots",
+        "Deportation",
+        "Federal Actions in US Cities",
+        "Content Type: Personal Profile",
+        "Border Patrol (US)",
+        "Homeland Security Department",
+        "Immigration and Customs Enforcement (US)",
+        "Bovino, Gregory"
+      ]
+    },
+    {
+      "title": "When Trump Wants Something Done, He Dispatches ICE to Do It",
+      "url": "https://www.nytimes.com/2026/03/23/us/politics/trump-ice-airports.html",
+      "summary": "President Trump has increasingly used Immigration and Customs Enforcement to push personal and political objectives, and on Monday sent agents to airports across the country to help deal with long security lines.",
+      "author": "Hamed Aleaziz",
+      "publishDate": "2026-03-24T02:16:50.000Z",
+      "category": "live-detached",
+      "tags": [
+        "live-detached",
+        "Illegal Immigration",
+        "United States Politics and Government",
+        "Deportation",
+        "Airport Security",
+        "Customs and Border Protection (US)",
+        "Homeland Security Department",
+        "Immigration and Customs Enforcement (US)",
+        "Budgets and Budgeting",
+        "Republican Party"
+      ]
+    },
+    {
+      "title": "34 Former Military Members Were Put on Deportation Track in the Past Year",
+      "url": "https://www.nytimes.com/2026/03/24/us/politics/veterans-deport-immigrants-trump.html",
+      "summary": "The Trump administration has ramped up enforcement against immigrant service members and their families in its wider crackdown.",
+      "author": "Eileen Sullivan",
+      "publishDate": "2026-03-24T11:30:04.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Deportation",
+        "United States Defense and Military Forces",
+        "Homeland Security Department",
+        "Immigration and Customs Enforcement (US)",
+        "Trump, Donald J",
+        "Warren, Elizabeth"
+      ]
+    },
+    {
+      "title": "Tango Therapy: How the Dance of Passion Is Helping Parkinson’s Patients",
+      "url": "https://www.nytimes.com/2026/03/24/health/tango-therapy-parkinsons.html",
+      "summary": "Once a week, patients in an Argentine hospital with Parkinson’s disease use the movements of tango to help address issues of balance, stiffness and coordination.",
+      "author": "Magalí Druscovich and Pam Belluck",
+      "publishDate": "2026-03-24T07:00:20.000Z",
+      "category": "Dancing",
+      "tags": [
+        "Dancing",
+        "Parkinson's Disease",
+        "Therapy and Rehabilitation",
+        "Tango",
+        "Buenos Aires (Argentina)",
+        "Argentina",
+        "Ramos Mejia Hospital"
+      ]
+    },
+    {
+      "title": "Afghanistan Frees American Detainee Amid Mounting U.S. Pressure",
+      "url": "https://www.nytimes.com/2026/03/24/world/asia/afghanistan-releases-american-detainee.html",
+      "summary": "Dennis Walter Coyle, a researcher held since last year, was released weeks after the United States declared Afghanistan a “state sponsor of wrongful detention.”",
+      "author": "Elian Peltier",
+      "publishDate": "2026-03-24T12:17:51.000Z",
+      "category": "International Relations",
+      "tags": [
+        "International Relations",
+        "Political Prisoners",
+        "Detainees",
+        "United States International Relations",
+        "Amnesties, Commutations and Pardons",
+        "Taliban",
+        "Afghanistan",
+        "Denis Walter Coyle"
+      ]
+    },
+    {
+      "title": "Should You Need to Prove Citizenship to Vote? Ask Kansas.",
+      "url": "https://www.nytimes.com/2026/03/24/us/politics/proof-of-citizenship-voter-registration-kansas.html",
+      "summary": "A Kansas law required a passport, a birth certificate or other proof of citizenship to register, but it was struck down after a court found that around 31,000 eligible voters had been blocked.",
+      "author": "Chris Hippensteel",
+      "publishDate": "2026-03-24T09:01:59.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Law and Legislation",
+        "Voting Rights, Registration and Requirements",
+        "Kansas"
+      ]
+    },
+    {
+      "title": "A Veteran Group Jumps In for a Democrat in Iowa Senate Race.",
+      "url": "https://www.nytimes.com/2026/03/24/us/politics/iowa-senate-democrat-veterans.html",
+      "summary": "VoteVets is the first super PAC to intervene in the race for Josh Turek, a state legislator who was born with spina bifida after his father was exposed to Agent Orange in Vietnam.",
+      "author": "Shane Goldmacher",
+      "publishDate": "2026-03-24T09:02:15.000Z",
+      "category": "Midterm Elections (2026)",
+      "tags": [
+        "Midterm Elections (2026)",
+        "Iowa",
+        "Senate",
+        "Democratic Party",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Chavez Revelations Force Teachers to Rethink How They Teach His Legacy",
+      "url": "https://www.nytimes.com/2026/03/24/us/chavez-sex-abuse-teachers-education.html",
+      "summary": "In classrooms across the country, educators are weighing whether to shift focus from Cesar Chavez to the broader labor movement he helped lead.",
+      "author": "Jesus Jiménez",
+      "publishDate": "2026-03-24T09:02:03.000Z",
+      "category": "Education (K-12)",
+      "tags": [
+        "Education (K-12)",
+        "Teachers and School Employees",
+        "Civil Rights and Liberties",
+        "Texas Education Agency",
+        "Chavez, Cesar",
+        "Huerta, Dolores",
+        "Texas",
+        "California"
+      ]
+    },
+    {
+      "title": "Reality TV Confronts a Harsh TV Reality",
+      "url": "https://www.nytimes.com/2026/03/24/business/media/reality-tv-era-ending.html",
+      "summary": "The number of unscripted series has plummeted by a third since 2022. As the industry rapidly changes, an era is quietly vanishing.",
+      "author": "John Koblin",
+      "publishDate": "2026-03-24T09:00:44.000Z",
+      "category": "Television",
+      "tags": [
+        "Television",
+        "Reality Television",
+        "Web-Original Programming",
+        "Video Recordings, Downloads and Streaming",
+        "Amazon.com Inc",
+        "Discovery Channel",
+        "Food Network",
+        "HGTV",
+        "Netflix Inc",
+        "YouTube.com"
+      ]
+    },
+    {
+      "title": "Government Cuts Gut the Memory of Argentina’s Dirty War",
+      "url": "https://www.nytimes.com/2026/03/24/world/americas/government-cuts-argentina-dirty-war.html",
+      "summary": "Fifty years after the military dictatorship, Argentina’s government is defunding human rights groups and promoting a revisionist account of the junta’s crimes.",
+      "author": "Emma Bubola and Sarah Pabst",
+      "publishDate": "2026-03-24T09:01:04.000Z",
+      "category": "Human Rights and Human Rights Violations",
+      "tags": [
+        "Human Rights and Human Rights Violations",
+        "War Crimes, Genocide and Crimes Against Humanity",
+        "Politics and Government",
+        "Budgets and Budgeting",
+        "Coups D'Etat and Attempted Coups D'Etat",
+        "Defense and Military Forces",
+        "Grandmothers of the Plaza de Mayo (Argentina)",
+        "Mothers of the Plaza de Mayo",
+        "Argentina",
+        "Buenos Aires (Argentina)"
+      ]
+    },
+    {
+      "title": "Wicked Stepmother No Longer, a Female Pharoah Gets a Reputational Makeover",
+      "url": "https://www.nytimes.com/2026/03/24/science/archaeology-egypt-hatshepsut.html",
+      "summary": "A reassessment of damaged 3,500-year-old statuary adds to evidence that Queen Hatshepsut wasn’t the villain that scholars long took her to be.",
+      "author": "Franz Lidz",
+      "publishDate": "2026-03-24T11:15:46.000Z",
+      "category": "Egyptian Civilization",
+      "tags": [
+        "Egyptian Civilization",
+        "Vandalism",
+        "Sculpture",
+        "Archaeology and Anthropology",
+        "Royal Families",
+        "Antiquity (Journal)",
+        "Tutankhamen",
+        "Luxor (Egypt)"
+      ]
+    },
+    {
+      "title": "The Deadly Gender Gap in Car Safety",
+      "url": "https://www.nytimes.com/2026/03/24/opinion/car-safety-women-crash-dummies.html",
+      "summary": "For over half a century, car safety standards have left women’s lives in the rearview.",
+      "author": "Eve Van Dyke",
+      "publishDate": "2026-03-24T09:00:04.000Z",
+      "category": "Traffic Accidents and Safety",
+      "tags": [
+        "Traffic Accidents and Safety",
+        "National Highway Traffic Safety Administration",
+        "Politics and Government",
+        "Automobiles",
+        "Lobbying and Lobbyists",
+        "Women and Girls",
+        "Seatbelts",
+        "Automobile Safety Features and Defects",
+        "your-feed-opinionvideo"
+      ]
+    },
+    {
+      "title": "Health Woes",
+      "url": "https://www.nytimes.com/2026/03/24/briefing/cdc-turmoil.html",
+      "summary": "We look into the turmoil at the Centers for Disease Control and Prevention.",
+      "author": "Sam Sifton",
+      "publishDate": "2026-03-24T10:52:30.000Z",
+      "category": "internal-storyline-no",
+      "tags": [
+        "internal-storyline-no",
+        "Centers for Disease Control and Prevention",
+        "Advisory Committee on Immunization Practices",
+        "Kennedy, Robert F Jr"
+      ]
+    },
+    {
+      "title": "As Denmark Goes to the Polls, Here’s What to Know About the Election and Key Issues",
+      "url": "https://www.nytimes.com/2026/03/24/world/europe/denmark-election-mette-frederiksen-greenland.html",
+      "summary": "President Trump’s threats to take Greenland away from Denmark have lifted Prime Minister Mette Frederiksen, who appeared the front-runner as polls opened.",
+      "author": "Jeffrey Gettleman and Maya Tekeli",
+      "publishDate": "2026-03-24T11:02:41.000Z",
+      "category": "Polls and Public Opinion",
+      "tags": [
+        "Polls and Public Opinion",
+        "Politics and Government",
+        "Territorial Disputes",
+        "Legislatures and Parliaments",
+        "Elections",
+        "Social Democratic Party (Denmark)",
+        "Frederiksen, Mette",
+        "Rasmussen, Lars Lokke",
+        "Trump, Donald J",
+        "Denmark"
       ]
     }
   ]
