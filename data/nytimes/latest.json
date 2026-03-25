@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-25T13:28:44+09:00",
+  "timestamp": "2026-03-25T16:57:52+09:00",
   "articles": [
     {
       "title": "Supreme Court Seems Open to Trump Request to Block Asylum Seekers at Border",
@@ -1419,6 +1419,63 @@
         "Actors and Actresses",
         "Television",
         "Buffy the Vampire Slayer (TV Program)"
+      ]
+    },
+    {
+      "title": "2,000 U.S. Troops From 82nd Airborne Division to Be Sent to Middle East",
+      "url": "https://www.nytimes.com/2026/03/24/us/politics/82nd-airborne-division-iran-troops.html",
+      "summary": "The order gives President Trump more military options as he considers diplomacy with Iran. It is unclear where the soldiers will go in the Middle East.",
+      "author": "Eric Schmitt",
+      "publishDate": "2026-03-25T02:33:54.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States Defense and Military Forces",
+        "Defense and Military Forces",
+        "Military Aircraft",
+        "Defense Department",
+        "United States Marine Corps",
+        "Trump, Donald J",
+        "Kharg Island (Iran)",
+        "Middle East",
+        "Persian Gulf"
+      ]
+    },
+    {
+      "title": "For Putin, the War in Iran Changed Everything",
+      "url": "https://www.nytimes.com/2026/03/25/opinion/russia-putin-iran-war.html",
+      "summary": "In one swoop, it overturned the conditions for conciliation.",
+      "author": "Mikhail Zygar",
+      "publishDate": "2026-03-25T06:03:52.000Z",
+      "category": "War and Armed Conflicts",
+      "tags": [
+        "Russia",
+        "Putin, Vladimir V",
+        "Trump, Donald J",
+        "United States",
+        "Iran",
+        "War and Armed Conflicts",
+        "Dmitriev, Kirill A (1975- )",
+        "North Atlantic Treaty Organization",
+        "Strait of Hormuz"
+      ]
+    },
+    {
+      "title": "Late Night Questions the ‘Very Big Present’ Trump Got From Iran",
+      "url": "https://www.nytimes.com/2026/03/25/arts/television/late-night-trump-present-iran.html",
+      "summary": "Josh Johnson was puzzled by what kind of gift the president could have received “from the people you are currently at war with.”",
+      "author": "Trish Bendix",
+      "publishDate": "2026-03-25T05:46:38.000Z",
+      "category": "Television",
+      "tags": [
+        "Television",
+        "The Daily Show with Jon Stewart (TV Program)",
+        "Johnson, Josh (1986- )",
+        "Kimmel, Jimmy",
+        "Jimmy Kimmel Live (TV Program)",
+        "Meyers, Seth",
+        "Late Night with Seth Meyers (TV Program)",
+        "Robyn (1979- )"
       ]
     }
   ]
