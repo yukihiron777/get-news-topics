@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-25T08:28:54+09:00",
+  "timestamp": "2026-03-25T13:28:44+09:00",
   "articles": [
     {
       "title": "Supreme Court Seems Open to Trump Request to Block Asylum Seekers at Border",
@@ -1095,6 +1095,330 @@
         "Antwerp (Belgium)",
         "Baghdad (Iraq)",
         "Belgium"
+      ]
+    },
+    {
+      "title": "United States Said to Have Sent Iran a Plan to End the Middle East War",
+      "url": "https://www.nytimes.com/2026/03/24/world/middleeast/us-iran-peace-plan.html",
+      "summary": "The 15-point plan was delivered via Pakistan, whose army chief has emerged as the key interlocutor between the United States and Iran, officials say.",
+      "author": "Adam Rasgon, Julian E. Barnes and Farnaz Fassihi",
+      "publishDate": "2026-03-24T21:07:31.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Missiles and Missile Defense Systems",
+        "Nuclear Weapons",
+        "Peace Process",
+        "Trump, Donald J",
+        "Ghalibaf, Mohammad Baqer",
+        "Munir, Syed Asim",
+        "Netanyahu, Benjamin",
+        "internal-open-access-from-nl"
+      ]
+    },
+    {
+      "title": "Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz",
+      "url": "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html",
+      "summary": "Ships with no ties to Israel or the United States would be allowed to pass, the government said, but it was unclear if any vessels would try.",
+      "author": "Peter Eavis",
+      "publishDate": "2026-03-25T02:25:47.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Strait of Hormuz",
+        "Iran",
+        "Ships and Shipping",
+        "Oil (Petroleum) and Gasoline",
+        "Islamic Revolutionary Guards Corps",
+        "Tehran (Iran)",
+        "Trump, Donald J",
+        "internal-open-access-from-nl"
+      ]
+    },
+    {
+      "title": "Senate Republicans Again Block Bid to Halt Iran War Without Authorization",
+      "url": "https://www.nytimes.com/2026/03/24/us/politics/senate-iran-war-vote.html",
+      "summary": "Senate Democrats failed for the third time to advance a resolution that would force the removal of troops from hostilities in Iran unless Congress approves offensive operations.",
+      "author": "Megan Mineiro",
+      "publishDate": "2026-03-24T23:43:42.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "US and Israeli Attack on Iran (2026)",
+        "War Powers Act (1973)",
+        "United States International Relations",
+        "War and Emergency Powers (US)",
+        "Law and Legislation",
+        "United States Defense and Military Forces",
+        "Republican Party",
+        "Democratic Party",
+        "Senate"
+      ]
+    },
+    {
+      "title": "LaGuardia Crash Tests New Port Authority Leader",
+      "url": "https://www.nytimes.com/2026/03/24/nyregion/port-authority-laguardia-crash-firefighters.html",
+      "summary": "Kathryn Garcia, who began leading the agency in February, consoled two injured firefighters and dealt with delays at the three big airports serving New York City.",
+      "author": "Patrick McGeehan",
+      "publishDate": "2026-03-25T02:35:26.000Z",
+      "category": "Airlines and Airplanes",
+      "tags": [
+        "Airlines and Airplanes",
+        "Aviation Accidents, Safety and Disasters",
+        "Airports",
+        "Deaths (Fatalities)",
+        "LaGuardia Airport (Queens, NY)",
+        "Port Authority of New York and New Jersey",
+        "Garcia, Kathryn",
+        "New York City",
+        "Queens (NYC)"
+      ]
+    },
+    {
+      "title": "Democrat Emily Gregory Wins Florida Special Election in Mar-a-Lago’s District",
+      "url": "https://www.nytimes.com/2026/03/24/us/politics/florida-special-election-emily-gregory.html",
+      "summary": "Emily Gregory’s victory in Palm Beach brought the Democratic surge to President Trump’s backyard, while a union leader leads in a race for a state senate seat vacated by Florida’s lieutenant governor.",
+      "author": "David W. Chen",
+      "publishDate": "2026-03-25T01:32:12.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Midterm Elections (2026)",
+        "State Legislatures",
+        "Elections, State Legislature",
+        "Mar-a-Lago (Palm Beach, Fla)",
+        "Trump, Donald J",
+        "Palm Beach (Fla)",
+        "Florida"
+      ]
+    },
+    {
+      "title": "Republicans Step Up Efforts to Reach DHS Funding Deal and End Shutdown",
+      "url": "https://www.nytimes.com/2026/03/24/us/politics/senate-republicans-homeland-security-shutdown-ice.html",
+      "summary": "A day after President Trump said he did not want a compromise, Senate Republicans sent Democrats a plan that would break off ICE enforcement funding and reopen the rest of the department.",
+      "author": "Michael Gold",
+      "publishDate": "2026-03-24T22:12:01.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Budgets and Budgeting",
+        "Immigration and Emigration",
+        "Homeland Security Department",
+        "Republican Party",
+        "Immigration and Customs Enforcement (US)",
+        "Trump, Donald J",
+        "Senate",
+        "House of Representatives"
+      ]
+    },
+    {
+      "title": "TSA Airport Delays: What It’s Like Waiting in Line for Hours",
+      "url": "https://www.nytimes.com/2026/03/24/us/tsa-airports-houston-atlanta-newark.html",
+      "summary": "Scenes from extra long lines at two airports, and a surprising discovery at a third.",
+      "author": "Alan Blinder, Shannon Sims and Mark Bonamo",
+      "publishDate": "2026-03-24T23:04:50.000Z",
+      "category": "Airport Security",
+      "tags": [
+        "Airport Security",
+        "Airports",
+        "Delays (Transportation)",
+        "Shutdowns (Institutional)",
+        "Bush, George, Intercontinental Airport",
+        "Immigration and Customs Enforcement (US)",
+        "Hartsfield-Jackson Atlanta International Airport (Atlanta, Ga)",
+        "Newark Liberty International Airport (NJ)",
+        "Atlanta (Ga)",
+        "Houston (Tex)"
+      ]
+    },
+    {
+      "title": "Trump Picks ‘Alpha Male’ Influencer to Be Tourism Envoy",
+      "url": "https://www.nytimes.com/2026/03/24/us/politics/nick-adams-trump-tourism.html",
+      "summary": "Nick Adams, known for his crass humor and internet trolling, was previously nominated to be the ambassador to Malaysia. But his nomination was pulled earlier this year.",
+      "author": "Chris Cameron",
+      "publishDate": "2026-03-24T20:41:49.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Appointments and Executive Changes",
+        "State Department",
+        "Adams, Nick (1984- )",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Delta Air Lines Says It Will Suspend Special Services for Congress Members",
+      "url": "https://www.nytimes.com/2026/03/24/business/delta-congress-travel-services-suspended.html",
+      "summary": "Airport escorts and “red coat” assistance for lawmakers will be suspended, the airline said on Tuesday, citing the extended partial government shutdown.",
+      "author": "Livia Albeck-Ripka",
+      "publishDate": "2026-03-24T23:40:33.000Z",
+      "category": "Airlines and Airplanes",
+      "tags": [
+        "Airlines and Airplanes",
+        "Airport Security",
+        "Airports",
+        "Shutdowns (Institutional)",
+        "Delta Air Lines Inc",
+        "Transportation Security Administration",
+        "Bastian, Edward H",
+        "Trump, Donald J",
+        "Newark (NJ)",
+        "Atlanta (Ga)"
+      ]
+    },
+    {
+      "title": "T.S.A. Tipped Off ICE Agents Before Arrests at San Francisco Airport",
+      "url": "https://www.nytimes.com/2026/03/24/us/tsa-data-ice-deportation-san-francisco-airport.html",
+      "summary": "Transportation Security Administration officials told ICE that a mother and daughter under a detention order had planned to fly domestically, federal documents show.",
+      "author": "Hamed Aleaziz and Heather Knight",
+      "publishDate": "2026-03-25T00:19:13.000Z",
+      "category": "Immigration and Emigration",
+      "tags": [
+        "San Francisco Bay Area (Calif)",
+        "San Francisco International Airport",
+        "Immigration and Emigration",
+        "Illegal Immigration",
+        "Immigration and Customs Enforcement (US)",
+        "Transportation Security Administration"
+      ]
+    },
+    {
+      "title": "Somali Immigrants Have Effectively Been Denied a Fair Hearing, Lawsuit Says",
+      "url": "https://www.nytimes.com/2026/03/24/us/dhs-fast-track-somali-deportations-lawsuit.html",
+      "summary": "Two Minnesota-based legal groups accused the Justice Department of unconstitutionally expediting Somalis’ immigration cases.",
+      "author": "Pooja Salhotra",
+      "publishDate": "2026-03-25T03:13:21.000Z",
+      "category": "Somali-Americans",
+      "tags": [
+        "Somali-Americans",
+        "Immigration and Emigration",
+        "Illegal Immigration",
+        "Immigration and Customs Enforcement (US)"
+      ]
+    },
+    {
+      "title": "Plan to Disarm Hamas in Gaza Is Detailed at U.N.",
+      "url": "https://www.nytimes.com/2026/03/24/world/middleeast/gaza-disarm-hamas-israel-board-of-peace.html",
+      "summary": "A Board of Peace member said the most dangerous weapons would be collected first. He linked compliance with disarmament to reconstruction beginning in the enclave.",
+      "author": "Ephrat Livni",
+      "publishDate": "2026-03-25T01:50:17.000Z",
+      "category": "Israel-Gaza War (2023- )",
+      "tags": [
+        "Israel-Gaza War (2023- )",
+        "Defense and Military Forces",
+        "War and Armed Conflicts",
+        "Peace Process",
+        "Board of Peace",
+        "Hamas",
+        "Security Council (UN)",
+        "Mladenov, Nickolay E",
+        "Trump, Donald J",
+        "Gaza Strip"
+      ]
+    },
+    {
+      "title": "Massachusetts Teacher Charged With Raping Two Students",
+      "url": "https://www.nytimes.com/2026/03/24/us/teacher-rape-miss-halls-massachusetts.html",
+      "summary": "The students say the former teacher at Miss Hall’s, a boarding school, groomed them and began having sex with them at age 16, which state law considers old enough for consent.",
+      "author": "Jenna Russell",
+      "publishDate": "2026-03-25T03:01:58.000Z",
+      "category": "Sex Crimes",
+      "tags": [
+        "Sex Crimes",
+        "Teachers and School Employees",
+        "Miss Hall's School (Pittsfield, Mass)",
+        "Rutledge, Matthew (1961- )",
+        "Pittsfield (Mass)"
+      ]
+    },
+    {
+      "title": "Sarah Mullally, the First Female Archbishop of Canterbury, is About to Be Enthroned",
+      "url": "https://www.nytimes.com/2026/03/25/world/europe/sarah-mullally-archbishop-of-canterbury-church-of-england.html",
+      "summary": "Sarah Mullally will be installed on Wednesday at Canterbury Cathedral. Her appointment to the role has been both celebrated, and denounced by some factions within the global Anglican Church.",
+      "author": "Megan Specia",
+      "publishDate": "2026-03-25T04:01:06.000Z",
+      "category": "Anglican Churches",
+      "tags": [
+        "Anglican Churches",
+        "Christians and Christianity",
+        "Church of England",
+        "Anglican Communion",
+        "Canterbury (England)"
+      ]
+    },
+    {
+      "title": "What’s a Threat? Gabbard Says It’s Up to Trump, on Iran and Elsewhere.",
+      "url": "https://www.nytimes.com/2026/03/18/us/politics/tulsi-gabbard-iran-trump.html",
+      "summary": "Tulsi Gabbard, the director of national intelligence, was left to square the president’s comments about an imminent nuclear threat from Iran with a letter from one of her trusted aides.",
+      "author": "David E. Sanger and Julian E. Barnes",
+      "publishDate": "2026-03-18T22:59:15.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "US and Israeli Attack on Iran (2026)",
+        "United States International Relations",
+        "Espionage and Intelligence Services",
+        "Central Intelligence Agency",
+        "Office of the Director of National Intelligence",
+        "Gabbard, Tulsi (1981- )",
+        "Kent, Joe (1980- )",
+        "Ratcliffe, John Lee (1965- )",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "A Gift From Trump to the Supreme Court",
+      "url": "https://www.nytimes.com/2026/03/19/us/the-docket-gift-trump-supreme-court.html",
+      "summary": "In a caustic critique of the court issued on social media late Sunday night, the president inadvertently buttressed its independence.",
+      "author": "Adam Liptak",
+      "publishDate": "2026-03-19T16:01:44.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Courts and the Judiciary",
+        "Midterm Elections (2026)",
+        "Decisions and Verdicts",
+        "Law and Legislation",
+        "Elections, Courts and the Judiciary",
+        "Voter Fraud (Election Fraud)",
+        "Federal Reserve System",
+        "Supreme Court (US)",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "U.S. Intelligence Saw No Change in Iran’s Missile Capabilities Before War",
+      "url": "https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html",
+      "summary": "On Wednesday, the director of national intelligence and C.I.A. director contradicted one of the justifications the Trump administration had given for its attacks on Iran.",
+      "author": "Robert Jimison",
+      "publishDate": "2026-03-19T12:47:59.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "Gabbard, Tulsi (1981- )",
+        "Ratcliffe, John Lee (1965- )",
+        "Central Intelligence Agency",
+        "Office of the Director of National Intelligence",
+        "Senate Committee on Intelligence",
+        "Ossoff, Jon",
+        "Cotton, Tom",
+        "US and Israeli Attack on Iran (2026)",
+        "Missiles and Missile Defense Systems",
+        "Iran"
+      ]
+    },
+    {
+      "title": "Nicholas Brendon, Beloved Sidekick on ‘Buffy the Vampire Slayer,’ Dies at 54",
+      "url": "https://www.nytimes.com/2026/03/20/arts/television/nicholas-brendon-dead.html",
+      "summary": "He played the part of Xander Harris, one of Buffy’s closest friends, on the hit television show about a teenage girl who protects the world from monsters.",
+      "author": "Francesca Regalado and Hannah Ziegler",
+      "publishDate": "2026-03-23T20:16:20.000Z",
+      "category": "Deaths (Obituaries)",
+      "tags": [
+        "Brendon, Nicholas (1971-2026)",
+        "Deaths (Obituaries)",
+        "Actors and Actresses",
+        "Television",
+        "Buffy the Vampire Slayer (TV Program)"
       ]
     }
   ]
