@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-26T04:52:05+09:00",
+  "timestamp": "2026-03-26T08:31:35+09:00",
   "articles": [
     {
       "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial",
@@ -838,6 +838,279 @@
         "Abe, Shinzo",
         "Japan",
         "Pearl Harbor (Hawaii)"
+      ]
+    },
+    {
+      "title": "The Social Media Addiction Trials: What to Know",
+      "url": "https://www.nytimes.com/2026/01/27/technology/social-media-addiction-trials.html",
+      "summary": "Landmark trials are testing a new legal strategy claiming that Meta, TikTok, Snap and YouTube caused personal injury through addictive products.",
+      "author": "Cecilia Kang",
+      "publishDate": "2026-03-25T21:59:32.000Z",
+      "category": "Social Media",
+      "tags": [
+        "Social Media",
+        "Computers and the Internet",
+        "Suits and Litigation (Civil)",
+        "Facebook Inc",
+        "Google Inc",
+        "Instagram Inc",
+        "TikTok (ByteDance)",
+        "Snap Inc",
+        "Zuckerberg, Mark E",
+        "Addiction (Psychology)"
+      ]
+    },
+    {
+      "title": "Asia Is Getting Crushed Between Oil Prices and the Dollar",
+      "url": "https://www.nytimes.com/2026/03/25/business/iran-war-dollar-rupee-won.html",
+      "summary": "From India to Southeast Asia to South Korea, currencies are crumbling as governments race to secure fuel that is priced in American money.",
+      "author": "Alex Travelli, Choe Sang-Hun, Sui-Lee Wee and Jason Gutierrez",
+      "publishDate": "2026-03-25T22:00:11.000Z",
+      "category": "Currency",
+      "tags": [
+        "Currency",
+        "US and Israeli Attack on Iran (2026)",
+        "Prices (Fares, Fees and Rates)",
+        "Oil (Petroleum) and Gasoline",
+        "Economic Conditions and Trends",
+        "Trump, Donald J",
+        "India",
+        "Philippines",
+        "South Korea"
+      ]
+    },
+    {
+      "title": "Trump Says He’s Talking With Iran. Iran Says He’s Not. Here’s Why.",
+      "url": "https://www.nytimes.com/2026/03/25/world/middleeast/trump-iran-talks-contradiction.html",
+      "summary": "The president has domestic and international political motivations for touting negotiations to end the war. Iran has similar ones to deny discussions.",
+      "author": "Jim Tankersley",
+      "publishDate": "2026-03-25T20:27:51.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Trump, Donald J",
+        "Iran",
+        "United States",
+        "United States International Relations",
+        "Prices (Fares, Fees and Rates)",
+        "Oil (Petroleum) and Gasoline",
+        "International Relations",
+        "Vance, J D",
+        "Rubio, Marco"
+      ]
+    },
+    {
+      "title": "Why Are Delays at Houston’s Bush Airport Worse Than at Others?",
+      "url": "https://www.nytimes.com/2026/03/25/us/tsa-airport-delays-houston-bush.html",
+      "summary": "Lines were long at airports nationwide Tuesday amid T.S.A. staffing shortages, but passengers at Bush Intercontinental Airport waited more than four hours to pass through checkpoints.",
+      "author": "Christina Morales",
+      "publishDate": "2026-03-25T22:03:18.000Z",
+      "category": "Airport Security",
+      "tags": [
+        "Bush, George, Intercontinental Airport",
+        "Houston (Tex)",
+        "Transportation Security Administration",
+        "Airport Security"
+      ]
+    },
+    {
+      "title": "Advice on Navigating T.S.A. Wait Times at the Airport",
+      "url": "https://www.nytimes.com/2026/03/25/travel/tsa-wait-time-airport-advice.html",
+      "summary": "With lines stretching for hours and passengers missing flights, fliers are desperate to ease the wait at security. There are some steps you can take, but no guarantees.",
+      "author": "Elaine Glusac",
+      "publishDate": "2026-03-25T18:47:39.000Z",
+      "category": "Airlines and Airplanes",
+      "tags": [
+        "Airlines and Airplanes",
+        "Airport Security",
+        "Airports",
+        "Shutdowns (Institutional)",
+        "Secure Identity LLC (Clear)",
+        "Transportation Security Administration",
+        "United States"
+      ]
+    },
+    {
+      "title": "Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them",
+      "url": "https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html",
+      "summary": "The first lady, Melania Trump, believes that more children should be educated by “humanoid educators.”",
+      "author": "Katie Rogers",
+      "publishDate": "2026-03-25T23:01:25.000Z",
+      "category": "Robots and Robotics",
+      "tags": [
+        "Robots and Robotics",
+        "Artificial Intelligence",
+        "Education (K-12)",
+        "Children and Childhood",
+        "First Ladies (US)",
+        "Trump, Melania"
+      ]
+    },
+    {
+      "title": "Trump to Delay Nominating New C.D.C. Director",
+      "url": "https://www.nytimes.com/2026/03/25/health/cdc-director-nomination-delay.html",
+      "summary": "The administration has yet to find a candidate who aligns with Health Secretary Robert F. Kennedy Jr.’s agenda while avoiding his unpopular stance on vaccines.",
+      "author": "Apoorva Mandavilli and Sheryl Gay Stolberg",
+      "publishDate": "2026-03-25T23:22:11.000Z",
+      "category": "your-feed-science",
+      "tags": [
+        "your-feed-science",
+        "Appointments and Executive Changes",
+        "United States Politics and Government",
+        "Vaccination and Immunization",
+        "Centers for Disease Control and Prevention",
+        "Health and Human Services Department",
+        "Bhattacharya, Jay",
+        "Kennedy, Robert F Jr"
+      ]
+    },
+    {
+      "title": "For 2nd Time, an Appeals Court Backs the Trump Administration’s Detention Policy",
+      "url": "https://www.nytimes.com/2026/03/25/us/politics/trump-appeals-court-detention-bond.html",
+      "summary": "Courts are weighing whether the administration can hold undocumented immigrants without bond, an issue that may be resolved by the Supreme Court.",
+      "author": "Mattathias Schwartz",
+      "publishDate": "2026-03-25T21:13:03.000Z",
+      "category": "Decisions and Verdicts",
+      "tags": [
+        "Decisions and Verdicts",
+        "United States Politics and Government",
+        "Immigration Detention",
+        "Deportation",
+        "Illegal Immigration",
+        "Habeas Corpus",
+        "Courts and the Judiciary",
+        "Law and Legislation",
+        "Federal Courts (US)",
+        "Immigration and Emigration"
+      ]
+    },
+    {
+      "title": "James Talarico Responds With ‘Love’ To Hegseth Pastor’s Criticism",
+      "url": "https://www.nytimes.com/2026/03/25/us/politics/talarico-response-love-pastor-hegseth-crucified-christ.html",
+      "summary": "James Talarico, the Democratic nominee for Senate in Texas, said, “You may pray for my death, Pastor, but I still love you.” The pastor said he was calling for Mr. Talarico’s religious conversion.",
+      "author": "Tim Balk and Elizabeth Dias",
+      "publishDate": "2026-03-25T22:08:14.000Z",
+      "category": "Midterm Elections (2026)",
+      "tags": [
+        "Midterm Elections (2026)",
+        "Democratic Party",
+        "Hegseth, Pete",
+        "Talarico, James",
+        "Texas",
+        "Tennessee"
+      ]
+    },
+    {
+      "title": "Leon Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans",
+      "url": "https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html",
+      "summary": "By leveraging social media and the influencer economy, he turned his website into a byword for online pornography in the 21st century.",
+      "author": "Clay Risen",
+      "publishDate": "2026-03-25T22:28:20.000Z",
+      "category": "Deaths (Obituaries)",
+      "tags": [
+        "Radvinsky, Leonid (1982-2026)",
+        "Deaths (Obituaries)",
+        "OnlyFans",
+        "Pornography",
+        "Social Media",
+        "Computers and the Internet",
+        "Domain Names (Internet)",
+        "Coronavirus (2019-nCoV)"
+      ]
+    },
+    {
+      "title": "Mozart Wouldn’t Be Mozart Without These Three Objects",
+      "url": "https://www.nytimes.com/2026/03/25/arts/music/mozart-salzburg-morgan-library.html",
+      "summary": "Hear the instruments and scores, on view in a new exhibition at the Morgan Library and Museum, that proved foundational for Mozart’s life in music.",
+      "author": "Joshua Barone and Karsten Moran",
+      "publishDate": "2026-03-25T19:51:19.000Z",
+      "category": "Classical Music",
+      "tags": [
+        "Classical Music",
+        "Museums",
+        "Mozart, Wolfgang Amadeus",
+        "Morgan Library & Museum",
+        "International Mozarteum Foundation",
+        "Salzburg (Austria)",
+        "Manhattan (NYC)"
+      ]
+    },
+    {
+      "title": "Blockade Iran’s Oil",
+      "url": "https://www.nytimes.com/2026/03/25/opinion/iran-oil-persian-gulf-blockade.html",
+      "summary": "How the United States can end Iran’s control of the Persian Gulf.",
+      "author": "Clayton Seigle",
+      "publishDate": "2026-03-25T09:02:25.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States Defense and Military Forces",
+        "International Relations",
+        "Ships and Shipping",
+        "Embargoes and Sanctions",
+        "United States International Relations",
+        "Oil (Petroleum) and Gasoline",
+        "Natural Gas",
+        "United States Navy",
+        "Arabian Sea"
+      ]
+    },
+    {
+      "title": "Social Media Giants Found Negligent in Landmark Trial",
+      "url": "https://www.nytimes.com/2026/03/25/briefing/social-media-trial-iran-us-peace-talks.html",
+      "summary": "Also, Iran signals an openness to negotiations. Here’s the latest at the end of Wednesday.",
+      "author": "Matthew Cullen",
+      "publishDate": "2026-03-25T21:29:18.000Z"
+    },
+    {
+      "title": "Canada’s Supreme Court Hears Case on Ability to Suspend Constitutional Rights",
+      "url": "https://www.nytimes.com/2026/03/25/world/americas/canada-supreme-court-religion-bill-21.html",
+      "summary": "Quebec’s ban on religious symbols — and a measure that suspends constitutional rights — are being tested in a case with far-reaching repercussions.",
+      "author": "Norimitsu Onishi",
+      "publishDate": "2026-03-25T23:14:35.000Z",
+      "category": "Religion-State Relations",
+      "tags": [
+        "Religion-State Relations",
+        "Law and Legislation",
+        "Decisions and Verdicts",
+        "Supreme Court of Canada",
+        "Legault, Francois",
+        "Poilievre, Pierre",
+        "Canada",
+        "internal-open-access-from-nl"
+      ]
+    },
+    {
+      "title": "Day Care Worker Stole Millions for Trips and W.W.E. Tickets, U.S. Says",
+      "url": "https://www.nytimes.com/2026/03/25/nyregion/daycare-brooklyn-theft-wwe.html",
+      "summary": "Murielle Misczak was arrested Wednesday morning and is accused of using the money on wrestling tickets, luxury vacations and food deliveries.",
+      "author": "Santul Nerkar",
+      "publishDate": "2026-03-25T22:33:59.000Z",
+      "category": "Child Care",
+      "tags": [
+        "Child Care",
+        "Day Care Centers",
+        "Federal Bureau of Investigation",
+        "Brooklyn (NYC)",
+        "New York City",
+        "Robberies and Thefts"
+      ]
+    },
+    {
+      "title": "T.S.A. Tipped Off ICE Agents Before Arrests at San Francisco Airport",
+      "url": "https://www.nytimes.com/2026/03/24/us/tsa-data-ice-deportation-san-francisco-airport.html",
+      "summary": "Transportation Security Administration officials told ICE that a mother and daughter under a detention order had planned to fly domestically, federal documents show.",
+      "author": "Hamed Aleaziz and Heather Knight",
+      "publishDate": "2026-03-25T09:59:07.000Z",
+      "category": "Immigration and Emigration",
+      "tags": [
+        "San Francisco Bay Area (Calif)",
+        "San Francisco International Airport",
+        "Immigration and Emigration",
+        "Illegal Immigration",
+        "Immigration and Customs Enforcement (US)",
+        "Transportation Security Administration",
+        "internal-open-access-from-nl"
       ]
     }
   ]
