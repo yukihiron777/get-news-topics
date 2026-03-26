@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-27T05:01:08+09:00",
+  "timestamp": "2026-03-27T08:29:28+09:00",
   "articles": [
     {
       "title": "After Wooing Trump With Deals, Pakistan Gets a Seat at the Table",
@@ -785,6 +785,265 @@
         "Muslims and Islam",
         "United States International Relations",
         "Freedom of Religion"
+      ]
+    },
+    {
+      "title": "Trump Says He Will Sign Order to Pay T.S.A. Agents During Shutdown",
+      "url": "https://www.nytimes.com/2026/03/26/us/politics/trump-tsa-agents-shutdown.html",
+      "summary": "President Trump said he would sign an emergency order to pay Transportation Security Administration agents, with an intensifying crisis at airports ahead of a busy travel weekend.",
+      "author": "Michael Gold",
+      "publishDate": "2026-03-26T23:09:09.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "live-detached",
+        "Airport Security",
+        "Security and Warning Systems",
+        "Airports",
+        "Trump, Donald J",
+        "Mullin, Markwayne"
+      ]
+    },
+    {
+      "title": "D.H.S. Funding Lapse Leads to Longest Partial Shutdown in History",
+      "url": "https://www.nytimes.com/2026/03/26/us/politics/dhs-shutdown-longest-history.html",
+      "summary": "If the shutdown continues after this weekend, it will be longer than any previous shutdown, partial or full.",
+      "author": "Ashley Wu",
+      "publishDate": "2026-03-26T23:04:45.000Z",
+      "category": "Shutdowns (Institutional)",
+      "tags": [
+        "Shutdowns (Institutional)",
+        "United States Politics and Government",
+        "Homeland Security Department"
+      ]
+    },
+    {
+      "title": "U.S. Stocks Have Their Biggest Drop Since Start of Iran War",
+      "url": "https://www.nytimes.com/2026/03/26/business/oil-stock-gas-prices-iran.html",
+      "summary": "The S&P 500 tumbled 1.7 percent on Thursday and oil prices continued rising as investors fret about when the war would end.",
+      "author": "Joe Rennison",
+      "publishDate": "2026-03-26T21:48:27.000Z",
+      "category": "Prices (Fares, Fees and Rates)",
+      "tags": [
+        "Prices (Fares, Fees and Rates)",
+        "US and Israeli Attack on Iran (2026)",
+        "Oil (Petroleum) and Gasoline",
+        "Stocks and Bonds",
+        "Standard & Poor's 500-Stock Index",
+        "American Automobile Assn",
+        "Iran"
+      ]
+    },
+    {
+      "title": "Iran Keeps a Tight Grip on Strait of Hormuz, Pressuring Shipping and Energy Sectors",
+      "url": "https://www.nytimes.com/2026/03/26/business/iran-war-ships-strait-of-hormuz.html",
+      "summary": "Iran has allowed a small number of vessels to pass, but that won’t alleviate pressure or risk for the shipping industry and energy markets any time soon.",
+      "author": "Peter Eavis",
+      "publishDate": "2026-03-26T21:36:34.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Ships and Shipping",
+        "War and Armed Conflicts",
+        "Oil (Petroleum) and Gasoline",
+        "International Relations",
+        "Prices (Fares, Fees and Rates)",
+        "Freight (Cargo)",
+        "Iran",
+        "Strait of Hormuz",
+        "Persian Gulf"
+      ]
+    },
+    {
+      "title": "G.O.P. Senator Weighs Forcing Congress to Vote to Authorize the Iran War",
+      "url": "https://www.nytimes.com/2026/03/26/us/senator-murkowski-iran-war-vote-congress.html",
+      "summary": "Senator Lisa Murkowski of Alaska is drafting a formal authorization for the use of military force in Iran, seeking to put some parameters around the operation as the Trump administration has boxed out Congress.",
+      "author": "Megan Mineiro and Robert Jimison",
+      "publishDate": "2026-03-26T21:42:07.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States Politics and Government",
+        "War and Emergency Powers (US)",
+        "War Powers Act (1973)",
+        "Republican Party",
+        "Senate",
+        "House of Representatives",
+        "Murkowski, Lisa",
+        "Trump, Donald J",
+        "Iran"
+      ]
+    },
+    {
+      "title": "Air Canada C.E.O. Apologizes for English-Language Condolences After Plane Crash",
+      "url": "https://www.nytimes.com/2026/03/26/world/canada/air-canada-ceo-english-apology-crash.html",
+      "summary": "Michael Rousseau said he was “deeply saddened” that his ​inability to speak French had diverted attention from the families’ grief.",
+      "author": "Adeel Hassan",
+      "publishDate": "2026-03-26T21:42:19.000Z",
+      "category": "Aviation Accidents, Safety and Disasters",
+      "tags": [
+        "Aviation Accidents, Safety and Disasters",
+        "Apologies",
+        "Airlines and Airplanes",
+        "Language and Languages",
+        "French Language",
+        "Rousseau, Michael (Airline Executive)",
+        "Air Canada",
+        "Canada",
+        "Quebec Province (Canada)",
+        "LaGuardia Airport (Queens, NY)"
+      ]
+    },
+    {
+      "title": "Trump Defends His Use of Mail-In Voting: ‘Because I’m President’",
+      "url": "https://www.nytimes.com/2026/03/26/us/politics/trump-mail-in-voting-florida.html",
+      "summary": "President Trump wants to restrict voting by mail, which he says amounts to “cheating.” But he defended his own use of the practice in a special election this week.",
+      "author": "Erica L. Green",
+      "publishDate": "2026-03-26T18:28:15.000Z",
+      "category": "Absentee Voting",
+      "tags": [
+        "Absentee Voting",
+        "United States Politics and Government",
+        "Voting Rights, Registration and Requirements",
+        "Voter Fraud (Election Fraud)",
+        "Trump, Donald J",
+        "Gregory, Emily (1985- )",
+        "Florida",
+        "Palm Beach County (Fla)"
+      ]
+    },
+    {
+      "title": "Sheriff in California Seizes More Ballots, Ignoring State Attorney General",
+      "url": "https://www.nytimes.com/2026/03/26/us/politics/california-sheriff-ballots-attorney-general.html",
+      "summary": "Chad Bianco, the Riverside County sheriff and a Republican running for governor, is examining votes from 2025 after unsubstantiated claims of fraud.",
+      "author": "Nick Corasaniti",
+      "publishDate": "2026-03-26T22:27:55.000Z",
+      "category": "Midterm Elections (2026)",
+      "tags": [
+        "Midterm Elections (2026)",
+        "California",
+        "Trump, Donald J",
+        "Voter Fraud (Election Fraud)",
+        "Voting and Voters",
+        "Bianco, Chad",
+        "Bonta, Rob (1972- )",
+        "Republican Party",
+        "Elections, Governors",
+        "Riverside County (Calif)"
+      ]
+    },
+    {
+      "title": "Wall St. Bonuses Soared to $49.2 Billion. New York Hoped for Even More.",
+      "url": "https://www.nytimes.com/2026/03/26/nyregion/wall-street-bonus.html",
+      "summary": "The city was counting on a 15 percent rise in bonuses to produce tax revenues to fill its budget gap. The actual increase was 9 percent, the state comptroller said.",
+      "author": "Liam Stack",
+      "publishDate": "2026-03-26T22:01:48.000Z",
+      "category": "Budgets and Budgeting",
+      "tags": [
+        "Budgets and Budgeting",
+        "Bonuses",
+        "Executive Compensation",
+        "Taxation",
+        "Cost of Living and Affordability",
+        "Income Inequality",
+        "High Net Worth Individuals",
+        "Office of the Comptroller (NYS)",
+        "DiNapoli, Thomas P",
+        "Mamdani, Zohran"
+      ]
+    },
+    {
+      "title": "It Was One of the Cold War’s Greatest Crimes. No One Has Paid a Price.",
+      "url": "https://www.nytimes.com/2026/03/26/opinion/congo-lumumba-cia-assassination.html",
+      "summary": "No one apart from the Congolese people has ever paid a price for the CIA-backed assassination of Patrice Lumumba.",
+      "author": "Stuart A. Reid",
+      "publishDate": "2026-03-26T13:29:56.000Z",
+      "category": "Murders, Attempted Murders and Homicides",
+      "tags": [
+        "Lumumba, Patrice",
+        "Central Intelligence Agency",
+        "Murders, Attempted Murders and Homicides",
+        "Mobutu Sese Seko",
+        "Eisenhower, Dwight David",
+        "Cold War Era",
+        "Belgium",
+        "Leopold II",
+        "Congo, Democratic Republic of (Congo-Kinshasa)"
+      ]
+    },
+    {
+      "title": "Trump Gives Iran More Time to Reopen the Strait of Hormuz",
+      "url": "https://www.nytimes.com/2026/03/26/briefing/trump-strait-of-hormuz-catholic-churches.html",
+      "summary": "Also, transgender athletes were barred from women’s Olympic events. Here’s the latest at the end of Thursday.",
+      "author": "Matthew Cullen",
+      "publishDate": "2026-03-26T21:40:20.000Z"
+    },
+    {
+      "title": "California Renames Cesar Chavez Holiday After Sex Abuse Revelations",
+      "url": "https://www.nytimes.com/2026/03/26/us/california-cesar-chavez-day-rename.html",
+      "summary": "Gov. Gavin Newsom signed legislation to rename Cesar Chavez Day as “Farmworkers Day,” moving quickly before the March 31 holiday.",
+      "author": "Laurel Rosenhall",
+      "publishDate": "2026-03-26T22:38:21.000Z",
+      "category": "Law and Legislation",
+      "tags": [
+        "Law and Legislation",
+        "Holidays and Special Occasions",
+        "United Farm Workers of America",
+        "Chavez, Cesar",
+        "Huerta, Dolores",
+        "Newsom, Gavin",
+        "California"
+      ]
+    },
+    {
+      "title": "High School Athlete Is Shot Dead While Playing With Friends",
+      "url": "https://www.nytimes.com/2026/03/26/nyregion/teen-shot-killed-nyc.html",
+      "summary": "A boy, the son of a New York police officer, may have been playing with a gun when it accidentally went off, killing Ka’Mardre Coleman, 16, according to prosecutors and the boy’s lawyer.",
+      "author": "Andy Newman, Nate Schweber and Miles G. Cohen",
+      "publishDate": "2026-03-26T22:15:43.000Z",
+      "category": "Football",
+      "tags": [
+        "Football",
+        "Deaths (Fatalities)",
+        "Brooklyn (NYC)",
+        "Sheepshead Bay (Brooklyn, NY)"
+      ]
+    },
+    {
+      "title": "Sardi’s Sells Its Name and Takes a Brief Intermission",
+      "url": "https://www.nytimes.com/2026/03/26/nyregion/sardis-nyc-sold-shubert.html",
+      "summary": "The longtime owner of the restaurant, a Theater District mainstay, is bowing out, and the Shubert Organization plans to reopen after a renovation, with the celebrity caricatures intact.",
+      "author": "Julie Besonen",
+      "publishDate": "2026-03-26T22:41:08.000Z",
+      "category": "Theater",
+      "tags": [
+        "Theater",
+        "Restaurants",
+        "Bars and Nightclubs",
+        "Theater (Broadway)",
+        "Actors and Actresses",
+        "Tony Awards (Theater Awards)",
+        "Sardi's (Manhattan, NY, Restaurant)",
+        "Shubert Organization",
+        "Hawke, Ethan",
+        "Klimavicius, Max"
+      ]
+    },
+    {
+      "title": "FKA twigs Says in Suit That Shia LaBeouf Had Her Sign ‘Illegal’ NDA",
+      "url": "https://www.nytimes.com/2026/03/26/arts/music/fka-twigs-lawsuit-shia-labeouf-nda.html",
+      "summary": "The suit said the nondisclosure agreement that was part of her court settlement with Mr. LaBeouf, her former boyfriend, effectively silenced her. His lawyer disputes that.",
+      "author": "Melena Ryzik",
+      "publishDate": "2026-03-26T22:37:38.000Z",
+      "category": "Suits and Litigation (Civil)",
+      "tags": [
+        "Suits and Litigation (Civil)",
+        "Nondisclosure Agreements",
+        "Sexual Harassment",
+        "FKA twigs",
+        "LaBeouf, Shia",
+        "California",
+        "New Orleans (La)"
       ]
     }
   ]
