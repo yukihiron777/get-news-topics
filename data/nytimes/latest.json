@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-26T08:31:35+09:00",
+  "timestamp": "2026-03-26T13:40:25+09:00",
   "articles": [
     {
       "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial",
@@ -1111,6 +1111,214 @@
         "Immigration and Customs Enforcement (US)",
         "Transportation Security Administration",
         "internal-open-access-from-nl"
+      ]
+    },
+    {
+      "title": "Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran",
+      "url": "https://www.nytimes.com/2026/03/26/world/europe/iran-trump-hormuz-europe-dilemma.html",
+      "summary": "European politicians risk angering their voters if they join America’s war. Yet they could also face domestic upheaval if they take no action to reopen shipping routes that Iran has blocked and ease an energy crisis.",
+      "author": "Mark Landler",
+      "publishDate": "2026-03-26T04:01:13.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "International Relations",
+        "Oil (Petroleum) and Gasoline",
+        "Defense and Military Forces",
+        "Trump, Donald J",
+        "Europe",
+        "Iran",
+        "Strait of Hormuz"
+      ]
+    },
+    {
+      "title": "Trump Had His Eye on China, Then Plunged Into a New Mideast War",
+      "url": "https://www.nytimes.com/2026/03/25/us/politics/trump-china-mideast.html",
+      "summary": "The Trump administration said the Middle East would “recede” in importance as the China challenge took priority. But the president started the war in Iran.",
+      "author": "Edward Wong",
+      "publishDate": "2026-03-25T19:19:42.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States International Relations",
+        "United States Defense and Military Forces",
+        "Stockpiling",
+        "Defense Department",
+        "Trump, Donald J",
+        "Iran",
+        "Middle East",
+        "United States Politics and Government",
+        "China"
+      ]
+    },
+    {
+      "title": "ICE Agents at Some Airports Begin Checking IDs in Security Lines",
+      "url": "https://www.nytimes.com/2026/03/25/us/ice-airports-checking-ids-security.html",
+      "summary": "It was unclear whether having agents helping with screening passengers would improve wait times. Some travelers expressed worries.",
+      "author": "Christina Morales, Christine Chung, Hamed Aleaziz, Sean Keenan and Rowan Moore Gerety",
+      "publishDate": "2026-03-26T01:26:30.000Z",
+      "category": "Airport Security",
+      "tags": [
+        "Airport Security",
+        "Airports",
+        "Delays (Transportation)",
+        "Government Employees",
+        "Atlanta (Ga)",
+        "Phoenix (Ariz)"
+      ]
+    },
+    {
+      "title": "Immigration Slowdown Hits Every Metro Area in the U.S., Census Shows",
+      "url": "https://www.nytimes.com/2026/03/26/us/politics/us-census-county-immigration.html",
+      "summary": "Large urban counties and the border were the most affected. And in three-quarters of U.S. counties, population growth either slowed or turned negative.",
+      "author": "Jeff Adelson and Amy Qin",
+      "publishDate": "2026-03-26T04:01:05.000Z",
+      "category": "Illegal Immigration",
+      "tags": [
+        "Census Bureau",
+        "Illegal Immigration",
+        "Population",
+        "United States",
+        "Urban Areas",
+        "Immigration and Emigration"
+      ]
+    },
+    {
+      "title": "New York City’s Population Flat After Drop in Immigration",
+      "url": "https://www.nytimes.com/2026/03/26/nyregion/nyc-census-population-data.html",
+      "summary": "Newly released census data shows that from June 2024 to July 2025, the number of new residents who were international immigrants dropped by 70 percent compared to a year before.",
+      "author": "Winnie Hu and Jeff Adelson",
+      "publishDate": "2026-03-26T04:01:11.000Z",
+      "category": "Immigration and Emigration",
+      "tags": [
+        "Immigration and Emigration",
+        "New York City",
+        "Census",
+        "Population",
+        "Urban Areas",
+        "Census Bureau"
+      ]
+    },
+    {
+      "title": "Justice Dept. Settles Flynn’s Wrongful Prosecution Suit for $1.25 Million",
+      "url": "https://www.nytimes.com/2026/03/25/us/politics/michael-flynn-doj-settlement-trump.html",
+      "summary": "The agreement was an extraordinary example of how the Trump administration has offered legal relief to those aligned with the president.",
+      "author": "Alan Feuer",
+      "publishDate": "2026-03-25T23:29:11.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "Federal Bureau of Investigation",
+        "Justice Department",
+        "Babbitt, Ashli E (1985-2021)",
+        "Biden, Joseph R Jr",
+        "Binnall, Jesse R",
+        "Comey, James B",
+        "Flynn, Michael T",
+        "Mueller, Robert S III"
+      ]
+    },
+    {
+      "title": "What to Know About Democrat Emily Gregory’s Win in Florida",
+      "url": "https://www.nytimes.com/2026/03/25/us/politics/florida-democrat-races.html",
+      "summary": "A mother of three won a statehouse seat that includes Mar-a-Lago, while a union electrician leads in a State Senate race in conservative West Tampa.",
+      "author": "David W. Chen",
+      "publishDate": "2026-03-25T21:08:34.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "State Legislatures",
+        "Midterm Elections (2026)",
+        "Elections, State Legislature",
+        "Mar-a-Lago (Palm Beach, Fla)",
+        "Gregory, Emily (1985- )",
+        "Trump, Donald J",
+        "Florida"
+      ]
+    },
+    {
+      "title": "How U.S.A.I.D. Birth Control Meant for Africa Was Ruined",
+      "url": "https://www.nytimes.com/2026/03/26/world/europe/usaid-contraception-birth-control-belgium-africa.html",
+      "summary": "The Trump administration had options for offloading contraceptives once destined for Africa, a newly obtained memo shows. Instead, it has let them collect dust and go bad.",
+      "author": "Jeanna Smialek and Stephanie Nolen",
+      "publishDate": "2026-03-26T04:01:05.000Z",
+      "category": "Birth Control and Family Planning",
+      "tags": [
+        "Birth Control and Family Planning",
+        "Foreign Aid",
+        "Medicine and Health",
+        "Africa",
+        "Belgium",
+        "Vought, Russell T"
+      ]
+    },
+    {
+      "title": "Mamdani Now Plans $1.3 Billion in Cuts in Programs That He Favored",
+      "url": "https://www.nytimes.com/2026/03/25/nyregion/mamdani-budget-cuts.html",
+      "summary": "Mayor Zohran Mamdani is banking on savings from a delay he is seeking in the state mandate for smaller class sizes. He is also scaling back a commitment to expand a rental assistance program.",
+      "author": "Benjamin Oreskes and Sally Goldenberg",
+      "publishDate": "2026-03-26T01:04:26.000Z",
+      "category": "Budgets and Budgeting",
+      "tags": [
+        "Mamdani, Zohran",
+        "Budgets and Budgeting",
+        "Politics and Government",
+        "Property Taxes",
+        "Education (K-12)",
+        "Public and Subsidized Housing",
+        "City Council (NYC)",
+        "New York City"
+      ]
+    },
+    {
+      "title": "Judge Orders Arrest of Matt Bevin, Former Kentucky Governor, for Contempt",
+      "url": "https://www.nytimes.com/2026/03/25/us/matt-bevin-kentucky-arrest-contempt.html",
+      "summary": "Seven years after leaving office, Matt Bevin, the combative ex-governor, faces charges for not providing financial records sought by his estranged son.",
+      "author": "Campbell Robertson",
+      "publishDate": "2026-03-25T23:27:24.000Z",
+      "category": "Governors (US)",
+      "tags": [
+        "Governors (US)",
+        "Child Custody and Support",
+        "Adoptions",
+        "Bevin, Matthew",
+        "Kentucky",
+        "Louisville (Ky)"
+      ]
+    },
+    {
+      "title": "Chip Taylor, Writer of ‘Wild Thing’ and Other Classic Rock Hits, Dies at 86",
+      "url": "https://www.nytimes.com/2026/03/25/arts/music/chip-taylor-dead.html",
+      "summary": "Mr. Taylor, the younger brother of the actor Jon Voight, found success as a songwriter for the likes of Janis Joplin and Juice Newton.",
+      "author": "Hannah Ziegler",
+      "publishDate": "2026-03-26T02:38:04.000Z",
+      "category": "Deaths (Obituaries)",
+      "tags": [
+        "Taylor, Chip",
+        "Deaths (Obituaries)",
+        "Pop and Rock Music",
+        "Songwriters Hall of Fame"
+      ]
+    },
+    {
+      "title": "How Epstein Helped Solve a Billionaire’s Problems With Women",
+      "url": "https://www.nytimes.com/2026/03/23/business/jeffrey-epstein-leon-black.html",
+      "summary": "The Wall Street titan Leon Black paid Jeffrey Epstein $170 million for what he said was tax and estate work. But his services went beyond that.",
+      "author": "Matthew Goldstein, Jessica Silver-Greenberg, Steve Eder and David Enrich",
+      "publishDate": "2026-03-23T14:39:42.000Z",
+      "category": "Sex Crimes",
+      "tags": [
+        "Sex Crimes",
+        "Taxation",
+        "Apollo Global Management",
+        "Dechert LLP",
+        "Nardello & Co",
+        "Black, Leon D",
+        "Epstein, Jeffrey E (1953- )",
+        "Karp, Brad S",
+        "Wyden, Ron",
+        "Private Equity"
       ]
     }
   ]
