@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-26T13:40:25+09:00",
+  "timestamp": "2026-03-26T17:07:55+09:00",
   "articles": [
     {
       "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial",
@@ -1319,6 +1319,76 @@
         "Karp, Brad S",
         "Wyden, Ron",
         "Private Equity"
+      ]
+    },
+    {
+      "title": "Homeland Security Talks Hit Snag as Democrats Demand ICE Restrictions",
+      "url": "https://www.nytimes.com/2026/03/25/us/politics/homeland-security-shutdown-republicans-congress.html",
+      "summary": "A day after Republicans offered to remove money for ICE enforcement from a Department of Homeland Security funding bill, Democrats insisted that the deal must include curbs on federal agents.",
+      "author": "Michael Gold",
+      "publishDate": "2026-03-25T23:25:28.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "Homeland Security Department",
+        "Immigration and Customs Enforcement (US)",
+        "United States Politics and Government",
+        "Schumer, Charles E",
+        "Trump, Donald J",
+        "Federal Budget (US)"
+      ]
+    },
+    {
+      "title": "It Was One of the Cold War’s Greatest Crimes. No One Has Paid a Price.",
+      "url": "https://www.nytimes.com/2026/03/26/opinion/congo-lumumba-cia-assassination.html",
+      "summary": "No one apart from the Congolese people has ever paid a price for the CIA-backed assassination of Patrice Lumumba.",
+      "author": "Stuart A. Reid",
+      "publishDate": "2026-03-26T05:00:06.000Z",
+      "category": "Murders, Attempted Murders and Homicides",
+      "tags": [
+        "Lumumba, Patrice",
+        "Central Intelligence Agency",
+        "Murders, Attempted Murders and Homicides",
+        "Mobutu Sese Seko",
+        "Eisenhower, Dwight David",
+        "Cold War Era",
+        "Belgium",
+        "Leopold II",
+        "Congo, Democratic Republic of (Congo-Kinshasa)"
+      ]
+    },
+    {
+      "title": "Zack Polanski on the Rise of Britain’s Green Party",
+      "url": "https://www.nytimes.com/2026/03/25/opinion/zach-polanski-green-party-britain.html",
+      "summary": "Zach Polanski of Britain’s left-populist party talks austerity, Labour and the establishment crackup.",
+      "author": "David Wallace-Wells",
+      "publishDate": "2026-03-25T19:00:04.000Z",
+      "category": "Global Warming",
+      "tags": [
+        "Green Party (Britain)",
+        "Great Britain",
+        "Global Warming",
+        "Income Inequality",
+        "Populism (Theory and Philosophy)"
+      ]
+    },
+    {
+      "title": "Josh Johnson Ridicules the Army’s Opening to Older Recruits",
+      "url": "https://www.nytimes.com/2026/03/26/arts/television/late-night-army-enlistment.html",
+      "summary": "“Look, according to People magazine — and apparently the U.S. military — 42 is the new 35,” Johnson said on Tuesday’s “Daily Show.”",
+      "author": "Trish Bendix",
+      "publishDate": "2026-03-26T05:50:44.000Z",
+      "category": "Television",
+      "tags": [
+        "Television",
+        "The Daily Show with Jon Stewart (TV Program)",
+        "Johnson, Josh (1986- )",
+        "Fallon, Jimmy",
+        "The Tonight Show (TV Program)",
+        "Kimmel, Jimmy",
+        "Jimmy Kimmel Live (TV Program)",
+        "Meyers, Seth",
+        "Late Night with Seth Meyers (TV Program)",
+        "United States Army"
       ]
     }
   ]
