@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-26T17:07:55+09:00",
+  "timestamp": "2026-03-26T21:58:45+09:00",
   "articles": [
     {
       "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial",
@@ -1389,6 +1389,398 @@
         "Meyers, Seth",
         "Late Night with Seth Meyers (TV Program)",
         "United States Army"
+      ]
+    },
+    {
+      "title": "Who Is Alireza Tangsiri, the Latest Iranian Commander Targeted by Israel?",
+      "url": "https://www.nytimes.com/2026/03/26/world/middleeast/who-alireza-tangsiri-iran-commander-navy-irgc.html",
+      "summary": "Israel said it killed the naval commander, Alireza Tangsiri, in an airstrike on Thursday morning. Iran has not commented.",
+      "author": "Yeganeh Torbati",
+      "publishDate": "2026-03-26T11:16:41.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Defense and Military Forces",
+        "Islamic Revolutionary Guards Corps",
+        "Iran",
+        "Israel",
+        "Tangsiri, Alireza"
+      ]
+    },
+    {
+      "title": "How Kharg Island May Change the Trajectory of the Iran War",
+      "url": "https://www.nytimes.com/video/business/economy/100000010796199/how-kharg-island-may-change-the-trajectory-of-the-iran-war.html",
+      "summary": "Kharg Island exports 90 percent of Iran’s crude oil. It has also become a potential U.S. target. Peter Eavis, our Business reporter, examines how the small island in the Persian Gulf has become a strategic target with significant risks.",
+      "author": "Peter Eavis, Gilad Thaler, Edward Vega, Lauren Pruitt and Joey Sendaydiego",
+      "publishDate": "2026-03-25T21:39:17.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Oil (Petroleum) and Gasoline",
+        "International Trade and World Market"
+      ]
+    },
+    {
+      "title": "Republicans in Congress Fret Over Trump Administration’s Handling of Iran War",
+      "url": "https://www.nytimes.com/2026/03/25/world/middleeast/republicans-congress-iran-war-trump.html",
+      "summary": "G.O.P. lawmakers who have given the Trump administration wide latitude to wage war with no congressional input are growing frustrated as officials offer little detail about ground troops, cost or timeline.",
+      "author": "Robert Jimison, Megan Mineiro and Eric Schmitt",
+      "publishDate": "2026-03-26T02:07:44.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Democratic Party",
+        "Republican Party",
+        "House of Representatives",
+        "Senate",
+        "War and Armed Conflicts",
+        "Mace, Nancy",
+        "Johnson, Mike (1972- )"
+      ]
+    },
+    {
+      "title": "A Landmark Verdict on the Danger of Social Media, and Trump’s Call to Punish ‘Rogue Judges’",
+      "url": "https://www.nytimes.com/2026/03/26/podcasts/the-headlines/meta-youtube-social-media-verdict.html",
+      "summary": "Plus, OnlyFans’ billionaire owner dies at 43.",
+      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Ian Stewart and Ryan Mac",
+      "publishDate": "2026-03-26T10:00:16.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Decisions and Verdicts",
+        "Social Media",
+        "Meta Platforms Inc",
+        "YouTube.com"
+      ]
+    },
+    {
+      "title": "Juries Take the Lead in the Push for Child Online Safety",
+      "url": "https://www.nytimes.com/2026/03/26/technology/social-media-verdicts-child-safety.html",
+      "summary": "A pair of verdicts held social media companies accountable for harming young users, highlighting a growing backlash as Congress struggles to pass legislation.",
+      "author": "Cecilia Kang",
+      "publishDate": "2026-03-26T09:03:14.000Z",
+      "category": "Liability for Products",
+      "tags": [
+        "Liability for Products",
+        "Freedom of Speech and Expression",
+        "Social Media",
+        "Computers and the Internet",
+        "Law and Legislation",
+        "Children and Childhood",
+        "Suits and Litigation (Civil)",
+        "Meta Platforms Inc",
+        "YouTube.com",
+        "Blackburn, Marsha"
+      ]
+    },
+    {
+      "title": "Snapchat Investigated in Europe Over Child Safety Policies",
+      "url": "https://www.nytimes.com/2026/03/26/business/snapchat-europe-child-safety.html",
+      "summary": "Regulators in Brussels accused the social media platform of maintaining a weak age-verification system, and steering younger users toward inappropriate experiences.",
+      "author": "Adam Satariano",
+      "publishDate": "2026-03-26T11:30:57.000Z",
+      "category": "Social Media",
+      "tags": [
+        "Social Media",
+        "Computers and the Internet",
+        "Regulation and Deregulation of Industry",
+        "Law and Legislation",
+        "Computer Security",
+        "Consumer Protection",
+        "European Union",
+        "Snap Inc",
+        "Europe"
+      ]
+    },
+    {
+      "title": "Is Big Tech Facing a Big Tobacco Moment?",
+      "url": "https://www.nytimes.com/2026/03/26/business/dealbook/meta-youtube-social-media-tobacco.html",
+      "summary": "Back-to-back courtroom losses have put technology giants, including Meta and Google, in uncertain territory as they face lawsuits and bans on teen users.",
+      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount",
+      "publishDate": "2026-03-26T11:56:22.000Z",
+      "category": "internal-storyline-no",
+      "tags": [
+        "internal-storyline-no",
+        "Meta Platforms Inc",
+        "Social Media",
+        "YouTube.com",
+        "Google Inc",
+        "Suits and Litigation (Civil)",
+        "Regulation and Deregulation of Industry",
+        "Smoking and Tobacco"
+      ]
+    },
+    {
+      "title": "Some Judges See Risks in Fiery Opinions Warning of Threats to Democracy",
+      "url": "https://www.nytimes.com/2026/03/26/us/some-judges-see-risks-in-fiery-opinions-warning-of-threats-to-democracy.html",
+      "summary": "Federal judges are weighing strategies for how to respond to the high stakes, anonymous threats and politicized atmosphere of the Trump era.",
+      "author": "Mattathias Schwartz",
+      "publishDate": "2026-03-26T09:01:24.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Courts and the Judiciary",
+        "Federal Courts (US)",
+        "Justice Department",
+        "Trump, Donald J",
+        "Boasberg, James E",
+        "Constitution (US)",
+        "Young, William G"
+      ]
+    },
+    {
+      "title": "Trump Calls for Law Cracking Down on Crime and ‘Rogue Judges’",
+      "url": "https://www.nytimes.com/2026/03/25/us/politics/trump-judges-rogue-law.html",
+      "summary": "Ahead of the midterms, President Trump told a Republican gathering that he wants to go after repeat offenders and “rogue judges that are criminals.”",
+      "author": "Chris Cameron",
+      "publishDate": "2026-03-26T02:49:53.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Crime and Criminals",
+        "Decisions and Verdicts",
+        "Courts and the Judiciary",
+        "Midterm Elections (2026)",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "U.S. Military Kills 4 People in Boat Strike in Caribbean",
+      "url": "https://www.nytimes.com/2026/03/26/us/politics/boat-strikes-caribbean.html",
+      "summary": "At least 163 people have been killed in the Trump administration’s campaign against suspected drug smuggling.",
+      "author": "Eric Schmitt",
+      "publishDate": "2026-03-26T12:10:15.000Z",
+      "category": "US Strikes on Alleged Drug Traffickers (2025- )",
+      "tags": [
+        "US Strikes on Alleged Drug Traffickers (2025- )",
+        "Targeted Killings",
+        "Caribbean Area",
+        "Defense Department",
+        "United States Defense and Military Forces",
+        "United States Politics and Government"
+      ]
+    },
+    {
+      "title": "In California’s Central Valley, Latino Voters are Up for Grabs in 2026’s Elections",
+      "url": "https://www.nytimes.com/2026/03/26/us/politics/california-latino-voters-republicans-midterms-elections.html",
+      "summary": "As in other Hispanic areas of the country, voters shifted toward Republicans in 2024. But there are increasing signs that this was a blip more than a durable trend.",
+      "author": "Jennifer Medina and Ariana Drehsler",
+      "publishDate": "2026-03-26T09:00:35.000Z",
+      "category": "Illegal Immigration",
+      "tags": [
+        "Central Valley (Calif)",
+        "Illegal Immigration",
+        "Midterm Elections (2026)",
+        "Deportation",
+        "Valadao, David G",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Wealthy Investors Target Foes of Clean Energy, Seeking Revenge",
+      "url": "https://www.nytimes.com/2026/03/26/climate/solar-energy-politics-campaigns.html",
+      "summary": "Renewable energy leaders said their industry got “rolled” in President Trump’s tax bill. Now they’re fighting back, starting in Texas.",
+      "author": "Lisa Friedman and Brad Plumer",
+      "publishDate": "2026-03-26T09:00:36.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Alternative and Renewable Energy",
+        "Solar Energy",
+        "Midterm Elections (2026)",
+        "One Big Beautiful Bill Act (2025)",
+        "Campaign Finance",
+        "Attorneys General",
+        "First Solar Inc",
+        "Republican Party",
+        "Ripple Labs Inc"
+      ]
+    },
+    {
+      "title": "Schumer Pledges Democrats Will Restore Clean Energy Tax Credits",
+      "url": "https://www.nytimes.com/2026/03/25/climate/schumer-democrats-clean-energy.html",
+      "summary": "Senator Chuck Schumer of New York, the minority leader, said Democrats would pursue an agenda to reduce energy costs if they win back control of Congress.",
+      "author": "Lisa Friedman",
+      "publishDate": "2026-03-26T01:13:11.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Alternative and Renewable Energy",
+        "Tax Credits, Deductions and Exemptions",
+        "Elections, Senate",
+        "Democratic Party",
+        "Senate",
+        "Schumer, Charles E",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Savannah Guthrie Says 2 Ransom Notes About Her Mother Were Likely Genuine",
+      "url": "https://www.nytimes.com/2026/03/26/us/savannah-guthrie-interview.html",
+      "summary": "Her interview on the “Today” show came more than 50 days after her mother, Nancy Guthrie, was taken from her home near Tucson, Ariz.",
+      "author": "Nicholas Bogel-Burroughs",
+      "publishDate": "2026-03-26T12:55:50.000Z",
+      "category": "Missing Persons",
+      "tags": [
+        "Guthrie, Nancy (1942- )",
+        "Guthrie, Savannah",
+        "Missing Persons",
+        "Kidnapping and Hostages",
+        "Arizona"
+      ]
+    },
+    {
+      "title": "Colleges Pressed to Remove Names of Epstein’s Friends From Buildings",
+      "url": "https://www.nytimes.com/2026/03/26/us/colleges-building-names-epstein.html",
+      "summary": "Students and others are asking universities, including Harvard and Ohio State, to take down the names of high-profile donors with connections to Jeffrey Epstein. They have not done so yet.",
+      "author": "Vimal Patel",
+      "publishDate": "2026-03-26T12:16:43.000Z",
+      "category": "Colleges and Universities",
+      "tags": [
+        "Colleges and Universities",
+        "Names, Organizational",
+        "Harvard University",
+        "Ohio State University",
+        "Tufts University",
+        "Wexner Center for the Arts"
+      ]
+    },
+    {
+      "title": "‘Lethality’ Used to Be a Pentagon Buzzword. Now It’s a Worldview.",
+      "url": "https://www.nytimes.com/2026/03/26/magazine/lethality-us-military-pete-hegseth.html",
+      "summary": "It’s blunt instead of vague, brash instead of evasive, bold instead of cautious. And yet the word obfuscates as much as old defense jargon.",
+      "author": "Nitsuh Abebe",
+      "publishDate": "2026-03-26T09:02:55.000Z",
+      "category": "United States Defense and Military Forces",
+      "tags": [
+        "United States Defense and Military Forces",
+        "Hegseth, Pete",
+        "Language and Languages",
+        "Social Media"
+      ]
+    },
+    {
+      "title": "Chinese Education Influencer’s Sudden Death Prompts Grief, and Reflection",
+      "url": "https://www.nytimes.com/2026/03/26/world/asia/chinese-influencer-zhang-death.html",
+      "summary": "The influencer, Zhang Xuefeng, was known for no-nonsense, some said cynical, advice about how to win in China’s educational rat race. He died at 41.",
+      "author": "Vivian Wang",
+      "publishDate": "2026-03-26T04:24:08.000Z",
+      "category": "Social Media",
+      "tags": [
+        "Social Media",
+        "Death and Dying",
+        "Youth",
+        "Work-Life Balance",
+        "Deaths (Obituaries)",
+        "Tests and Examinations",
+        "China",
+        "Education",
+        "Careers and Professions"
+      ]
+    },
+    {
+      "title": "Cuban Patients Are Dying Because of U.S. Blockade, Doctors Say",
+      "url": "https://www.nytimes.com/2026/03/26/world/americas/cubas-health-system-us-oil-blockade.html",
+      "summary": "Cuban health care was once the pride of the island. Now the U.S. oil blockade is upending even basic medical care.",
+      "author": "Ed Augustin, Jack Nicas and Jorge Luis Baños",
+      "publishDate": "2026-03-26T09:01:30.000Z",
+      "category": "vis-photo",
+      "tags": [
+        "vis-photo",
+        "Shortages",
+        "Embargoes and Sanctions",
+        "Medicine and Health",
+        "Power Failures and Blackouts",
+        "Deaths (Fatalities)",
+        "Infant Mortality",
+        "Hospitals",
+        "Pregnancy and Childbirth",
+        "United States International Relations"
+      ]
+    },
+    {
+      "title": "Men of the Trump Administration, 2026",
+      "url": "https://www.nytimes.com/2026/03/26/opinion/trump-war-democrats.html",
+      "summary": "Are Democrats ugly? Asking for a friend.",
+      "author": "Frank Bruni and Bret Stephens",
+      "publishDate": "2026-03-26T12:19:09.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "United States Defense and Military Forces",
+        "United States International Relations",
+        "Midterm Elections (2026)",
+        "Republican Party",
+        "Bessent, Scott",
+        "Hegseth, Pete",
+        "Trump, Donald J",
+        "Iran"
+      ]
+    },
+    {
+      "title": "It’s Not Trump. It’s America.",
+      "url": "https://www.nytimes.com/2026/03/26/opinion/trump-america-iran-war.html",
+      "summary": "The country’s faith in its ability to shape the world to its liking is a much older malady.",
+      "author": "Lydia Polgreen",
+      "publishDate": "2026-03-26T09:02:28.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "United States",
+        "Trump, Donald J",
+        "Iran",
+        "War and Armed Conflicts",
+        "China",
+        "Obama, Barack Hussein Sr",
+        "Niebuhr, Reinhold"
+      ]
+    },
+    {
+      "title": "Mamdani Promised to Freeze the Rent. Now the Fight Begins.",
+      "url": "https://www.nytimes.com/2026/03/26/nyregion/mamdani-freeze-rent-guidelines-board.html",
+      "summary": "Nine board members, six of whom were appointed by Mayor Zohran Mamdani, will meet Thursday to begin weighing whether to enact a rent freeze.",
+      "author": "Mihir Zaveri",
+      "publishDate": "2026-03-26T07:00:13.000Z",
+      "category": "Rent Control and Stabilization",
+      "tags": [
+        "Rent Control and Stabilization",
+        "Real Estate and Housing (Residential)",
+        "New York City",
+        "Mamdani, Zohran",
+        "Mayors",
+        "Rent Guidelines Board"
+      ]
+    },
+    {
+      "title": "Storms Could Bring Tornadoes, Hail and Heavy Rain to the Midwest on Thursday",
+      "url": "https://www.nytimes.com/2026/03/26/weather/illinois-indiana-ohio-tornado-storm-chicago.html",
+      "summary": "Forecasters were watching an area just south of the Great Lakes, where storms were expected to move through on Thursday afternoon and evening.",
+      "author": "Nazaneen Ghaffar",
+      "publishDate": "2026-03-26T10:35:03.000Z",
+      "category": "Weather",
+      "tags": [
+        "Weather",
+        "Tornadoes",
+        "Rain",
+        "Illinois",
+        "Ohio",
+        "Indiana"
+      ]
+    },
+    {
+      "title": "Paul Klee’s “Angelus Novus” New York Debut On Hold Due to Mideast War",
+      "url": "https://www.nytimes.com/2026/03/26/arts/paul-klee-angelus-novus-israel.html",
+      "summary": "The rarely seen “Angelus Novus” by Paul Klee was supposed to arrive at New York’s Jewish Museum, but remains in Israel instead.",
+      "author": "Marc Tracy",
+      "publishDate": "2026-03-26T09:03:30.000Z",
+      "category": "Museums",
+      "tags": [
+        "Museums",
+        "US and Israeli Attack on Iran (2026)",
+        "Art",
+        "Israel Museum",
+        "Klee, Paul"
       ]
     }
   ]
