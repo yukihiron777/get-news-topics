@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-27T08:29:28+09:00",
+  "timestamp": "2026-03-27T13:42:35+09:00",
   "articles": [
     {
       "title": "After Wooing Trump With Deals, Pakistan Gets a Seat at the Table",
@@ -1044,6 +1044,271 @@
         "LaBeouf, Shia",
         "California",
         "New Orleans (La)"
+      ]
+    },
+    {
+      "title": "Trump Says He Will Order T.S.A. Agents Paid as Funding Deal Stalls",
+      "url": "https://www.nytimes.com/2026/03/26/us/politics/congress-senators-homeland-security-funding.html",
+      "summary": "President Trump’s announcement came as talks on Capitol Hill over funding the Department of Homeland Security faltered, and airport lines continued to grow.",
+      "author": "Michael Gold and Megan Mineiro",
+      "publishDate": "2026-03-27T04:35:20.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Illegal Immigration",
+        "One Big Beautiful Bill Act (2025)",
+        "Federal Budget (US)",
+        "Wages and Salaries",
+        "Government Employees",
+        "Immigration and Customs Enforcement (US)",
+        "Homeland Security Department",
+        "House of Representatives",
+        "Democratic Party"
+      ]
+    },
+    {
+      "title": "Trump’s Signature Is Set to Be Added to America’s Currency",
+      "url": "https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html",
+      "summary": "President Trump is poised to be the first sitting president to have his signature appear on the U.S. dollar.",
+      "author": "Alan Rappeport",
+      "publishDate": "2026-03-27T02:14:03.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "United States Economy",
+        "US Dollar (Currency)",
+        "Currency",
+        "Treasury Department",
+        "Bessent, Scott",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "House Ethics Panel Holds Rare Public Hearing on Democrat’s Conduct",
+      "url": "https://www.nytimes.com/2026/03/26/us/politics/house-ethics-public-hearing-democrat-conduct.html",
+      "summary": "Representative Sheila Cherfilus-McCormick of Florida is charged with stealing $5 million in FEMA money for her campaign.",
+      "author": "Annie Karni",
+      "publishDate": "2026-03-27T01:19:50.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Ethics and Official Misconduct",
+        "Federal Aid (US)",
+        "Embezzlement",
+        "Democratic Party",
+        "Federal Emergency Management Agency",
+        "House Committee on Ethics",
+        "House of Representatives",
+        "Justice Department",
+        "Cherfilus-McCormick, Sheila"
+      ]
+    },
+    {
+      "title": "What’s on Trump’s Mind During a Cabinet Meeting? Sharpies, Iran and Inflation.",
+      "url": "https://www.nytimes.com/2026/03/26/us/politics/trump-sharpies-pens-fact-check.html",
+      "summary": "President Trump waxed on about the virtues of the pen, calling it more economical and a better instrument than the fancier writing tools preferred by his predecessors.",
+      "author": "Linda Qiu",
+      "publishDate": "2026-03-27T00:11:46.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Cross (A.T.) Company",
+        "Mar-a-Lago (Palm Beach, Fla)",
+        "Newell Brands Inc",
+        "Trump Organization",
+        "Trump, Donald J",
+        "Obama, Barack",
+        "Clinton, Bill",
+        "Bush, George W",
+        "Biden, Joseph R Jr"
+      ]
+    },
+    {
+      "title": "Standoff With Iran Raises Fresh Doubts About Trump’s Freestyle Diplomacy",
+      "url": "https://www.nytimes.com/2026/03/26/us/politics/trump-iran-talks.html",
+      "summary": "A jumble of emissaries — a friend, a family member, a dove and a hawk — on the Iran crisis reflects President Trump’s improvisational approach.",
+      "author": "Michael Crowley",
+      "publishDate": "2026-03-26T20:44:42.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States International Relations",
+        "Rubio, Marco",
+        "Kushner, Jared",
+        "Witkoff, Steven",
+        "Vance, J D",
+        "Iran",
+        "Middle East",
+        "United States Politics and Government",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "In Sleepy Town on Strait of Hormuz, War Rages Just Over Horizon",
+      "url": "https://www.nytimes.com/2026/03/27/world/middleeast/khasab-oman-hormuz-strait.html",
+      "summary": "For centuries, an Omani exclave has been defined by a peculiar duality: rugged isolation and proximity to one of the world’s most important trade routes.",
+      "author": "Ismaeel Naar",
+      "publishDate": "2026-03-27T04:01:13.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Khasab, Oman",
+        "Oman",
+        "Strait of Hormuz",
+        "United Arab Emirates",
+        "Ships and Shipping",
+        "Travel and Vacations"
+      ]
+    },
+    {
+      "title": "Stocks Sink and Oil Dips After Trump Delays Threat to Bomb Iran",
+      "url": "https://www.nytimes.com/2026/03/26/business/gas-oil-gas-prices-iran.html",
+      "summary": "President Trump said on Thursday he would delay an imminent deadline to begin attacking Iran’s power grid.",
+      "author": "The New York Times",
+      "publishDate": "2026-03-27T04:28:45.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Stocks and Bonds",
+        "Oil (Petroleum) and Gasoline",
+        "Standard & Poor's 500-Stock Index",
+        "Prices (Fares, Fees and Rates)",
+        "Ships and Shipping",
+        "American Automobile Assn",
+        "Iran"
+      ]
+    },
+    {
+      "title": "Kennedy’s Vaccine Agenda Hits Roadblocks, Diminishing His Clout",
+      "url": "https://www.nytimes.com/2026/03/26/us/politics/kennedy-vaccines-trump.html",
+      "summary": "Health Secretary Robert F. Kennedy Jr.’s vaccine skepticism is posing challenges for the Trump administration. Top health jobs are unfilled, and a court has blocked his vaccine schedule changes.",
+      "author": "Sheryl Gay Stolberg",
+      "publishDate": "2026-03-27T00:30:37.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Vaccination and Immunization",
+        "Rumors and Misinformation",
+        "Midterm Elections (2026)",
+        "Measles",
+        "Diet and Nutrition",
+        "Medicine and Health",
+        "Surgeon General (US)",
+        "Centers for Disease Control and Prevention",
+        "Food and Drug Administration"
+      ]
+    },
+    {
+      "title": "Scientists Filmed a Whale Birth. The Surprise: Mom Had Many Helpers.",
+      "url": "https://www.nytimes.com/2026/03/26/climate/sperm-whale-birth-assistance.html",
+      "summary": "The episode, involving a group of sperm whales, adds to evidence that humans aren’t the only species that gets some form of assistance during and after delivery.",
+      "author": "Catrin Einhorn",
+      "publishDate": "2026-03-26T21:22:56.000Z",
+      "category": "Whales and Whaling",
+      "tags": [
+        "Whales and Whaling",
+        "Animal Behavior",
+        "Fish and Other Marine Life",
+        "Endangered and Extinct Species",
+        "Conservation of Resources",
+        "Research",
+        "Science (Journal)",
+        "Scientific Reports (Journal)",
+        "Caribbean Area",
+        "Oceans and Seas"
+      ]
+    },
+    {
+      "title": "An Invisible Bottleneck: A Helium Shortage Threatens the Chip Industry",
+      "url": "https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html",
+      "summary": "With a third of the global supply offline because of the war in Iran, gas companies are scrambling to assure critical A.I. chip makers there will be no disruptions.",
+      "author": "Meaghan Tobin and Xinyun Wu",
+      "publishDate": "2026-03-27T04:00:21.000Z",
+      "category": "Helium",
+      "tags": [
+        "Helium",
+        "Computer Chips",
+        "US and Israeli Attack on Iran (2026)",
+        "Supply Chain",
+        "Shortages",
+        "Natural Gas",
+        "Factories and Manufacturing",
+        "Hynix Semiconductor",
+        "NVIDIA Corporation",
+        "Samsung Group"
+      ]
+    },
+    {
+      "title": "Judge Stays Pentagon’s Labeling of Anthropic as ‘Supply Chain Risk’",
+      "url": "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html",
+      "summary": "The decision is an early victory for the artificial intelligence company in a rancorous legal battle with the Department of Defense.",
+      "author": "Mike Isaac",
+      "publishDate": "2026-03-27T01:06:17.000Z",
+      "category": "Artificial Intelligence",
+      "tags": [
+        "Artificial Intelligence",
+        "United States Defense and Military Forces",
+        "Defense Contracts",
+        "Decisions and Verdicts",
+        "Anthropic AI LLC",
+        "Defense Department",
+        "Amodei, Dario",
+        "Hegseth, Pete",
+        "Lin, Rita F",
+        "California"
+      ]
+    },
+    {
+      "title": "Salzburg Festival Fires Its Artistic Director",
+      "url": "https://www.nytimes.com/2026/03/26/arts/music/salzburg-festival-fires-artistic-director-markus-hinterhauser.html",
+      "summary": "The board terminated Markus Hinterhäuser’s contract early, leaving the leadership of the world’s largest classical music festival in limbo for now.",
+      "author": "Joshua Barone and Alex Marshall",
+      "publishDate": "2026-03-27T02:05:08.000Z",
+      "category": "Salzburg Festival",
+      "tags": [
+        "Salzburg Festival",
+        "Classical Music",
+        "Appointments and Executive Changes",
+        "Hinterhauser, Markus (1958- )",
+        "Rabl-Stadler, Helga",
+        "Hammer, Kristina"
+      ]
+    },
+    {
+      "title": "This Muscle Is the Unsung Hero of Longevity",
+      "url": "https://www.nytimes.com/2026/03/25/well/move/strong-glutes-health-longevity.html",
+      "summary": "Building your butt muscles will help you stay injury free and independent in midlife and beyond.",
+      "author": "Hilary Achauer",
+      "publishDate": "2026-03-25T17:58:43.000Z",
+      "category": "Buttocks",
+      "tags": [
+        "Buttocks",
+        "Longevity",
+        "Exercise",
+        "Legs",
+        "internal-open-access-from-nl",
+        "Muscles",
+        "Content Type: Service"
+      ]
+    },
+    {
+      "title": "Gregory Bovino’s Final Days: Harsh Words and Few Regrets",
+      "url": "https://www.nytimes.com/2026/03/24/us/gregory-bovino-border-patrol.html",
+      "summary": "He was the face of the Trump administration’s immigration crackdown. But as he begins a retirement that was not entirely voluntary, the Border Patrol leader says he did not go far enough.",
+      "author": "Katie J.M. Baker and Hamed Aleaziz",
+      "publishDate": "2026-03-24T19:29:38.000Z",
+      "category": "Illegal Immigration",
+      "tags": [
+        "Illegal Immigration",
+        "United States Politics and Government",
+        "Demonstrations, Protests and Riots",
+        "Deportation",
+        "Federal Actions in US Cities",
+        "Content Type: Personal Profile",
+        "Border Patrol (US)",
+        "Homeland Security Department",
+        "Immigration and Customs Enforcement (US)",
+        "Bovino, Gregory"
       ]
     }
   ]
