@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-27T13:42:35+09:00",
+  "timestamp": "2026-03-27T17:06:13+09:00",
   "articles": [
     {
       "title": "After Wooing Trump With Deals, Pakistan Gets a Seat at the Table",
@@ -1309,6 +1309,89 @@
         "Homeland Security Department",
         "Immigration and Customs Enforcement (US)",
         "Bovino, Gregory"
+      ]
+    },
+    {
+      "title": "How to Straighten Out the Hormuz Bottleneck",
+      "url": "https://www.nytimes.com/2026/03/27/opinion/hormuz-strait-energy-iran-war.html",
+      "summary": "Nations are looking for alternatives to the Strait of Hormuz.",
+      "author": "Kenneth Medlock III",
+      "publishDate": "2026-03-27T05:55:04.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Offshore Drilling and Exploration",
+        "International Relations",
+        "Oil (Petroleum) and Gasoline",
+        "Shortages",
+        "Ships and Shipping",
+        "International Trade and World Market",
+        "Prices (Fares, Fees and Rates)",
+        "Middle East",
+        "Strait of Hormuz"
+      ]
+    },
+    {
+      "title": "The War in Ukraine Transformed Conflict. Iran Is the Proof.",
+      "url": "https://www.nytimes.com/2026/03/27/opinion/ukraine-iran-drones.html",
+      "summary": "Open-ended military conflict in Europe could, at some point, intersect with open-ended military conflict in the Middle East.",
+      "author": "Michael Kimmage",
+      "publishDate": "2026-03-27T05:00:05.000Z",
+      "category": "Russian Invasion of Ukraine (2022)",
+      "tags": [
+        "Russian Invasion of Ukraine (2022)",
+        "US and Israeli Attack on Iran (2026)"
+      ]
+    },
+    {
+      "title": "Late Night Disses Trump’s New ‘America First’ Award",
+      "url": "https://www.nytimes.com/2026/03/27/arts/television/late-night-trump-america-first-award.html",
+      "summary": "“How many fake trophies that were made specifically for him is this guy going to get?” Seth Meyers asked on Thursday’s “Late Night.”",
+      "author": "Trish Bendix",
+      "publishDate": "2026-03-27T07:27:30.000Z",
+      "category": "Television",
+      "tags": [
+        "Television",
+        "Meyers, Seth",
+        "Late Night with Seth Meyers (TV Program)",
+        "Kimmel, Jimmy",
+        "Jimmy Kimmel Live (TV Program)",
+        "Fallon, Jimmy",
+        "The Tonight Show (TV Program)"
+      ]
+    },
+    {
+      "title": "Nepal’s New Prime Minister, Former Rapper Balendra Shah, Sworn In",
+      "url": "https://www.nytimes.com/2026/03/27/world/asia/nepal-balendra-shah-rapper-prime-minister.html",
+      "summary": "A leaked report on the deadly violence and mass arson that broke out last year has put the new leader under pressure to ensure accountability.",
+      "author": "Hannah Beech and Binod Ghimire",
+      "publishDate": "2026-03-27T06:56:32.000Z",
+      "category": "Politics and Government",
+      "tags": [
+        "Politics and Government",
+        "Elections",
+        "Generation Z",
+        "Youth",
+        "Demonstrations, Protests and Riots",
+        "Arson",
+        "Nepal",
+        "Rastriya Swatantra Party (Nepal)",
+        "Shah, Balendra (Balen)",
+        "Karki, Sushila"
+      ]
+    },
+    {
+      "title": "The Faroe Islands, Wary After Greenland, Vote for Change",
+      "url": "https://www.nytimes.com/2026/03/27/world/europe/faroe-islands-election-greenland.html",
+      "summary": "Statehood had been a key issue in this tiny Danish archipelago before President Trump threatened Greenland. Now, Faroese voters are focused more on their own economy than geopolitics.",
+      "author": "Amelia Nierenberg and Regin Winther Poulsen",
+      "publishDate": "2026-03-27T05:06:45.000Z",
+      "category": "Elections",
+      "tags": [
+        "Elections",
+        "Faroe Islands",
+        "Greenland",
+        "Denmark"
       ]
     }
   ]
