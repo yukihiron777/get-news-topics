@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-27T17:06:13+09:00",
+  "timestamp": "2026-03-27T21:48:38+09:00",
   "articles": [
     {
       "title": "After Wooing Trump With Deals, Pakistan Gets a Seat at the Table",
@@ -1392,6 +1392,455 @@
         "Faroe Islands",
         "Greenland",
         "Denmark"
+      ]
+    },
+    {
+      "title": "Will ICE Change Under Its New Leader?",
+      "url": "https://www.nytimes.com/video/us/politics/100000010793141/will-ice-change-under-its-new-leader.html",
+      "summary": "Markwayne Mullin, the new homeland security secretary, has promised a different approach, but how much change is likely? Our reporter Hamed Aleaziz describes what we know.",
+      "author": "Hamed Aleaziz, Sutton Raphael, Thomas Vollkommer, Gilad Thaler, Whitney Shefte and Alexandra Ostasiewicz",
+      "publishDate": "2026-03-27T09:01:44.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Homeland Security Department"
+      ]
+    },
+    {
+      "title": "Florida’s Immigration Crackdown, Led by DeSantis, Is Showing Cracks",
+      "url": "https://www.nytimes.com/2026/03/27/us/florida-immigration-desantis-republicans.html",
+      "summary": "Some conservative sheriffs have raised concerns about the aggressive enforcement tactics that Gov. Ron DeSantis, a Republican, has embraced.",
+      "author": "Patricia Mazzei and Eric Adelson",
+      "publishDate": "2026-03-27T09:00:06.000Z",
+      "category": "Deportation",
+      "tags": [
+        "Deportation",
+        "Illegal Immigration",
+        "Immigration Detention",
+        "Immigration and Emigration",
+        "Midterm Elections (2026)",
+        "Sheriffs",
+        "Alligator Alcatraz (Fla)",
+        "Homeland Security Department",
+        "Immigration and Customs Enforcement (US)",
+        "Republican Party"
+      ]
+    },
+    {
+      "title": "A Breakthrough for T.S.A. Funding, and How the War in Iran Will Hit Grocery Prices",
+      "url": "https://www.nytimes.com/2026/03/27/podcasts/the-headlines/trump-tsa-agents-iran-war-grocery-prices.html",
+      "summary": "Plus, the Friday news quiz.",
+      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Ian Stewart and Rebecca F. Elliott",
+      "publishDate": "2026-03-27T10:00:12.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Airport Security",
+        "Prices (Fares, Fees and Rates)",
+        "Transportation Security Administration",
+        "Trump, Donald J",
+        "United States Politics and Government",
+        "internal-open-access-audio"
+      ]
+    },
+    {
+      "title": "UAE and Qatar Arrest Hundreds Over Online Videos of Iranian Attacks",
+      "url": "https://www.nytimes.com/2026/03/27/world/middleeast/iran-war-videos-arrests-uae-gulf-states.html",
+      "summary": "The authorities have made a wave of arrests to stop people posting footage of strikes, citing security risks. Experts also see a fear of damage to the countries’ image as safe havens.",
+      "author": "Vivian Nereim",
+      "publishDate": "2026-03-27T09:36:19.000Z",
+      "category": "International Relations",
+      "tags": [
+        "International Relations",
+        "Social Media",
+        "Video Recordings, Downloads and Streaming",
+        "Freedom of Speech and Expression",
+        "US and Israeli Attack on Iran (2026)",
+        "Rumors and Misinformation",
+        "Computers and the Internet",
+        "Law and Legislation",
+        "Instagram Inc",
+        "TikTok (ByteDance)"
+      ]
+    },
+    {
+      "title": "Hegseth Strikes Two Black and Two Female Officers From Promotion List",
+      "url": "https://www.nytimes.com/2026/03/27/us/hegseth-promotion-list.html",
+      "summary": "Defense Secretary Pete Hegseth’s highly unusual decision to remove officers from a one-star promotion list has spurred allegations of racial and gender bias.",
+      "author": "Greg Jaffe, Eric Schmitt, Helene Cooper and Adam Entous",
+      "publishDate": "2026-03-27T09:02:07.000Z",
+      "category": "United States Defense and Military Forces",
+      "tags": [
+        "United States Defense and Military Forces",
+        "Minorities",
+        "Discrimination",
+        "Defense Department",
+        "United States Army",
+        "Driscoll, Daniel P",
+        "Hegseth, Pete",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "The View of the War From a Florida Gas Station",
+      "url": "https://www.nytimes.com/2026/03/27/podcasts/the-daily/iran-war-florida-gas-station-prices.html",
+      "summary": "Since the start of the war in Iran, the average price of gas in the United States has climbed by nearly a dollar.",
+      "author": "Michael Barbaro, Anna Foley, Caitlin O’Keefe, Devon Taylor, Dan Powell, Diane Wong, Elisheba Ittoop, Marion Lozano, Chelsea Daniel and Alyssa Moxley",
+      "publishDate": "2026-03-27T10:00:16.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Prices (Fares, Fees and Rates)",
+        "Oil (Petroleum) and Gasoline",
+        "Jacksonville (Fla)",
+        "internal-open-access-audio"
+      ]
+    },
+    {
+      "title": "Before the LaGuardia Crash, Why Didn’t Truck 1 Stop?",
+      "url": "https://www.nytimes.com/2026/03/27/nyregion/laguardia-crash-air-canada-truck.html",
+      "summary": "After a fatal collision between an Air Canada jet and a fire truck on a runway, attention has focused on why the truck didn’t heed frantic calls to stop.",
+      "author": "Jan Ransom, Bora Erden, Raj Saha and Lazaro Gamio",
+      "publishDate": "2026-03-27T11:53:55.000Z",
+      "category": "Air Traffic Control",
+      "tags": [
+        "Air Traffic Control",
+        "Aviation Accidents, Safety and Disasters",
+        "Fires and Firefighters",
+        "Airlines and Airplanes",
+        "Air Canada",
+        "LaGuardia Airport (Queens, NY)",
+        "National Transportation Safety Board",
+        "Queens (NYC)",
+        "Port Authority of New York and New Jersey"
+      ]
+    },
+    {
+      "title": "United Airlines Flight Avoids Collision With Military Helicopter in California",
+      "url": "https://www.nytimes.com/2026/03/27/us/united-airlines-helicopter-california-faa.html",
+      "summary": "The Federal Aviation Administration said it was investigating after a helicopter crossed into the path of United Airlines Flight 589.",
+      "author": "Francesca Regalado",
+      "publishDate": "2026-03-27T12:32:21.000Z",
+      "category": "Air Traffic Control",
+      "tags": [
+        "Air Traffic Control",
+        "Airlines and Airplanes",
+        "Aviation Accidents, Safety and Disasters",
+        "Helicopters",
+        "Pilots",
+        "United Airlines",
+        "Federal Aviation Administration",
+        "California",
+        "United States"
+      ]
+    },
+    {
+      "title": "Europeans Are Angry at Trump, but Often Forgiving of Americans",
+      "url": "https://www.nytimes.com/2026/03/27/world/europe/europe-trump-sentiment.html",
+      "summary": "A generation ago, foreign fury over the Iraq invasion often blurred into anti-Americanism. Now, some Europeans seem ready to distinguish between the president and the American people.",
+      "author": "Jason Horowitz",
+      "publishDate": "2026-03-27T11:46:34.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "Europe",
+        "US and Israeli Attack on Iran (2026)",
+        "Iran-Israel War (2025- )",
+        "Trump, Donald J",
+        "United States"
+      ]
+    },
+    {
+      "title": "‘No Kings’ Protests Across U.S. Cities: What We Know",
+      "url": "https://www.nytimes.com/2026/03/27/us/no-kings-protests-cities.html",
+      "summary": "Thousands of demonstrations against the Trump administration are scheduled to take place in cities and towns across the country on Saturday.",
+      "author": "Pooja Salhotra",
+      "publishDate": "2026-03-27T09:03:52.000Z",
+      "category": "Demonstrations, Protests and Riots",
+      "tags": [
+        "Demonstrations, Protests and Riots",
+        "Midterm Elections (2026)",
+        "Indivisible Project",
+        "MoveOn.org",
+        "New York City",
+        "United States Politics and Government"
+      ]
+    },
+    {
+      "title": "Savannah Guthrie Is Returning to ‘Today’",
+      "url": "https://www.nytimes.com/2026/03/27/business/media/savannah-guthrie-today.html",
+      "summary": "NBC said that she would return as an anchor of the show on April 6, a little more than two months after the disappearance of her mother.",
+      "author": "John Koblin",
+      "publishDate": "2026-03-27T12:11:46.000Z",
+      "category": "Television",
+      "tags": [
+        "Television",
+        "Missing Persons",
+        "Ratings (Audience Measurement)",
+        "National Broadcasting Co",
+        "Guthrie, Nancy (1942- )",
+        "Guthrie, Savannah",
+        "Melvin, Craig"
+      ]
+    },
+    {
+      "title": "Resurgent Inflation Tests Faith in Fed’s Willingness to Tame It",
+      "url": "https://www.nytimes.com/2026/03/27/business/inflation-federal-reserve-iran-war.html",
+      "summary": "The war in the Middle East risks worsening an inflation problem that the Federal Reserve has struggled for years to subdue.",
+      "author": "Colby Smith and Ben Casselman",
+      "publishDate": "2026-03-27T09:03:25.000Z",
+      "category": "Banking and Financial Institutions",
+      "tags": [
+        "Banking and Financial Institutions",
+        "Regulation and Deregulation of Industry",
+        "Consumer Behavior",
+        "United States Politics and Government",
+        "United States Economy",
+        "Prices (Fares, Fees and Rates)",
+        "US and Israeli Attack on Iran (2026)",
+        "Inflation (Economics)",
+        "Recession and Depression",
+        "Interest Rates"
+      ]
+    },
+    {
+      "title": "Where Might the Iran War Hit Your Wallet? Start With Raspberries.",
+      "url": "https://www.nytimes.com/2026/03/27/dining/raspberry-prices.html",
+      "summary": "It takes a lot of fuel to produce this delicate fruit, which can be a sensitive barometer as oil costs rise.",
+      "author": "Kim Severson",
+      "publishDate": "2026-03-27T09:03:41.000Z",
+      "category": "Prices (Fares, Fees and Rates)",
+      "tags": [
+        "Prices (Fares, Fees and Rates)",
+        "Agriculture and Farming",
+        "Oil (Petroleum) and Gasoline",
+        "US and Israeli Attack on Iran (2026)",
+        "Supermarkets and Grocery Stores",
+        "Raspberries",
+        "International Trade and World Market",
+        "United States"
+      ]
+    },
+    {
+      "title": "How the Iran War Is Costing the Economy Its Buffers",
+      "url": "https://www.nytimes.com/2026/03/27/business/dealbook/iran-war-oil-markets.html",
+      "summary": "As the U.S.-Israeli campaign enters a second month, analysts see a growing toll. One forecast predicts oil hitting $200 a barrel.",
+      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount",
+      "publishDate": "2026-03-27T11:09:12.000Z",
+      "category": "internal-storyline-no",
+      "tags": [
+        "internal-storyline-no",
+        "Iran",
+        "Trump, Donald J",
+        "Oil (Petroleum) and Gasoline",
+        "International Trade and World Market",
+        "US and Israeli Attack on Iran (2026)",
+        "Prices (Fares, Fees and Rates)",
+        "Inflation (Economics)",
+        "Standard & Poor's 500-Stock Index",
+        "Strait of Hormuz"
+      ]
+    },
+    {
+      "title": "The Iran War is Revealing the Messy Middle of Our Renewable Energy Transition",
+      "url": "https://www.nytimes.com/2026/03/27/magazine/iran-war-energy-climate-change.html",
+      "summary": "When the world map of literal power changes, the political hierarchy shifts, too",
+      "author": "David Wallace-Wells",
+      "publishDate": "2026-03-27T09:02:20.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Russian Invasion of Ukraine (2022)",
+        "Alternative and Renewable Energy",
+        "United States International Relations",
+        "Solar Energy",
+        "Oil (Petroleum) and Gasoline",
+        "Greenhouse Gas Emissions",
+        "Infrastructure (Public Works)",
+        "Global Warming",
+        "US-Venezuela Conflict (2025- )"
+      ]
+    },
+    {
+      "title": "In Maine, Many Older Women Prefer the Younger Man for Senate",
+      "url": "https://www.nytimes.com/2026/03/27/us/graham-platner-maine-women-voters.html",
+      "summary": "Women in their 60s and beyond will likely play a key role in choosing which Democrat will face Senator Susan Collins: Gov. Janet Mills, 78, or Graham Platner, 41.",
+      "author": "Jenna Russell",
+      "publishDate": "2026-03-27T09:01:31.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Midterm Elections (2026)",
+        "Women and Girls",
+        "Governors (US)",
+        "Elections, Senate",
+        "Primaries and Caucuses",
+        "Elections",
+        "Democratic Party",
+        "Reddit Inc",
+        "Senate"
+      ]
+    },
+    {
+      "title": "Can a Democrat Make Headway With Trump? New York’s Governor Is Trying.",
+      "url": "https://www.nytimes.com/2026/03/27/nyregion/hochul-new-york-trump-ice-immigration.html",
+      "summary": "Gov. Kathy Hochul of New York has demonstrated her ability to negotiate with the president and his team on thorny issues like immigration enforcement.",
+      "author": "Grace Ashford",
+      "publishDate": "2026-03-27T07:00:08.000Z",
+      "category": "Federal-State Relations (US)",
+      "tags": [
+        "Hochul, Kathleen C",
+        "Trump, Donald J",
+        "Federal-State Relations (US)",
+        "Immigration Detention",
+        "Deportation",
+        "Immigration and Customs Enforcement (US)",
+        "New York State"
+      ]
+    },
+    {
+      "title": "Tracking the Early Vote in Virginia’s Redistricting Referendum",
+      "url": "https://www.nytimes.com/2026/03/27/us/elections/virginia-redistricting-early-vote-tracker.html",
+      "summary": "Voters in Virginia will decide on April 21 whether to redraw the state’s congressional map. Turnout is even higher, thus far, than it was in last year’s governor’s election.",
+      "author": "Jonah Smith and Christine Zhang",
+      "publishDate": "2026-03-27T09:03:19.000Z",
+      "category": "Redistricting and Reapportionment",
+      "tags": [
+        "Redistricting and Reapportionment",
+        "Elections, House of Representatives",
+        "L2 Data",
+        "Virginia",
+        "United States Politics and Government"
+      ]
+    },
+    {
+      "title": "As Kennedy Takes on Food Policy, Companies Push Back",
+      "url": "https://www.nytimes.com/2026/03/27/health/rfk-food-ingredients-fda.html",
+      "summary": "Though the health secretary falsely claimed a victory in a recent podcast, a federal proposal to review all new food ingredients is still in the early stages and drawing fierce opposition.",
+      "author": "Christina Jewett",
+      "publishDate": "2026-03-27T09:02:13.000Z",
+      "category": "Regulation and Deregulation of Industry",
+      "tags": [
+        "Regulation and Deregulation of Industry",
+        "Food",
+        "Diet and Nutrition",
+        "Dietary Supplements and Herbal Remedies",
+        "United States Politics and Government",
+        "Food and Drug Administration",
+        "Health and Human Services Department",
+        "Kennedy, Robert F Jr"
+      ]
+    },
+    {
+      "title": "Why College Graduates Feel Betrayed",
+      "url": "https://www.nytimes.com/2026/03/27/business/college-graduates-economy-unemployment-.html",
+      "summary": "Their anger goes far beyond the recent rise of unemployment and the looming threat of A.I.",
+      "author": "Noam Scheiber",
+      "publishDate": "2026-03-27T09:00:18.000Z",
+      "category": "Colleges and Universities",
+      "tags": [
+        "Colleges and Universities",
+        "Generation Z",
+        "Organized Labor",
+        "Labor and Jobs",
+        "Hiring and Promotion",
+        "United States Economy",
+        "Liberalism (US Politics)",
+        "Starbucks Corporation"
+      ]
+    },
+    {
+      "title": "What’s Your Star Sign? The Ancients Could Offer You Some Insight.",
+      "url": "https://www.nytimes.com/2026/03/26/arts/design/zodiac-origins-exhibition-berlin.html",
+      "summary": "Long before horoscope apps, the foundations of today’s multibillion-dollar astrology industry were laid in Babylonia, Egypt and the classical world.",
+      "author": "Thomas Rogers",
+      "publishDate": "2026-03-26T09:03:03.000Z",
+      "category": "Astrology",
+      "tags": [
+        "Astrology",
+        "Archaeology and Anthropology",
+        "Museums",
+        "Neues Museum",
+        "Ossendrijver, Mathieu",
+        "Babylonia"
+      ]
+    },
+    {
+      "title": "Trump Said This Policy Would Make Manhattan a ‘Ghost Town.’ He Was Wrong.",
+      "url": "https://www.nytimes.com/2026/03/27/opinion/congestion-pricing-traffic-new-york.html",
+      "summary": "The success of congestion pricing is a reminder that government, done right, has immense power to improve people’s lives.",
+      "author": "The Editorial Board",
+      "publishDate": "2026-03-27T11:51:44.000Z",
+      "category": "Congestion Pricing",
+      "tags": [
+        "Congestion Pricing",
+        "Urban Areas",
+        "United States Politics and Government",
+        "Transit Systems",
+        "New York City",
+        "Manhattan (NYC)",
+        "Roads and Traffic"
+      ]
+    },
+    {
+      "title": "Republicans Know This War Is Going Badly",
+      "url": "https://www.nytimes.com/2026/03/27/opinion/republicans-iran-war.html",
+      "summary": "Never before has America arrived at the threshold of a quagmire so quickly.",
+      "author": "Michelle Goldberg",
+      "publishDate": "2026-03-27T09:04:19.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Trump, Donald J",
+        "Iran",
+        "United States International Relations",
+        "United States Politics and Government",
+        "Republican Party",
+        "United States Defense and Military Forces",
+        "Polls and Public Opinion"
+      ]
+    },
+    {
+      "title": "Your Suck-up Chatbot",
+      "url": "https://www.nytimes.com/2026/03/27/briefing/your-suck-up-chatbot.html",
+      "summary": "We explain the implications of A.I. being so sycophantic.",
+      "author": "Sam Sifton",
+      "publishDate": "2026-03-27T11:14:32.000Z",
+      "category": "internal-storyline-no",
+      "tags": [
+        "internal-storyline-no",
+        "OpenAI Labs",
+        "Anthropic AI LLC"
+      ]
+    },
+    {
+      "title": "Humpback Whale Is Freed After Days Stranded Off German Beach",
+      "url": "https://www.nytimes.com/2026/03/27/world/europe/stranded-whale-germany-baltic-freed.html",
+      "summary": "In an unexpected breakthrough, the 40-foot mammal swam to deeper water on Friday morning through a channel that rescuers had dug for it.",
+      "author": "Jenny Gross",
+      "publishDate": "2026-03-27T12:24:27.000Z",
+      "category": "Whales and Whaling",
+      "tags": [
+        "Whales and Whaling",
+        "Rescues",
+        "Beaches",
+        "Baltic Sea"
+      ]
+    },
+    {
+      "title": "U.K. Police to Reinvestigate Sex Crime Allegations Against Andrew Tate",
+      "url": "https://www.nytimes.com/2026/03/27/world/europe/andrew-tate-assault-case-uk.html",
+      "summary": "A police force in England said it would look again at allegations against the influencer from 11 years ago. Mr. Tate was not charged in the case and denies any wrongdoing.",
+      "author": "Isabella Kwai",
+      "publishDate": "2026-03-27T10:27:03.000Z",
+      "category": "Sex Crimes",
+      "tags": [
+        "Sex Crimes",
+        "Human Trafficking",
+        "Police Brutality, Misconduct and Shootings",
+        "Tate, Tristan",
+        "Tate, Andrew (1986- )",
+        "England",
+        "Great Britain"
       ]
     }
   ]
