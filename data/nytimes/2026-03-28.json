@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-28T04:48:23+09:00",
+  "timestamp": "2026-03-28T08:30:40+09:00",
   "articles": [
     {
       "title": "Florida’s Immigration Crackdown, Led by DeSantis, Is Showing Cracks",
@@ -874,6 +874,259 @@
         "Lying",
         "Trump, Donald J",
         "Iran"
+      ]
+    },
+    {
+      "title": "When Will TSA Workers Be Paid? Here’s What We Know",
+      "url": "https://www.nytimes.com/2026/03/27/us/politics/tsa-pay.html",
+      "summary": "President Trump on Friday directed the Homeland Security Department to pay thousands of airport security officers.",
+      "author": "Madeleine Ngo",
+      "publishDate": "2026-03-27T22:47:41.000Z",
+      "category": "Airport Security",
+      "tags": [
+        "Airport Security",
+        "United States Politics and Government",
+        "Homeland Security Department",
+        "Trump, Donald J",
+        "Customs and Border Protection (US)",
+        "Federal Emergency Management Agency",
+        "Immigration and Customs Enforcement (US)",
+        "House of Representatives",
+        "Senate"
+      ]
+    },
+    {
+      "title": "Government Trolls Sling Memes in the Online Trenches of Mideast War",
+      "url": "https://www.nytimes.com/2026/03/27/world/middleeast/iran-war-memes-propaganda.html",
+      "summary": "Officials in Tehran and Washington alike are trading taunts in English, often using American pop culture references.",
+      "author": "Ephrat Livni and Parin Behrooz",
+      "publishDate": "2026-03-27T20:27:00.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States International Relations",
+        "Social Media",
+        "Computers and the Internet",
+        "Islamic Revolutionary Guards Corps",
+        "Ghalibaf, Mohammad Baqer",
+        "Trump, Donald J",
+        "Iran"
+      ]
+    },
+    {
+      "title": "At CPAC, the ‘America First’ Crowd Ponders Giving War a Chance",
+      "url": "https://www.nytimes.com/2026/03/27/us/politics/cpac-trump-iran-war.html",
+      "summary": "The Conservative Political Action Conference has been an America First gathering for years, but with President Trump pursuing war in Iran, organizers have tried to make a shift, with mixed results.",
+      "author": "Richard Fausset",
+      "publishDate": "2026-03-27T23:17:06.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States Politics and Government",
+        "United States International Relations",
+        "Iranian-Americans",
+        "Conservatism (US Politics)",
+        "United Against Nuclear Iran",
+        "Trump, Donald J",
+        "Bannon, Stephen K"
+      ]
+    },
+    {
+      "title": "Cannonball with Wesley Morris: ‘Love Story’ Is Actually a Horror Story",
+      "url": "https://www.nytimes.com/2026/03/27/podcasts/love-story-jfk-jr.html",
+      "summary": "The nightmare began when she said, “I do.”",
+      "author": "Wesley Morris and Sasha Weiss",
+      "publishDate": "2026-03-27T21:07:03.000Z",
+      "category": "internal-open-access-audio",
+      "tags": [
+        "Love Story: John F. Kennedy Jr. & Carolyn Bessette (TV Program)",
+        "Murphy, Ryan",
+        "internal-open-access-audio"
+      ]
+    },
+    {
+      "title": "Hegseth Criticized for Removing Four Officers From Promotion List",
+      "url": "https://www.nytimes.com/2026/03/27/us/politics/hegseth-generals-promotion.html",
+      "summary": "Bitter rifts have opened over the defense secretary’s campaign to reverse policies that he says are prejudiced against white officers.",
+      "author": "Helene Cooper, Greg Jaffe and Eric Schmitt",
+      "publishDate": "2026-03-27T22:16:05.000Z",
+      "category": "United States Defense and Military Forces",
+      "tags": [
+        "United States Defense and Military Forces",
+        "United States Politics and Government",
+        "Discrimination",
+        "Hiring and Promotion",
+        "Defense Department",
+        "Senate Committee on Armed Services",
+        "Hegseth, Pete",
+        "Reed, Jack",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Kash Patel’s Emails Circulate Online as Iran Takes Responsibility for Release",
+      "url": "https://www.nytimes.com/2026/03/27/us/fbi-director-kash-patel-hacked-email-iran.html",
+      "summary": "What appeared to be personal emails from before Mr. Patel’s time as director were posted on a website that identified itself as Iranian but seemed to be hosted in Russia.",
+      "author": "Charlie Savage, Adam Goldman, Aric Toler and Glenn Thrush",
+      "publishDate": "2026-03-27T22:11:05.000Z",
+      "category": "Computers and the Internet",
+      "tags": [
+        "Computers and the Internet",
+        "Cyberwarfare and Defense",
+        "Surveillance of Citizens by Government",
+        "US and Israeli Attack on Iran (2026)",
+        "Central Intelligence Agency",
+        "Federal Bureau of Investigation",
+        "Justice Department",
+        "Quds Force",
+        "Patel, Kashyap",
+        "Iran"
+      ]
+    },
+    {
+      "title": "Outside Kennedy Center, Jane Fonda and Joan Baez Raise Voices in Protest",
+      "url": "https://www.nytimes.com/2026/03/27/arts/jane-fonda-joan-baez-kennedy-center-protest.html",
+      "summary": "The pair joined in a gathering of artists and others who denounced censorship and faulted President Trump’s growing influence over the nation’s cultural life.",
+      "author": "Sopan Deb",
+      "publishDate": "2026-03-27T20:58:09.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Demonstrations, Protests and Riots",
+        "House Committee on Un-American Activities",
+        "Baez, Joan",
+        "Fonda, Jane",
+        "Trump, Donald J",
+        "Washington (DC)"
+      ]
+    },
+    {
+      "title": "New York City Ballet Pulls Out of Kennedy Center Performances",
+      "url": "https://www.nytimes.com/2026/03/27/arts/dance/kennedy-center-new-york-city-ballet.html",
+      "summary": "The decision by the company, one of the most prestigious in the country, is the latest in a wave of high-profile cancellations at the center.",
+      "author": "Adam Nagourney and Julia Jacobs",
+      "publishDate": "2026-03-27T20:55:29.000Z",
+      "category": "Dancing",
+      "tags": [
+        "Dancing",
+        "Kennedy, John F, Center for the Performing Arts",
+        "New York City Ballet",
+        "Washington (DC)"
+      ]
+    },
+    {
+      "title": "Kennedy Center Performer Asks Judge to Toss Case He Calls ‘Retaliatory’",
+      "url": "https://www.nytimes.com/2026/03/27/us/politics/kennedy-center-jazz-performer.html",
+      "summary": "A jazz drummer who called off a performance in protest of the center’s being renamed for President Trump said the president’s allies had sued him as punishment.",
+      "author": "Zach Montague",
+      "publishDate": "2026-03-27T20:33:13.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Suits and Litigation (Civil)",
+        "Boards of Directors",
+        "Appointments and Executive Changes",
+        "Compensation for Damages (Law)",
+        "Freedom of Speech and Expression",
+        "Music",
+        "Kennedy, John F, Center for the Performing Arts",
+        "Beatty, Joyce",
+        "Floca, Matt"
+      ]
+    },
+    {
+      "title": "CPAC Considers Vance, Rubio and Life After Trump",
+      "url": "https://www.nytimes.com/2026/03/27/us/politics/cpac-trump-vance-rubio.html",
+      "summary": "The president’s potential successors “are mortal men,” one attendee said.",
+      "author": "Kellen Browning",
+      "publishDate": "2026-03-27T21:53:07.000Z",
+      "category": "Politics and Government",
+      "tags": [
+        "Politics and Government",
+        "Elections",
+        "Midterm Elections (2026)",
+        "Right-Wing Extremism and Alt-Right",
+        "Iran-Israel War (2025- )",
+        "Conservatism (US Politics)",
+        "Elections, Senate",
+        "Primaries and Caucuses",
+        "Republican Party",
+        "Senate"
+      ]
+    },
+    {
+      "title": "Overlooked No More: Gertrude Chandler Warner, Author of ‘The Boxcar Children’",
+      "url": "https://www.nytimes.com/2026/03/27/obituaries/gertrude-chandler-warner-overlooked.html",
+      "summary": "Her best-selling series, about four children who live in a train car and solve mysteries, inspired sequels, spinoffs and animated films.",
+      "author": "Miguel Salazar",
+      "publishDate": "2026-03-27T21:44:42.000Z",
+      "category": "Books and Literature",
+      "tags": [
+        "Warner, Gertrude Chandler",
+        "Books and Literature",
+        "Movies",
+        "Children and Childhood",
+        "Biographical Information",
+        "Connecticut"
+      ]
+    },
+    {
+      "title": "Technology Weakens Our Minds. It’s Time to Resist.",
+      "url": "https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html",
+      "summary": "Just as we changed our thinking around physical fitness, we need to change our attitude toward cognitive fitness.",
+      "author": "Cal Newport",
+      "publishDate": "2026-03-27T20:30:53.000Z",
+      "category": "Computers and the Internet",
+      "tags": [
+        "Computers and the Internet",
+        "Diet and Nutrition",
+        "Brain",
+        "Artificial Intelligence",
+        "Smartphones",
+        "Eisenhower, Dwight David"
+      ]
+    },
+    {
+      "title": "White House Vows to Pay T.S.A. Workers as Partial Shutdown Continues",
+      "url": "https://www.nytimes.com/2026/03/27/briefing/tsa-workers-pay-global-food-supply.html",
+      "summary": "Also, consumers are feeling the costs of the Iran war. Here’s the latest at the end of Friday.",
+      "author": "Matthew Cullen",
+      "publishDate": "2026-03-27T21:34:36.000Z"
+    },
+    {
+      "title": "Arrest Warrant for Ex-Kentucky Governor Matt Bevin Is Voided",
+      "url": "https://www.nytimes.com/2026/03/27/us/arrest-warrant-kentucky-governor-matt-bevin.html",
+      "summary": "The court decided the warrant was invalid, because it came after the former governor, Matt Bevin, had filed to disqualify a judge from his child-support case, accusing her of bias.",
+      "author": "Pooja Salhotra",
+      "publishDate": "2026-03-27T22:25:17.000Z",
+      "category": "Governors (US)",
+      "tags": [
+        "Bevin, Matthew",
+        "Kentucky",
+        "Governors (US)",
+        "Decisions and Verdicts",
+        "Child Custody and Support",
+        "Divorce, Separations and Annulments"
+      ]
+    },
+    {
+      "title": "Lee Geun-an, Infamous ‘Torture Master’ Under South Korean Dictator, Dies at 88",
+      "url": "https://www.nytimes.com/2026/03/27/world/asia/lee-geun-an-korea-obit.html",
+      "summary": "The name of Mr. Lee, a former police inspector, had long incited fear and hatred in the country.",
+      "author": "Choe Sang-Hun",
+      "publishDate": "2026-03-27T18:11:00.000Z",
+      "category": "Deaths (Obituaries)",
+      "tags": [
+        "Lee Geun-an (1938-2026)",
+        "Deaths (Obituaries)",
+        "Police Brutality, Misconduct and Shootings",
+        "Human Rights and Human Rights Violations",
+        "Torture",
+        "Interrogations",
+        "Demonstrations, Protests and Riots",
+        "Politics and Government",
+        "Chun Doo-hwan",
+        "South Korea"
       ]
     }
   ]
