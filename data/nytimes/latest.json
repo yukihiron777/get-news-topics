@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-28T16:50:26+09:00",
+  "timestamp": "2026-03-28T21:40:51+09:00",
   "articles": [
     {
       "title": "Florida’s Immigration Crackdown, Led by DeSantis, Is Showing Cracks",
@@ -1333,6 +1333,268 @@
         "Immigration and Customs Enforcement (US)",
         "Border Patrol (US)",
         "Illegal Immigration"
+      ]
+    },
+    {
+      "title": "Wild Ultimatums and ‘Bombing Our Little Hearts Out’: A Portrait of Trump at War",
+      "url": "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html",
+      "summary": "President Trump has vacillated between boasting about U.S. military superiority and deep frustration that his war of choice is not always having the desired effects.",
+      "author": "Erica L. Green",
+      "publishDate": "2026-03-28T09:01:34.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States Defense and Military Forces",
+        "United States Politics and Government",
+        "United States International Relations",
+        "Deaths (Fatalities)",
+        "Defense Department",
+        "Central Intelligence Agency",
+        "Bolton, John R",
+        "Caine, John Daniel (1968- )",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Iranian Strike on U.S. Base in Saudi Arabia Injures 12 American Troops, Officials Say",
+      "url": "https://www.nytimes.com/2026/03/27/us/politics/strike-us-air-base-injuries.html",
+      "summary": "The combined missile and drone attack amounted to one of the most serious breaches of American air defenses in the course of the monthlong war with Iran.",
+      "author": "Chris Cameron and Eric Schmitt",
+      "publishDate": "2026-03-28T02:28:42.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Iran",
+        "Defense and Military Forces",
+        "Drones (Pilotless Planes)",
+        "Missiles and Missile Defense Systems",
+        "Saudi Arabia",
+        "United States Defense and Military Forces",
+        "Military Bases and Installations",
+        "United States Central Command",
+        "Persian Gulf"
+      ]
+    },
+    {
+      "title": "In an Asymmetrical War, Iran Seeks an Edge With Its Information War",
+      "url": "https://www.nytimes.com/2026/03/28/business/iran-propaganda-war-ai.html",
+      "summary": "Propaganda and disinformation have flooded the internet in a sophisticated effort to undermine support for U.S. and Israeli attacks.",
+      "author": "Steven Lee Myers, Tiffany Hsu and Stuart A. Thompson",
+      "publishDate": "2026-03-28T09:03:26.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Iran-Israel War (2025- )",
+        "Computers and the Internet",
+        "Social Media",
+        "International Relations",
+        "Artificial Intelligence",
+        "United States Politics and Government",
+        "War and Armed Conflicts",
+        "Rumors and Misinformation",
+        "Iran"
+      ]
+    },
+    {
+      "title": "Castro Heirs Emerge Across Cuba’s Political Scene Amid Energy Crisis and Trump Threats",
+      "url": "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html",
+      "summary": "As Trump officials demand changes, Castro family members are suddenly popping up across Cuba’s political scene. Some even ask: Could one be the “Cuban Delcy?”",
+      "author": "Simon Romero and David C. Adams",
+      "publishDate": "2026-03-28T09:02:14.000Z",
+      "category": "United States International Relations",
+      "tags": [
+        "United States International Relations",
+        "Embargoes and Sanctions",
+        "Economic Conditions and Trends",
+        "Communism (Theory and Philosophy)",
+        "Oil (Petroleum) and Gasoline",
+        "Central Intelligence Agency",
+        "University of Wisconsin",
+        "Castro, Fidel",
+        "Castro, Raul",
+        "Diaz-Canel Bermudez, Miguel"
+      ]
+    },
+    {
+      "title": "A Challenge for ‘No Kings’ Protests, the Third Time Around",
+      "url": "https://www.nytimes.com/2026/03/28/us/politics/no-kings-protests-trump-organizers.html",
+      "summary": "Organizers want this to be largest protest yet. But is hitting a number enough to deliver an effective political movement?",
+      "author": "Jeremy W. Peters",
+      "publishDate": "2026-03-28T09:01:24.000Z",
+      "category": "Demonstrations, Protests and Riots",
+      "tags": [
+        "Demonstrations, Protests and Riots",
+        "United States Politics and Government",
+        "Indivisible Project",
+        "Trump, Donald J",
+        "United States",
+        "No Kings"
+      ]
+    },
+    {
+      "title": "‘No Kings’ Protests Across U.S. Cities: What We Know",
+      "url": "https://www.nytimes.com/2026/03/27/us/no-kings-protests-cities.html",
+      "summary": "Thousands of demonstrations against the Trump administration are scheduled to take place in cities and towns across the country on Saturday.",
+      "author": "Pooja Salhotra",
+      "publishDate": "2026-03-27T13:09:03.000Z",
+      "category": "Demonstrations, Protests and Riots",
+      "tags": [
+        "Demonstrations, Protests and Riots",
+        "Midterm Elections (2026)",
+        "Indivisible Project",
+        "MoveOn.org",
+        "New York City",
+        "United States Politics and Government"
+      ]
+    },
+    {
+      "title": "Kaela Berg, a Flight Attendant, Runs for Congress One Layover at a Time",
+      "url": "https://www.nytimes.com/2026/03/28/us/politics/kaela-berg-minnesota-congress-democrat.html",
+      "summary": "Kaela Berg is part of a crop of working-class candidates that Democrats hope can help the party win back blue-collar voters.",
+      "author": "Lisa Lerer",
+      "publishDate": "2026-03-28T09:00:15.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Midterm Elections (2026)",
+        "State Legislatures",
+        "Elections, House of Representatives",
+        "Politics and Government",
+        "Democratic Party",
+        "audio-neutral-informative"
+      ]
+    },
+    {
+      "title": "Is Iran a Political Problem for Trump? Tell Me How Long the War Lasts.",
+      "url": "https://www.nytimes.com/2026/03/28/upshot/iran-war-trump-popularity.html",
+      "summary": "Historically, quagmire abroad and high prices at home are the ingredients of a failed presidency.",
+      "author": "Nate Cohn",
+      "publishDate": "2026-03-28T12:20:54.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Trump, Donald J",
+        "Iran",
+        "United States Politics and Government",
+        "Republican Party",
+        "United States International Relations",
+        "Polls and Public Opinion"
+      ]
+    },
+    {
+      "title": "On CPAC’s Main Stage, Fissures in the Party Trump Remade",
+      "url": "https://www.nytimes.com/2026/03/28/us/politics/cpac-trump-maga-republican-party.html",
+      "summary": "The Conservative Political Action Conference typically seeks to establish orthodoxy with its roster of speakers. This year, organizers created space for dissent, highlighting ongoing schisms in the MAGA movement.",
+      "author": "Kellen Browning",
+      "publishDate": "2026-03-28T11:07:19.000Z",
+      "category": "Midterm Elections (2026)",
+      "tags": [
+        "Midterm Elections (2026)",
+        "Trump, Donald J",
+        "CPAC",
+        "Conservative Political Action Conference",
+        "Texas",
+        "Dallas"
+      ]
+    },
+    {
+      "title": "Taylor Frankie Paul’s Past Was No Secret. A Child’s Cry Changed Everything.",
+      "url": "https://www.nytimes.com/2026/03/28/arts/television/taylor-frankie-paul-child-endangerment.html",
+      "summary": "Before being cast as “The Bachelorette,” Taylor Frankie Paul had discussed — with police, on podcasts and on TV — the domestic dispute that involved her 5-year-old daughter.",
+      "author": "Julia Jacobs and John Koblin",
+      "publishDate": "2026-03-28T09:02:23.000Z",
+      "category": "Television",
+      "tags": [
+        "Television",
+        "Reality Television",
+        "Video Recordings, Downloads and Streaming",
+        "Assaults",
+        "Child Abuse and Neglect",
+        "Domestic Violence",
+        "ABC Inc",
+        "Paul, Taylor Frankie",
+        "Call Her Daddy (Radio Program)",
+        "The Secret Lives of Mormon Wives (TV Program)"
+      ]
+    },
+    {
+      "title": "Trump Does Anything He Wants — and More",
+      "url": "https://www.nytimes.com/2026/03/28/opinion/trump-does-anything-he-wants-and-more.html",
+      "summary": "When you’re a wannabe king they let you do it.",
+      "author": "Maureen Dowd",
+      "publishDate": "2026-03-28T11:00:15.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "US and Israeli Attack on Iran (2026)",
+        "Awards, Decorations and Honors",
+        "Trump, Donald J",
+        "United States Defense and Military Forces"
+      ]
+    },
+    {
+      "title": "‘We Are Going to Deeply Regret This War’",
+      "url": "https://www.nytimes.com/2026/03/28/opinion/iran-trump-israel-geopolitics.html",
+      "summary": "Three journalists on the potential repercussions of Operation Epic Fury.",
+      "author": "Robert Siegel, E.J. Dionne Jr., Mona Charen and Jillian Weinberger",
+      "publishDate": "2026-03-28T11:00:20.000Z",
+      "category": "audio-neutral-informative",
+      "tags": [
+        "audio-neutral-informative",
+        "US and Israeli Attack on Iran (2026)",
+        "United States Politics and Government",
+        "Right-Wing Extremism and Alt-Right",
+        "Israel-Gaza War (2023- )",
+        "Midterm Elections (2026)",
+        "Elections, State Legislature",
+        "Baseball",
+        "Netanyahu, Benjamin",
+        "Rubio, Marco"
+      ]
+    },
+    {
+      "title": "Present Company",
+      "url": "https://www.nytimes.com/2026/03/28/briefing/present-company.html",
+      "summary": "Entertaining out-of-town visitors can yield ideas for how to live more intentionally in your everyday life.",
+      "author": "Melissa Kirsch",
+      "publishDate": "2026-03-28T11:02:23.000Z",
+      "category": "internal-storyline-no",
+      "tags": [
+        "internal-storyline-no",
+        "Travel and Vacations",
+        "Habits and Routines (Behavior)"
+      ]
+    },
+    {
+      "title": "Actress Says She’s Found Her Secret Online Abuser: Her Husband",
+      "url": "https://www.nytimes.com/2026/03/27/world/europe/collien-fernandes-deepfake-online-abuse.html",
+      "summary": "Collien Fernandes said her spouse had posted deepfakes of her. The account, disputed by her husband, spurred outrage, protests and parliamentary debates in Germany.",
+      "author": "Christopher F. Schuetze",
+      "publishDate": "2026-03-27T22:41:17.000Z",
+      "category": "Cyberharassment",
+      "tags": [
+        "Germany",
+        "Cyberharassment",
+        "Sex Crimes"
+      ]
+    },
+    {
+      "title": "Are New York’s Environmental Concerns Worsening a Housing Shortage?",
+      "url": "https://www.nytimes.com/2026/03/28/nyregion/hochul-housing-seqra-environment.html",
+      "summary": "Gov. Kathy Hochul is proposing to exempt a majority of new housing from state environmental reviews, arguing that sufficient safeguards are in place at the local level.",
+      "author": "Grace Ashford",
+      "publishDate": "2026-03-28T07:00:06.000Z",
+      "category": "Building (Construction)",
+      "tags": [
+        "State Environmental Quality Review Act (SEQRA)",
+        "Hochul, Kathleen C",
+        "New York State",
+        "Building (Construction)",
+        "Zoning",
+        "Conservation of Resources",
+        "Affordable Housing",
+        "Real Estate and Housing (Residential)",
+        "Area Planning and Renewal"
       ]
     }
   ]
