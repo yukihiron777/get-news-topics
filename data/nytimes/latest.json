@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-28T08:30:40+09:00",
+  "timestamp": "2026-03-28T13:29:58+09:00",
   "articles": [
     {
       "title": "Florida’s Immigration Crackdown, Led by DeSantis, Is Showing Cracks",
@@ -1127,6 +1127,192 @@
         "Politics and Government",
         "Chun Doo-hwan",
         "South Korea"
+      ]
+    },
+    {
+      "title": "U.S. Antitank Mines Discovered in Neighborhood in Iran",
+      "url": "https://www.nytimes.com/2026/03/27/us/antitank-mines-iran.html",
+      "summary": "Photos and video verified by The New York Times show mines dispensed by cluster bombs in a village a few miles from a missile site.",
+      "author": "John Ismay and Aric Toler",
+      "publishDate": "2026-03-28T00:18:03.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Cluster Munitions",
+        "Bombs and Explosives",
+        "Defense Department",
+        "Trump, Donald J",
+        "Iran"
+      ]
+    },
+    {
+      "title": "How Long of a Wait at Security? For Many Passengers, It Was Anyone’s Guess.",
+      "url": "https://www.nytimes.com/2026/03/27/us/wait-times-airports-tsa-confusion.html",
+      "summary": "As T.S.A. staff shortages continued on Friday, some airports saw interminably long wait times, while others barely had a wait at all, adding to travelers’ confusion.",
+      "author": "Jacey Fortin, Shannon Sims and Michelle Baruchman",
+      "publishDate": "2026-03-27T23:15:12.000Z",
+      "category": "Airports",
+      "tags": [
+        "Airports",
+        "Airport Security",
+        "Shutdowns (Institutional)",
+        "Atlanta (Ga)",
+        "Baltimore (Md)",
+        "Houston (Tex)"
+      ]
+    },
+    {
+      "title": "Trump Offers More Aid to Farmers, a Key Support Bloc Hurt by Tariffs and War",
+      "url": "https://www.nytimes.com/2026/03/27/us/politics/trump-farmers.html",
+      "summary": "The president announced new loan guarantees at a White House event that appeared intended to reassure a group that has found itself caught in the crosshairs of some of his major policies.",
+      "author": "Erica L. Green and Zolan Kanno-Youngs",
+      "publishDate": "2026-03-27T22:30:15.000Z",
+      "category": "Agriculture and Farming",
+      "tags": [
+        "Trump, Donald J",
+        "Agriculture and Farming",
+        "United States Politics and Government",
+        "US and Israeli Attack on Iran (2026)",
+        "Prices (Fares, Fees and Rates)",
+        "Federal Aid (US)",
+        "Customs (Tariff)",
+        "Deere & Company",
+        "Caterpillar Inc"
+      ]
+    },
+    {
+      "title": "We Analyzed the Deadly Crash at LaGuardia",
+      "url": "https://www.nytimes.com/video/nyregion/nyregionspecial/100000010800839/we-analyzed-the-deadly-crash-at-laguardia.html",
+      "summary": "Our graphics reporter Lazaro Gamio breaks down the second-by-second analysis leading up to the deadly plane crash at LaGuardia Airport.",
+      "author": "Lazaro Gamio, Coleman Lowndes and James Surdam",
+      "publishDate": "2026-03-28T00:16:10.000Z",
+      "category": "Aviation Accidents, Safety and Disasters",
+      "tags": [
+        "Aviation Accidents, Safety and Disasters",
+        "LaGuardia Airport (Queens, NY)",
+        "Airports"
+      ]
+    },
+    {
+      "title": "Bank of America Pays $72.5 Million to Settle Lawsuit by Epstein Victims",
+      "url": "https://www.nytimes.com/2026/03/27/business/bank-of-america-epstein-victims-settlement.html",
+      "summary": "The suit claimed the bank had overlooked signs that Mr. Epstein’s accounts were being used to further his abuse of young women.",
+      "author": "Matthew Goldstein",
+      "publishDate": "2026-03-28T01:13:37.000Z",
+      "category": "Sex Crimes",
+      "tags": [
+        "Bank of America Corporation",
+        "Epstein, Jeffrey E (1953- )",
+        "Black, Leon D",
+        "Sex Crimes",
+        "Suits and Litigation (Civil)",
+        "Child Abuse and Neglect",
+        "Banking and Financial Institutions",
+        "Compensation for Damages (Law)",
+        "Women and Girls",
+        "Human Trafficking"
+      ]
+    },
+    {
+      "title": "Man Accused of Killing Loyola University Chicago Student to Remain in Jail",
+      "url": "https://www.nytimes.com/2026/03/27/us/loyola-shooting-suspect-chicago.html",
+      "summary": "Jose Medina, who is accused of being in the country illegally, is charged with murder in the death of Sheridan Gorman, a freshman at Loyola University Chicago.",
+      "author": "Leigh Giangreco and Mitch Smith",
+      "publishDate": "2026-03-27T23:13:34.000Z",
+      "category": "Murders, Attempted Murders and Homicides",
+      "tags": [
+        "Murders, Attempted Murders and Homicides",
+        "Illegal Immigration",
+        "Cook County (Ill)",
+        "Loyola University Chicago"
+      ]
+    },
+    {
+      "title": "Judge Agrees to Drop Charges Against Officers in Breonna Taylor’s Death",
+      "url": "https://www.nytimes.com/2026/03/27/us/politics/breonna-taylor-officer-charges-dropped.html",
+      "summary": "The Trump administration had asked the court to dismiss the charges, describing them as an example of “weaponized federal overreach” by the Biden administration.",
+      "author": "Chris Cameron",
+      "publishDate": "2026-03-27T23:59:23.000Z",
+      "category": "Police Brutality, Misconduct and Shootings",
+      "tags": [
+        "Taylor, Breonna (1993-2020)",
+        "Louisville (Ky)",
+        "Police Brutality, Misconduct and Shootings",
+        "Black Lives Matter Movement",
+        "Decisions and Verdicts",
+        "Justice Department"
+      ]
+    },
+    {
+      "title": "Clavicular, an Internet Narcissus, Is Arrested After Posting a Fight Video",
+      "url": "https://www.nytimes.com/2026/03/27/us/clavicular-arrested-florida-fight-video.html",
+      "summary": "The influencer, known for promoting handsomeness, is accused of arranging a brawl between two women. Separately, the authorities are investigating a video showing him shooting an alligator.",
+      "author": "Pooja Salhotra",
+      "publishDate": "2026-03-28T00:44:59.000Z",
+      "category": "Social Media",
+      "tags": [
+        "Clavicular (Braden Peters)",
+        "Social Media",
+        "Video Recordings, Downloads and Streaming",
+        "Everglades (Fla)",
+        "Alligators"
+      ]
+    },
+    {
+      "title": "The War Is Going Better Than You Think",
+      "url": "https://www.nytimes.com/2026/03/24/opinion/iran-war-history.html",
+      "summary": "How the fight in Iran compares to past conflicts.",
+      "author": "Bret Stephens",
+      "publishDate": "2026-03-25T18:52:52.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Oil (Petroleum) and Gasoline",
+        "Prices (Fares, Fees and Rates)",
+        "Strait of Hormuz",
+        "Persian Gulf War",
+        "Iraq War (2003-11)",
+        "Trump, Donald J",
+        "Hussein, Saddam",
+        "Iran",
+        "Iraq"
+      ]
+    },
+    {
+      "title": "Trump’s Reaction to Mueller’s Death: ‘Good, I’m Glad.’",
+      "url": "https://www.nytimes.com/2026/03/21/us/politics/trump-mueller-death.html",
+      "summary": "The president has been known to disparage foes after their deaths. His response to Mr. Mueller’s death drew criticism from Republicans and Democrats.",
+      "author": "Erica L. Green",
+      "publishDate": "2026-03-22T14:43:22.000Z",
+      "category": "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+      "tags": [
+        "Mueller, Robert S III",
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "Special Prosecutors (Independent Counsel)",
+        "Federal Bureau of Investigation",
+        "Justice Department",
+        "United States Politics and Government",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Gregory Bovino’s Final Days: Harsh Words and Few Regrets",
+      "url": "https://www.nytimes.com/2026/03/24/us/gregory-bovino-border-patrol.html",
+      "summary": "He was the face of the Trump administration’s immigration crackdown. But as he begins a retirement that was not entirely voluntary, the Border Patrol leader says he did not go far enough.",
+      "author": "Katie J.M. Baker and Hamed Aleaziz",
+      "publishDate": "2026-03-24T19:29:38.000Z",
+      "category": "Illegal Immigration",
+      "tags": [
+        "Illegal Immigration",
+        "United States Politics and Government",
+        "Demonstrations, Protests and Riots",
+        "Deportation",
+        "Federal Actions in US Cities",
+        "Content Type: Personal Profile",
+        "Border Patrol (US)",
+        "Homeland Security Department",
+        "Immigration and Customs Enforcement (US)",
+        "Bovino, Gregory"
       ]
     }
   ]
