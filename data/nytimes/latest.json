@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-29T04:36:18+09:00",
+  "timestamp": "2026-03-29T08:28:49+09:00",
   "articles": [
     {
       "title": "Yemen’s Houthis Fire at Israel and Vow Further Attacks",
@@ -571,6 +571,181 @@
         "Lying",
         "Trump, Donald J",
         "Iran"
+      ]
+    },
+    {
+      "title": "‘No Kings’ Protests Decry Trump and His Agenda",
+      "url": "https://www.nytimes.com/2026/03/28/us/no-kings-trump-iran-immigration-minnesota.html",
+      "summary": "Thousands of organized demonstrations stretched across the country. Minnesota was a focal point of the protests after a tumultuous immigration crackdown.",
+      "author": "Thomas Fuller",
+      "publishDate": "2026-03-28T21:20:04.000Z",
+      "category": "Demonstrations, Protests and Riots",
+      "tags": [
+        "Demonstrations, Protests and Riots",
+        "United States Politics and Government",
+        "US and Israeli Attack on Iran (2026)",
+        "Trump, Donald J",
+        "United States",
+        "Minnesota",
+        "Minneapolis (Minn)",
+        "St Paul (Minn)",
+        "Illegal Immigration",
+        "Federal Actions in US Cities"
+      ]
+    },
+    {
+      "title": "G.O.P. Rift Leaves Congress With No Clear Path to End the Shutdown",
+      "url": "https://www.nytimes.com/2026/03/28/us/gop-rift-leaves-no-clear-shutdown-off-ramp.html",
+      "summary": "The deadlock that left the Department of Homeland Security shuttered highlighted Republican divisions that are flaring ahead of the midterm elections.",
+      "author": "Carl Hulse",
+      "publishDate": "2026-03-28T21:40:39.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Politics and Government",
+        "Midterm Elections (2026)",
+        "Shutdowns (Institutional)",
+        "Republican Party",
+        "Democratic Party",
+        "House of Representatives",
+        "Senate",
+        "Johnson, Mike (1972- )",
+        "Ogles, Andy"
+      ]
+    },
+    {
+      "title": "F.B.I. Said to Dig Up Old Investigative Files on Democratic Lawmaker",
+      "url": "https://www.nytimes.com/2026/03/28/us/politics/trump-fbi-patel-eric-swalwell.html",
+      "summary": "The urgent instructions at the Trump administration’s behest to gather and relay the files on Representative Eric Swalwell have alarmed some career law enforcement officials.",
+      "author": "Edward Wong and Devlin Barrett",
+      "publishDate": "2026-03-28T20:15:36.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Ethics and Official Misconduct",
+        "Federal Bureau of Investigation",
+        "Justice Department",
+        "Epstein, Jeffrey E (1953- )",
+        "Patel, Kashyap",
+        "Powell, Jerome H",
+        "Pulte, William J (1988- )",
+        "Schiff, Adam B",
+        "Swalwell, Eric M"
+      ]
+    },
+    {
+      "title": "Clean Energy Companies Are Trying to Survive the Trump Era",
+      "url": "https://www.nytimes.com/2026/03/28/climate/clean-energy-trump-renewable.html",
+      "summary": "Offshore wind is out. Geothermal power is in. And many climate technology start-ups are looking for ways to carry on without federal backing.",
+      "author": "Brad Plumer",
+      "publishDate": "2026-03-28T09:01:00.000Z",
+      "category": "Alternative and Renewable Energy",
+      "tags": [
+        "Alternative and Renewable Energy",
+        "United States Politics and Government",
+        "Greenhouse Gas Emissions",
+        "Global Warming",
+        "Geothermal Power",
+        "Start-ups",
+        "Federal Aid (US)",
+        "Solar Energy",
+        "Wind Power",
+        "Offshore Drilling and Exploration"
+      ]
+    },
+    {
+      "title": "Vance Wins CPAC Straw Poll, but Rubio Gains Steam Among MAGA Faithful",
+      "url": "https://www.nytimes.com/2026/03/28/us/politics/vance-rubio-cpac-straw-poll.html",
+      "summary": "Conference organizers presented the poll results as a rebuttal to narratives that Republicans were split over the Iran war and support for Israel.",
+      "author": "Kellen Browning",
+      "publishDate": "2026-03-28T21:50:32.000Z",
+      "category": "Midterm Elections (2026)",
+      "tags": [
+        "Midterm Elections (2026)",
+        "US and Israeli Attack on Iran (2026)",
+        "Politics and Government",
+        "Presidential Election of 2028",
+        "Elections",
+        "Conservative Political Action Conference",
+        "Republican Party",
+        "Vance, J D",
+        "Trump, Donald J",
+        "Rubio, Marco"
+      ]
+    },
+    {
+      "title": "‘We Are Going to Deeply Regret This War’",
+      "url": "https://www.nytimes.com/2026/03/28/opinion/iran-trump-israel-geopolitics.html",
+      "summary": "Three journalists on the potential repercussions of Operation Epic Fury.",
+      "author": "Robert Siegel, E.J. Dionne Jr., Mona Charen and Jillian Weinberger",
+      "publishDate": "2026-03-28T15:10:20.000Z",
+      "category": "audio-neutral-informative",
+      "tags": [
+        "audio-neutral-informative",
+        "US and Israeli Attack on Iran (2026)",
+        "United States Politics and Government",
+        "Right-Wing Extremism and Alt-Right",
+        "Israel-Gaza War (2023- )",
+        "Midterm Elections (2026)",
+        "Elections, State Legislature",
+        "Baseball",
+        "Netanyahu, Benjamin",
+        "Rubio, Marco"
+      ]
+    },
+    {
+      "title": "Can This Russian Bakery Survive a 3,500% Tax Increase?",
+      "url": "https://www.nytimes.com/2026/03/28/world/europe/russia-economy-small-business-tax-increase.html",
+      "summary": "The challenges faced by a small-business owner near Moscow highlight how Russia’s war-drained economy is on the doorstep of a major crisis.",
+      "author": "Ivan Nechepurenko",
+      "publishDate": "2026-03-28T16:26:20.000Z",
+      "category": "Russian Invasion of Ukraine (2022)",
+      "tags": [
+        "Russian Invasion of Ukraine (2022)",
+        "US and Israeli Attack on Iran (2026)",
+        "Small Business",
+        "Taxation",
+        "Economic Conditions and Trends",
+        "Russia",
+        "Moscow (Russia)"
+      ]
+    },
+    {
+      "title": "James Tolkan, a Tough-Talking Actor in ‘Back to the Future’ and ‘Top Gun,’ Dies at 94",
+      "url": "https://www.nytimes.com/2026/03/28/obituaries/james-tolkan-dead.html",
+      "summary": "Mr. Tolkan’s career spanned decades but his breakout roles came as an authority figure in two popular films of the mid-1980s.",
+      "author": "Aimee Ortiz",
+      "publishDate": "2026-03-28T19:57:49.000Z",
+      "category": "Deaths (Obituaries)",
+      "tags": [
+        "Deaths (Obituaries)",
+        "Actors and Actresses",
+        "Television",
+        "Movies",
+        "Tolkan, James",
+        "Nineteen Hundred Eighties",
+        "Saranac Lake (NY)",
+        "Michigan",
+        "Back to the Future (Movie)",
+        "Top Gun (Movie)"
+      ]
+    },
+    {
+      "title": "Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery",
+      "url": "https://www.nytimes.com/2026/03/28/science/space/nasa-astronaut-medical-evaluation.html",
+      "summary": "The astronaut, Michael Fincke, experienced a medical emergency in January that rendered him unable to speak, he said.",
+      "author": "Rylee Kirk",
+      "publishDate": "2026-03-28T22:39:54.000Z",
+      "category": "Space and Astronomy",
+      "tags": [
+        "Space and Astronomy",
+        "International Space Station",
+        "Space Stations",
+        "National Aeronautics and Space Administration",
+        "Michael Fincke",
+        "Voice and Speech",
+        "Evacuations and Evacuees",
+        "Emergency Medical Treatment"
       ]
     }
   ]
