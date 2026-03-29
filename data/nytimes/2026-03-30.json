@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-30T04:38:07+09:00",
+  "timestamp": "2026-03-30T08:30:26+09:00",
   "articles": [
     {
       "title": "The U.S. Now Has Over 50,000 Troops in the Middle East",
@@ -517,6 +517,253 @@
         "Homan, Thomas D",
         "Homeland Security Department",
         "United States Politics and Government"
+      ]
+    },
+    {
+      "title": "U.S. to Allow Russian Oil Tanker to Reach Cuba, Breaking Blockade",
+      "url": "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html",
+      "summary": "The tanker full of crude oil could reach its expected destination by Tuesday, providing a lifeline to the island amid intense U.S. pressure.",
+      "author": "Jack Nicas and Eric Schmitt",
+      "publishDate": "2026-03-29T23:01:29.000Z",
+      "category": "Oil (Petroleum) and Gasoline",
+      "tags": [
+        "Cuba",
+        "Russia",
+        "Oil (Petroleum) and Gasoline",
+        "Embargoes and Sanctions",
+        "Shortages",
+        "Ships and Shipping",
+        "United States International Relations",
+        "United States Coast Guard"
+      ]
+    },
+    {
+      "title": "Castro Heirs Emerge Across Cuba’s Political Scene Amid Energy Crisis and Trump Threats",
+      "url": "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html",
+      "summary": "As Trump officials demand changes, Castro family members are suddenly popping up across Cuba’s political scene. Some even ask: Could one be the “Cuban Delcy?”",
+      "author": "Simon Romero and David C. Adams",
+      "publishDate": "2026-03-28T20:21:04.000Z",
+      "category": "United States International Relations",
+      "tags": [
+        "United States International Relations",
+        "Politics and Government",
+        "Economic Conditions and Trends",
+        "Communism (Theory and Philosophy)",
+        "Oil (Petroleum) and Gasoline",
+        "Embargoes and Sanctions",
+        "Castro, Fidel",
+        "Castro, Raul",
+        "Castro Espin, Alejandro",
+        "Perez-Oliva Fraga, Oscar"
+      ]
+    },
+    {
+      "title": "Cuban Patients Are Dying Because of U.S. Blockade, Doctors Say",
+      "url": "https://www.nytimes.com/2026/03/26/world/americas/cubas-health-system-us-oil-blockade.html",
+      "summary": "Cuban health care was once the pride of the island. Now the U.S. oil blockade is upending even basic medical care.",
+      "author": "Ed Augustin, Jack Nicas and Jorge Luis Baños",
+      "publishDate": "2026-03-26T16:05:03.000Z",
+      "category": "vis-photo",
+      "tags": [
+        "vis-photo",
+        "Shortages",
+        "Embargoes and Sanctions",
+        "Medicine and Health",
+        "Power Failures and Blackouts",
+        "Deaths (Fatalities)",
+        "Infant Mortality",
+        "Hospitals",
+        "Pregnancy and Childbirth",
+        "United States International Relations"
+      ]
+    },
+    {
+      "title": "As Gas Prices Approach $4 a Gallon, Americans Rethink Vacations",
+      "url": "https://www.nytimes.com/2026/03/29/us/gas-prices-spring-break-vacation.html",
+      "summary": "Already pinched by the high costs of living, some families have modified how they plan to travel by road and air as the Iran war pushes gas and oil prices higher.",
+      "author": "Audra D. S. Burch",
+      "publishDate": "2026-03-29T20:29:11.000Z",
+      "category": "Prices (Fares, Fees and Rates)",
+      "tags": [
+        "Prices (Fares, Fees and Rates)",
+        "Oil (Petroleum) and Gasoline",
+        "Summer (Season)",
+        "US and Israeli Attack on Iran (2026)",
+        "Spring (Season)",
+        "Travel and Vacations",
+        "Road Trips",
+        "Budgets and Budgeting",
+        "American Automobile Assn",
+        "Orlando (Fla)"
+      ]
+    },
+    {
+      "title": "New Political Group to Push Trump’s A.I. Agenda in Midterms",
+      "url": "https://www.nytimes.com/2026/03/29/business/trump-artificial-intelligence-pac-midterms.html",
+      "summary": "The group, Innovation Council Action, says it plans to spend at least $100 million. It will be led by a former administration official.",
+      "author": "Theodore Schleifer",
+      "publishDate": "2026-03-29T19:02:15.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Artificial Intelligence",
+        "Political Action Committees",
+        "Midterm Elections (2026)",
+        "Regulation and Deregulation of Industry"
+      ]
+    },
+    {
+      "title": "Chromebook Remorse: Tech Backlash at Schools Extends Beyond Phones",
+      "url": "https://www.nytimes.com/2026/03/29/technology/chromebook-remorse-kansas-school-laptops.html",
+      "summary": "No more YouTube or video games on school laptops. Textbooks and pencils are back. Some seventh graders say they prefer learning offline.",
+      "author": "Natasha Singer and David Robert Elliott",
+      "publishDate": "2026-03-29T16:04:03.000Z",
+      "category": "Education (K-12)",
+      "tags": [
+        "Education (K-12)",
+        "Laptop Computers",
+        "Screen Time (Device)",
+        "Chromebooks",
+        "Google Inc",
+        "Kansas",
+        "Mobile Applications",
+        "Social Media"
+      ]
+    },
+    {
+      "title": "A Phone-Free Childhood? One Irish Village Is Making It Happen.",
+      "url": "https://www.nytimes.com/2026/03/25/realestate/ireland-cell-phones-children.html",
+      "summary": "Tired of seeing its elementary-school children struggle with online temptations, the town of Greystones proposed a ‘no smart devices’ code. Most everyone bought in.",
+      "author": "Sally McGrane and Therese Aherne",
+      "publishDate": "2026-03-26T15:07:20.000Z",
+      "category": "Smartphones",
+      "tags": [
+        "Greystones (Ireland)",
+        "Smartphones",
+        "Screen Time (Device)",
+        "Children and Childhood",
+        "Education (K-12)",
+        "Ireland",
+        "Real Estate and Housing (Residential)",
+        "internal-open-access-from-nl"
+      ]
+    },
+    {
+      "title": "A Downturn in Las Vegas Could Signal Tough Times for the Nation",
+      "url": "https://www.nytimes.com/2026/03/28/us/politics/las-vegas-economy.html",
+      "summary": "The high rollers may still be crowding the tables, but high prices and pinched discretionary incomes are driving a sharp drop-off in visitors to Las Vegas as Nevada’s governor runs for re-election.",
+      "author": "Reis Thebault and Brandon Tauszik",
+      "publishDate": "2026-03-28T18:58:33.000Z",
+      "category": "Economic Conditions and Trends",
+      "tags": [
+        "Las Vegas (Nev)",
+        "Economic Conditions and Trends",
+        "Cost of Living and Affordability",
+        "Income Inequality",
+        "Casinos",
+        "Travel and Vacations",
+        "High Net Worth Individuals",
+        "Luxury Goods and Services",
+        "Prices (Fares, Fees and Rates)",
+        "United States Economy"
+      ]
+    },
+    {
+      "title": "Bernie Sanders, in the Bronx, Presses Kathy Hochul to Tax the Rich",
+      "url": "https://www.nytimes.com/2026/03/29/nyregion/bernie-sanders-tax-the-rich-rally.html",
+      "summary": "Senator Bernie Sanders, speaking at a rally at Lehman College, lent his support to Mayor Zohran Mamdani’s effort to raise taxes on millionaires. The mayor was not present.",
+      "author": "Miles G. Cohen",
+      "publishDate": "2026-03-29T22:35:39.000Z",
+      "category": "High Net Worth Individuals",
+      "tags": [
+        "High Net Worth Individuals",
+        "Income Tax",
+        "Democratic Socialists of America",
+        "Lehman College",
+        "Hochul, Kathleen C",
+        "Mamdani, Zohran",
+        "Sanders, Bernard",
+        "Bronx (NYC)",
+        "Budgets and Budgeting",
+        "New York State"
+      ]
+    },
+    {
+      "title": "Mamdani and Curtis Sliwa Performed a Skit. N.Y. Republicans Are Livid.",
+      "url": "https://www.nytimes.com/2026/03/29/nyregion/mamdani-sliwa-skit-ny-republicans.html",
+      "summary": "Mayor Zohran Mamdani and his former Republican opponent recorded a skit on cat adoption for the Inner Circle, an annual press corps roast. Some politicians weren’t laughing.",
+      "author": "Dana Rubinstein and Sally Goldenberg",
+      "publishDate": "2026-03-29T22:36:00.000Z",
+      "category": "Elections, Mayors",
+      "tags": [
+        "Elections, Mayors",
+        "Catsimatidis, John A",
+        "Cuomo, Andrew M",
+        "Mamdani, Zohran",
+        "Paterson, David A",
+        "New York City",
+        "Inner Circle"
+      ]
+    },
+    {
+      "title": "For These Running Influencers, No Van or Bathtub Is Too Small for a 5K",
+      "url": "https://www.nytimes.com/2026/03/29/well/move/run-5k-van-tub-tiktok.html",
+      "summary": "For these influencers, there’s no space too small for a jog.",
+      "author": "Chris Cohen",
+      "publishDate": "2026-03-29T04:01:07.000Z",
+      "category": "Social Media",
+      "tags": [
+        "Social Media",
+        "Running",
+        "Strava Inc",
+        "Jacob Cohen"
+      ]
+    },
+    {
+      "title": "Australian Sky Turns an Apocalyptic Blood Red",
+      "url": "https://www.nytimes.com/2026/03/29/world/australia/australia-red-sky-tropical-cyclone.html",
+      "summary": "Winds from Tropical Cyclone Narelle stirred up rust-colored dust from iron-rich soil, tinging the sky over Western Australia with a reddish Mars-like hue.",
+      "author": "Johnny Diaz",
+      "publishDate": "2026-03-29T19:49:47.000Z",
+      "category": "Cyclones",
+      "tags": [
+        "Cyclones",
+        "Dust and Sand Storms",
+        "red skies",
+        "Australia",
+        "Shark Bay (Australia)"
+      ]
+    },
+    {
+      "title": "Politico Names Jonathan Greenberger as New Editor",
+      "url": "https://www.nytimes.com/2026/03/29/business/media/politico-editor-jonathan-greenberger.html",
+      "summary": "Jonathan Greenberger, an executive at the publication, will take over from John Harris, a co-founder of Politico.",
+      "author": "Katie Robertson",
+      "publishDate": "2026-03-29T21:32:02.000Z",
+      "category": "Appointments and Executive Changes",
+      "tags": [
+        "Appointments and Executive Changes",
+        "News and News Media",
+        "Axel Springer Verlag AG",
+        "Politico, The"
+      ]
+    },
+    {
+      "title": "Nicholas Haysom, Apartheid Foe Who Became a U.N. Peacemaker, Dies at 73",
+      "url": "https://www.nytimes.com/2026/03/29/obituaries/nicholas-haysom-dead.html",
+      "summary": "As an anti-apartheid lawyer, he was jailed several times. Later, he was a top adviser to Nelson Mandela and held key posts at the United Nations.",
+      "author": "Adam Nossiter",
+      "publishDate": "2026-03-29T22:03:53.000Z",
+      "category": "Apartheid (Policy)",
+      "tags": [
+        "Apartheid (Policy)",
+        "Politics and Government",
+        "Deaths (Obituaries)",
+        "African National Congress",
+        "Mandela, Nelson",
+        "South Africa",
+        "Haysom, Nicholas",
+        "International Relations"
       ]
     }
   ]
