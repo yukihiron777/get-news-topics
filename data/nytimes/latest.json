@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-29T16:58:56+09:00",
+  "timestamp": "2026-03-29T21:40:30+09:00",
   "articles": [
     {
       "title": "Yemen’s Houthis Fire at Israel and Vow Further Attacks",
@@ -917,6 +917,159 @@
         "Kushner, Jared",
         "Leavitt, Karoline",
         "Modi, Narendra"
+      ]
+    },
+    {
+      "title": "5 Takeaways From the ‘No Kings’ Rallies as the Midterms Heat Up",
+      "url": "https://www.nytimes.com/2026/03/29/us/politics/no-kings-rallies-takeaways.html",
+      "summary": "The war in Iran was a galvanizing force, but plenty of protesters focused on President Trump’s immigration crackdown. Senate candidates in several key races joined the crowds.",
+      "author": "Tim Balk",
+      "publishDate": "2026-03-29T09:01:31.000Z",
+      "category": "Demonstrations, Protests and Riots",
+      "tags": [
+        "Demonstrations, Protests and Riots",
+        "Trump, Donald J",
+        "Democratic Party",
+        "Midterm Elections (2026)",
+        "United States Politics and Government",
+        "US and Israeli Attack on Iran (2026)",
+        "Immigration and Emigration",
+        "Immigration and Customs Enforcement (US)"
+      ]
+    },
+    {
+      "title": "Deaths in ICE Custody Are Growing. ‘They Let Him Rot in There.’",
+      "url": "https://www.nytimes.com/2026/03/29/us/ice-detention-deaths-immigrants.html",
+      "summary": "As immigrant detainee deaths have increased, conditions in detention facilities nationwide are coming under more scrutiny.",
+      "author": "Jazmine Ulloa, Allison McCann and Emiliano Rodríguez Mega",
+      "publishDate": "2026-03-29T09:00:37.000Z",
+      "category": "Illegal Immigration",
+      "tags": [
+        "Illegal Immigration",
+        "Immigration Detention",
+        "Deportation",
+        "Haitian-Americans",
+        "Deaths (Fatalities)",
+        "Immigration and Emigration"
+      ]
+    },
+    {
+      "title": "The Air Canada Crash: Before and After the Frantic Call to ‘Stop, Stop, Stop’",
+      "url": "https://www.nytimes.com/2026/03/29/nyregion/laguardia-air-canada-crash-reconstruction.html",
+      "summary": "How a cascade of seemingly minor events led to the worst runway disaster at LaGuardia Airport in decades.",
+      "author": "John Leland, Pranav Baskar, Olivia Bensimon, Ashley Southall, Corey Kilgannon and Jan Ransom",
+      "publishDate": "2026-03-29T07:00:16.000Z",
+      "category": "Airlines and Airplanes",
+      "tags": [
+        "Airlines and Airplanes",
+        "Air Canada",
+        "Bombardier Inc",
+        "Homendy, Jennifer",
+        "Canada",
+        "Long Island (NY)",
+        "New York City",
+        "Federal Aviation Administration",
+        "Montreal (Quebec)",
+        "Ottawa (Ontario)"
+      ]
+    },
+    {
+      "title": "How Many Air Traffic Controllers Are Needed Overnight?",
+      "url": "https://www.nytimes.com/2026/03/29/us/air-traffic-controllers-staffing.html",
+      "summary": "The accident at LaGuardia has raised questions about whether the minimum standard of two air traffic controllers on overnight shifts is sufficient.",
+      "author": "Karoun Demirjian",
+      "publishDate": "2026-03-29T09:01:25.000Z",
+      "category": "Airlines and Airplanes",
+      "tags": [
+        "Airlines and Airplanes",
+        "Air Traffic Control",
+        "Regulation and Deregulation of Industry",
+        "Aviation Accidents, Safety and Disasters",
+        "Airports",
+        "Federal Aviation Administration",
+        "National Transportation Safety Board",
+        "Duffy, Sean P",
+        "Homendy, Jennifer",
+        "Transportation Department (US)"
+      ]
+    },
+    {
+      "title": "Inside La Paz, the California Mountain Compound Led by Cesar Chavez",
+      "url": "https://www.nytimes.com/2026/03/29/us/cesar-chavez-la-paz.html",
+      "summary": "In his remote headquarters, the United Farm Workers leader began to see himself as not just a union leader, but a visionary healer.",
+      "author": "Shawn Hubler, Sarah Hurtes and Manny Fernandez",
+      "publishDate": "2026-03-29T09:00:52.000Z",
+      "category": "Organized Labor",
+      "tags": [
+        "Organized Labor",
+        "Agriculture and Farming",
+        "Sex Crimes",
+        "Migrant Labor (Agriculture)",
+        "Civil Rights and Liberties",
+        "Monuments and Memorials (Structures)",
+        "United Farm Workers of America",
+        "Chavez, Cesar",
+        "Huerta, Dolores",
+        "California"
+      ]
+    },
+    {
+      "title": "Confronting the Chaos",
+      "url": "https://www.nytimes.com/2026/03/29/briefing/confronting-the-chaos.html",
+      "summary": "We offer some suggestions to help you get started on spring cleaning.",
+      "author": "Tom Wright-Piersanti",
+      "publishDate": "2026-03-29T11:44:35.000Z",
+      "category": "internal-storyline-no",
+      "tags": [
+        "internal-storyline-no",
+        "Hygiene and Cleanliness",
+        "Cleansers, Detergents and Soaps"
+      ]
+    },
+    {
+      "title": "Our Enduring Fascination With the Kennedys",
+      "url": "https://www.nytimes.com/2026/03/29/podcasts/the-daily/our-enduring-fascination-with-the-kennedys.html",
+      "summary": "Decades later, their family drama still captivates — and divides",
+      "author": "Rachel Abrams, Alexandra Jacobs, Alex Barron, Luke Vander Ploeg, Tina Antolini, Wendy Dorr, Rowan Niemisto, Dan Powell, Diane Wong and Elisheba Ittoop",
+      "publishDate": "2026-03-29T10:00:18.000Z",
+      "category": "Podcasts",
+      "tags": [
+        "Kennedy, John F Jr",
+        "Kennedy, Carolyn Bessette",
+        "Podcasts",
+        "Love Story: John F. Kennedy Jr. & Carolyn Bessette (TV Program)"
+      ]
+    },
+    {
+      "title": "At CPAC, Texas Shows Love for Ken Paxton and Boos for an Absent John Cornyn",
+      "url": "https://www.nytimes.com/2026/03/29/us/cpac-texas-ken-paxton-john-cornyn.html",
+      "summary": "A runoff election in two months sets up a fight between an incumbent who some say is not conservative enough and a challenger trying to shed scandals.",
+      "author": "Lauren McGaughy",
+      "publishDate": "2026-03-29T09:00:42.000Z",
+      "category": "Midterm Elections (2026)",
+      "tags": [
+        "Midterm Elections (2026)",
+        "Politics and Government",
+        "Republican Party",
+        "Cornyn, John",
+        "Paxton, Ken",
+        "Texas"
+      ]
+    },
+    {
+      "title": "Henry C. Lee Dies at 87; Forensic Scientist Testified in Defense of O.J. Simpson",
+      "url": "https://www.nytimes.com/2026/03/28/science/henry-lee-dead.html",
+      "summary": "The Times called him “the world’s most highly regarded forensic criminologist,” but later in his career he faced accusations that he had hidden and fabricated evidence.",
+      "author": "Jeré Longman",
+      "publishDate": "2026-03-28T21:45:10.000Z",
+      "category": "Deaths (Obituaries)",
+      "tags": [
+        "Lee, Henry C",
+        "Deaths (Obituaries)",
+        "Crime and Criminals",
+        "Murders, Attempted Murders and Homicides",
+        "Forensic Science",
+        "Connecticut"
       ]
     }
   ]
