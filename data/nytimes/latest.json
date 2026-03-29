@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-29T13:45:46+09:00",
+  "timestamp": "2026-03-29T16:58:56+09:00",
   "articles": [
     {
       "title": "Yemen’s Houthis Fire at Israel and Vow Further Attacks",
@@ -858,6 +858,65 @@
         "United States",
         "Trump, Donald J",
         "Iran"
+      ]
+    },
+    {
+      "title": "I Saw Something New in San Francisco",
+      "url": "https://www.nytimes.com/2026/03/29/opinion/ai-claude-chatgpt-gemini-mcluhan.html",
+      "summary": "Marshall McLuhan was right about Claude, too.",
+      "author": "Ezra Klein",
+      "publishDate": "2026-03-29T06:35:14.000Z",
+      "category": "Artificial Intelligence",
+      "tags": [
+        "Artificial Intelligence",
+        "Innovation",
+        "Books and Literature",
+        "Love (Emotion)",
+        "Google Inc",
+        "OpenClaw (MyClaw) (Artificial Intelligence Co)",
+        "McLuhan, Marshall",
+        "Pullman, Philip",
+        "San Francisco (Calif)",
+        "United States"
+      ]
+    },
+    {
+      "title": "Technology Weakens Our Minds. It’s Time to Resist.",
+      "url": "https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html",
+      "summary": "Just as we changed our thinking around physical fitness, we need to change our attitude toward cognitive fitness.",
+      "author": "Cal Newport",
+      "publishDate": "2026-03-27T20:30:54.000Z",
+      "category": "Brain",
+      "tags": [
+        "Brain",
+        "Social Media",
+        "Computers and the Internet",
+        "Artificial Intelligence",
+        "Smartphones",
+        "Heart",
+        "Diet and Nutrition",
+        "Exercise",
+        "Eisenhower, Dwight David"
+      ]
+    },
+    {
+      "title": "Elon Musk Joins in Phone Call Between Donald Trump and Narendra Modi",
+      "url": "https://www.nytimes.com/2026/03/27/us/politics/musk-joins-call-with-trump-modi.html",
+      "summary": "Mr. Musk’s participation was notable because it is rare for a private citizen to be on a call between heads of state. It also suggests that Mr. Musk is back on better terms with the president.",
+      "author": "Edward Wong, Theodore Schleifer, Tyler Pager and Ryan Mac",
+      "publishDate": "2026-03-27T19:11:58.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "US and Israeli Attack on Iran (2026)",
+        "Politics and Government",
+        "Starlink Satellite Constellation (SpaceX)",
+        "State Department",
+        "Tesla Motors Inc",
+        "Government Efficiency Department (US)",
+        "Kushner, Jared",
+        "Leavitt, Karoline",
+        "Modi, Narendra"
       ]
     }
   ]
