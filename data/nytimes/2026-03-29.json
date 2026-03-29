@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-29T08:28:49+09:00",
+  "timestamp": "2026-03-29T13:45:46+09:00",
   "articles": [
     {
       "title": "Yemen’s Houthis Fire at Israel and Vow Further Attacks",
@@ -746,6 +746,118 @@
         "Voice and Speech",
         "Evacuations and Evacuees",
         "Emergency Medical Treatment"
+      ]
+    },
+    {
+      "title": "A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain.",
+      "url": "https://www.nytimes.com/2026/03/29/world/middleeast/iran-missiles-war.html",
+      "summary": "A wave of strikes across the Middle East in recent days shows that Iran has not lost the capacity to retaliate.",
+      "author": "Nicholas Kulish, Helene Cooper, Isabel Kershner and Erika Solomon",
+      "publishDate": "2026-03-29T04:01:07.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "War and Armed Conflicts",
+        "Drones (Pilotless Planes)",
+        "Iran-Israel War (2025- )",
+        "Missiles and Missile Defense Systems",
+        "Defense and Military Forces",
+        "Houthis",
+        "Trump, Donald J",
+        "Abu Dhabi (United Arab Emirates)",
+        "Dimona (Israel)"
+      ]
+    },
+    {
+      "title": "Record Number of T.S.A. Employees Called Out on Friday",
+      "url": "https://www.nytimes.com/2026/03/28/us/tsa-employees-airports-wait-times.html",
+      "summary": "President Trump signed a memo late Friday ordering the Department of Homeland Security to restore pay to airport screeners.",
+      "author": "Chris Hippensteel, Sonia A. Rao and JoAnna Daemmrich",
+      "publishDate": "2026-03-29T01:58:15.000Z",
+      "category": "Airport Security",
+      "tags": [
+        "Airport Security",
+        "United States Politics and Government",
+        "Transportation Security Administration",
+        "Baltimore (Md)",
+        "Houston (Tex)",
+        "Baltimore-Washington International Thurgood Marshall Airport (Md)",
+        "Bush, George, Intercontinental Airport"
+      ]
+    },
+    {
+      "title": "‘Project Hail Mary’ Is Fun. Maybe That’s All It Takes.",
+      "url": "https://www.nytimes.com/2026/03/28/opinion/project-hail-mary-hollywood-fun-movies.html",
+      "summary": "There’s been a vibe shift in Hollywood. Fun movies are back.",
+      "author": "Roy Price",
+      "publishDate": "2026-03-28T19:06:28.000Z",
+      "category": "Movies",
+      "tags": [
+        "Movies",
+        "Sweeney, Sydney (1997- )",
+        "Box Office Sales",
+        "Trump, Donald J",
+        "Project Hail Mary (Movie)",
+        "The Housemaid (Movie)",
+        "Weapons (Movie)",
+        "One Battle After Another (Movie)",
+        "Sinners (Movie)"
+      ]
+    },
+    {
+      "title": "The Slum in Gangnam, the Richest Part of Seoul",
+      "url": "https://www.nytimes.com/2026/03/29/world/asia/korea-seoul-gangnam-slum.html",
+      "summary": "The city wants to redevelop a shantytown in Gangnam district, where hundreds are defying eviction, fighting for a right to own a home in an area notorious for the exorbitant cost of housing.",
+      "author": "Choe Sang-Hun and Chang W. Lee",
+      "publishDate": "2026-03-29T04:00:54.000Z",
+      "category": "Evictions",
+      "tags": [
+        "Evictions",
+        "Poverty",
+        "Squatters",
+        "Gangnam District (Seoul, South Korea)",
+        "Seoul (South Korea)",
+        "South Korea",
+        "Urban Areas",
+        "Income Inequality",
+        "Real Estate and Housing (Residential)"
+      ]
+    },
+    {
+      "title": "David A. Ross Sought Epstein’s Help to Build Art Museums. Now He’s Facing the Fallout.",
+      "url": "https://www.nytimes.com/2026/03/24/us/david-a-ross-jeffrey-epstein-donations.html",
+      "summary": "He mastered the world of the “Epstein Class” to build great museums. Now he’s confronting the cost.",
+      "author": "Eli Saslow and Erin Schaff",
+      "publishDate": "2026-03-24T15:32:41.000Z",
+      "category": "High Net Worth Individuals",
+      "tags": [
+        "Ross, David A",
+        "Epstein, Jeffrey E (1953- )",
+        "Whitney Museum of American Art",
+        "San Francisco Museum of Modern Art",
+        "High Net Worth Individuals",
+        "Sex Crimes",
+        "Child Abuse and Neglect",
+        "Prostitution",
+        "Human Trafficking",
+        "Art"
+      ]
+    },
+    {
+      "title": "It’s Not Trump. It’s America.",
+      "url": "https://www.nytimes.com/2026/03/26/opinion/trump-america-iran-war.html",
+      "summary": "The country’s faith in its ability to shape the world to its liking is a much older malady.",
+      "author": "Lydia Polgreen",
+      "publishDate": "2026-03-27T23:28:21.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "United States International Relations",
+        "War and Armed Conflicts",
+        "US and Israeli Attack on Iran (2026)",
+        "United States",
+        "Trump, Donald J",
+        "Iran"
       ]
     }
   ]
