@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-31T05:01:52+09:00",
+  "timestamp": "2026-03-31T08:34:37+09:00",
   "articles": [
     {
       "title": "New U.S. Missile Hit Iranian Sports Hall and School, Analysis Shows",
@@ -780,6 +780,208 @@
         "National Institutes of Health",
         "Assn of American Medical Colleges",
         "Dhillon, Harmeet"
+      ]
+    },
+    {
+      "title": "Iran’s Fractured Leadership Is Struggling to Coordinate, Officials Say",
+      "url": "https://www.nytimes.com/2026/03/30/us/politics/iran-leaders-trump-war.html",
+      "summary": "As leaders are killed and replaced, Iranian negotiators may not know what their government is willing to concede in any negotiations.",
+      "author": "Julian E. Barnes, Adam Goldman and Ronen Bergman",
+      "publishDate": "2026-03-30T21:40:54.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States Politics and Government",
+        "United States International Relations",
+        "Khamenei, Mojtaba (1969- )",
+        "Trump, Donald J",
+        "Iran",
+        "Israel",
+        "Middle East",
+        "internal-open-access-from-nl"
+      ]
+    },
+    {
+      "title": "A New U.S. Missile Hit a Sports Hall in Iran. Here’s What We Know About It.",
+      "url": "https://www.nytimes.com/2026/03/30/us/politics/us-missile-strike-iran-sports-hall-school.html",
+      "summary": "Barely out of prototype testing, the Precision Strike Missile is shrouded in secrecy — including which Persian Gulf countries the Army is launching them from.",
+      "author": "John Ismay",
+      "publishDate": "2026-03-30T22:45:50.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States Defense and Military Forces",
+        "Missiles and Missile Defense Systems",
+        "Civilian Casualties",
+        "Defense Contracts",
+        "Defense Department",
+        "Lockheed Martin Corporation",
+        "National Guard",
+        "United States Central Command",
+        "Middle East"
+      ]
+    },
+    {
+      "title": "Mexico Pressures U.S. Over Deaths of Its Citizens in ICE Custody",
+      "url": "https://www.nytimes.com/2026/03/30/us/mexico-ice-detention-deaths.html",
+      "summary": "Claudia Sheinbaum, president of Mexico, said her country would take legal steps to demand better conditions at immigration detention facilities, where she said 14 Mexican citizens have died since President Trump took office.",
+      "author": "Tim Arango, Jazmine Ulloa and Allison McCann",
+      "publishDate": "2026-03-30T23:04:32.000Z",
+      "category": "Illegal Immigration",
+      "tags": [
+        "Illegal Immigration",
+        "United States Politics and Government",
+        "Deaths (Fatalities)",
+        "Immigration and Emigration",
+        "Diplomatic Service, Embassies and Consulates",
+        "Sheinbaum, Claudia",
+        "Trump, Donald J",
+        "Los Angeles (Calif)"
+      ]
+    },
+    {
+      "title": "Senate Republicans Make No Move to End DHS Shutdown in Brief Session",
+      "url": "https://www.nytimes.com/2026/03/30/us/senate-republicans-dhs-shutdown.html",
+      "summary": "With Congress in recess, much of the Homeland Security Department remains without money because of the impasse on Capitol Hill, even as airport security workers are to begin getting paid.",
+      "author": "Carl Hulse",
+      "publishDate": "2026-03-30T18:16:00.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Senate",
+        "Republican Party",
+        "Homeland Security Department",
+        "Hoeven, John",
+        "Coons, Christopher A"
+      ]
+    },
+    {
+      "title": "Mark Sanford, Years After Scandal, Aims for a Comeback to Congress",
+      "url": "https://www.nytimes.com/2026/03/30/us/politics/mark-sanford-south-carolina-congress.html",
+      "summary": "The former South Carolina governor and congressman filed papers to run for his old seat, six years after running for president and nearly two decades after a high-profile affair.",
+      "author": "Reid J. Epstein",
+      "publishDate": "2026-03-30T22:05:47.000Z",
+      "category": "Elections, House of Representatives",
+      "tags": [
+        "Sanford, Mark",
+        "Elections, House of Representatives",
+        "Midterm Elections (2026)",
+        "South Carolina",
+        "United States Politics and Government",
+        "Republican Party"
+      ]
+    },
+    {
+      "title": "Trump Reveals New Look for White House Ballroom After Times Article",
+      "url": "https://www.nytimes.com/2026/03/30/upshot/trump-white-house-ballroom-plans.html",
+      "summary": "Architects and preservation organizations have warned that little scrutiny has been given to the project’s design plans.",
+      "author": "Emily Badger",
+      "publishDate": "2026-03-30T22:34:17.000Z",
+      "category": "White House Building (Washington, DC)",
+      "tags": [
+        "National Capital Planning Commission",
+        "Trump, Donald J",
+        "Washington (DC)",
+        "White House Building (Washington, DC)"
+      ]
+    },
+    {
+      "title": "States Plow Ahead With A.I. Regulation, Defying Trump",
+      "url": "https://www.nytimes.com/2026/03/30/technology/trump-states-ai-gavin-newsom-california.html",
+      "summary": "States ranging from California to Utah are taking steps to place guardrails on the technology even after the president ordered them to stop.",
+      "author": "Cecilia Kang",
+      "publishDate": "2026-03-30T22:03:22.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Artificial Intelligence",
+        "Federal-State Relations (US)",
+        "Law and Legislation",
+        "State Legislatures",
+        "Executive Orders and Memorandums",
+        "Computers and the Internet",
+        "Newsom, Gavin",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "What to Know About California’s Executive Order on A.I.",
+      "url": "https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html",
+      "summary": "Gov. Gavin Newsom, a Democrat, issued an order requiring safety and privacy guardrails for artificial intelligence companies contracting with the state.",
+      "author": "Cecilia Kang",
+      "publishDate": "2026-03-30T21:55:20.000Z",
+      "category": "Artificial Intelligence",
+      "tags": [
+        "Artificial Intelligence",
+        "Executive Orders and Memorandums",
+        "United States Politics and Government",
+        "Government Contracts and Procurement",
+        "Regulation and Deregulation of Industry",
+        "Governors (US)",
+        "Newsom, Gavin",
+        "Computers and the Internet"
+      ]
+    },
+    {
+      "title": "Is Trump Threatening to Commit a War Crime?",
+      "url": "https://www.nytimes.com/2026/03/30/opinion/international-world/is-trump-threatening-to-commit-a-war-crime.html",
+      "summary": "The bombing campaign Mr. Trump is threatening in Iran could affect millions of Iranian civilians’ access to water, electricity and food.",
+      "author": "W.J. Hennigan",
+      "publishDate": "2026-03-30T21:56:06.000Z",
+      "category": "Geneva Conventions",
+      "tags": [
+        "Trump, Donald J",
+        "Iran",
+        "Geneva Conventions",
+        "War Crimes, Genocide and Crimes Against Humanity",
+        "Hegseth, Pete",
+        "Defense Department",
+        "United States Defense and Military Forces",
+        "Israel",
+        "Lebanon",
+        "Netanyahu, Benjamin"
+      ]
+    },
+    {
+      "title": "Trump Zigzags on Iran",
+      "url": "https://www.nytimes.com/2026/03/30/briefing/trump-iran-tsa-back-pay.html",
+      "summary": "Also, T.S.A. workers start getting back pay. Here’s the latest at the end of Monday.",
+      "author": "Matthew Cullen",
+      "publishDate": "2026-03-30T21:53:25.000Z"
+    },
+    {
+      "title": "Palm Sunday Attack in Nigeria Leaves at Least 12 Dead",
+      "url": "https://www.nytimes.com/2026/03/30/world/africa/palm-sunday-attack-nigeria-dead.html",
+      "summary": "No one has claimed responsibility for the killings in the mostly Christian city of Jos, and the police have yet to arrest the gunmen.",
+      "author": "Saikou Jammeh",
+      "publishDate": "2026-03-30T21:23:32.000Z",
+      "category": "Easter and Holy Week",
+      "tags": [
+        "Easter and Holy Week",
+        "War Crimes, Genocide and Crimes Against Humanity",
+        "Muslims and Islam",
+        "Assaults",
+        "Jos (Nigeria)",
+        "Nigeria"
+      ]
+    },
+    {
+      "title": "Michigan Synagogue Attack Was ‘Inspired by Hezbollah,’ Officials Say",
+      "url": "https://www.nytimes.com/2026/03/30/us/michigan-synagogue-attack-hezbollah.html",
+      "summary": "The man who rammed his vehicle into the synagogue was purposely targeting the Jewish community, officials said on Monday, detailing his days of planning.",
+      "author": "Jacey Fortin",
+      "publishDate": "2026-03-30T22:37:09.000Z",
+      "category": "Terrorism",
+      "tags": [
+        "Terrorism",
+        "Jews and Judaism",
+        "US and Israeli Attack on Iran (2026)",
+        "Anti-Semitism",
+        "Synagogues",
+        "Temple Israel (West Bloomfield Township, Mich)",
+        "Ghazali, Ayman Mohamad",
+        "Bloomfield Township (Mich)",
+        "Michigan"
       ]
     }
   ]
