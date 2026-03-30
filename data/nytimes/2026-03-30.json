@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-30T17:28:26+09:00",
+  "timestamp": "2026-03-30T22:02:13+09:00",
   "articles": [
     {
       "title": "The U.S. Now Has Over 50,000 Troops in the Middle East",
@@ -920,6 +920,333 @@
         "Kerosene",
         "Russia",
         "Embargoes and Sanctions"
+      ]
+    },
+    {
+      "title": "Trump Claims ‘Regime Change’ in Iran Is Already Complete",
+      "url": "https://www.nytimes.com/2026/03/30/world/middleeast/trump-regime-change-iran.html",
+      "summary": "President Trump suggested that Iran’s current leaders were “much more reasonable” as he sought to show progress in his war aims. Despite a month of U.S.-Israeli attacks, Iran’s government, led by clerics and the Revolutionary Guards, appears firmly in control.",
+      "author": "Amelia Nierenberg",
+      "publishDate": "2026-03-30T11:50:08.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "War and Armed Conflicts",
+        "Coups D'Etat and Attempted Coups D'Etat",
+        "Assassinations and Attempted Assassinations",
+        "Iran",
+        "Trump, Donald J",
+        "Khamenei, Mojtaba (1969- )",
+        "Islamic Revolutionary Guards Corps"
+      ]
+    },
+    {
+      "title": "War Pushes Gas Prices Near $4 a Gallon, and Anti-Trump Protesters Rally Nationwide",
+      "url": "https://www.nytimes.com/2026/03/30/podcasts/the-headlines/iran-war-gas-prices-anti-trump-protest.html",
+      "summary": "Plus, a surge of Catholic converts in the United States.",
+      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Ian Stewart and Jack Nicas",
+      "publishDate": "2026-03-30T10:00:16.000Z",
+      "category": "Demonstrations, Protests and Riots",
+      "tags": [
+        "Demonstrations, Protests and Riots",
+        "Prices (Fares, Fees and Rates)",
+        "Oil (Petroleum) and Gasoline",
+        "US and Israeli Attack on Iran (2026)",
+        "internal-open-access-audio"
+      ]
+    },
+    {
+      "title": "Private-Credit Wobbles Could Prove Perilous for Trump",
+      "url": "https://www.nytimes.com/2026/03/30/business/private-credit-risks-trump-administration.html",
+      "summary": "The Trump administration is poised to broaden access to risky investments that are showing signs of strain.",
+      "author": "Alan Rappeport and Colby Smith",
+      "publishDate": "2026-03-30T09:03:42.000Z",
+      "category": "Regulation and Deregulation of Industry",
+      "tags": [
+        "Regulation and Deregulation of Industry",
+        "Banking and Financial Institutions",
+        "Credit and Debt",
+        "Federal Reserve System",
+        "Financial Stability Oversight Council",
+        "Treasury Department",
+        "Senate Committee on Banking",
+        "Trump, Donald J",
+        "Warren, Elizabeth"
+      ]
+    },
+    {
+      "title": "Markwayne Mullin Takes Over DHS With Less Flash but Same Mission",
+      "url": "https://www.nytimes.com/2026/03/30/us/politics/markwayne-mullin-new-era-homeland-security.html",
+      "summary": "Markwayne Mullin, the incoming D.H.S. secretary, faces a difficult balance: a public reset of the agency while delivering on President Trump’s deportation agenda.",
+      "author": "Hamed Aleaziz",
+      "publishDate": "2026-03-30T12:47:08.000Z",
+      "category": "Illegal Immigration",
+      "tags": [
+        "Illegal Immigration",
+        "United States Politics and Government",
+        "Immigration and Emigration",
+        "Midterm Elections (2026)",
+        "Politics and Government",
+        "Homeland Security Department",
+        "Lewandowski, Corey (1975- )",
+        "Mullin, Markwayne",
+        "Noem, Kristi",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Texas Border Wall Plan in Big Bend Draws Opposition From Republicans and Democrats",
+      "url": "https://www.nytimes.com/2026/03/30/us/a-border-wall-plan-unites-republicans-and-democrats-in-texas-this-is-insane.html",
+      "summary": "Plans for a wall in Big Bend National Park prompted public protests and behind-the-scenes lobbying to sway the Trump administration to stop.",
+      "author": "J. David Goodman",
+      "publishDate": "2026-03-30T09:02:23.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Border Barriers",
+        "Illegal Immigration",
+        "National Parks, Monuments and Seashores",
+        "Border Patrol (US)",
+        "Abbott, Gregory W (1957- )",
+        "Big Bend National Park (Tex)",
+        "Mexico",
+        "Rio Grande River",
+        "Texas"
+      ]
+    },
+    {
+      "title": "Trump’s Birthright Citizenship Order at Supreme Court Splits Conservative Scholars",
+      "url": "https://www.nytimes.com/2026/03/30/us/politics/supreme-court-trump-birthright-conservatives.html",
+      "summary": "Before President Trump’s order to limit birthright citizenship, there was widespread agreement that the 14th Amendment guaranteed citizenship for U.S.-born babies.",
+      "author": "Ann E. Marimow",
+      "publishDate": "2026-03-30T09:03:31.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Citizenship and Naturalization",
+        "Deportation",
+        "Illegal Immigration",
+        "Fourteenth Amendment (US Constitution)",
+        "Executive Orders and Memorandums",
+        "Constitution (US)",
+        "Immigration and Emigration",
+        "Suits and Litigation (Civil)",
+        "Federal Courts (US)"
+      ]
+    },
+    {
+      "title": "How Russia Weaponized the Cold Ukrainian Winter",
+      "url": "https://www.nytimes.com/2026/03/30/magazine/ukraine-kyiv-winter-cold-russia-war.html",
+      "summary": "Inside one Kyiv neighborhood as it braved the harshest conditions since World War II.",
+      "author": "C.J. Chivers",
+      "publishDate": "2026-03-30T09:02:42.000Z",
+      "category": "Russian Invasion of Ukraine (2022)",
+      "tags": [
+        "Russian Invasion of Ukraine (2022)",
+        "Drones (Pilotless Planes)",
+        "Defense and Military Forces",
+        "Winter (Season)",
+        "Cold and Cold Spells",
+        "Heating",
+        "Infrastructure (Public Works)",
+        "Water",
+        "Putin, Vladimir V",
+        "Kyiv (Ukraine)"
+      ]
+    },
+    {
+      "title": "With Mario and Minecraft, Hollywood Courts Gamers",
+      "url": "https://www.nytimes.com/2026/03/30/movies/mario-minecraft-video-games.html",
+      "summary": "Super Mario Bros. and Minecraft became movie blockbusters, and Call of Duty and Legend of Zelda adaptations are on the way. Fans of the video games are watching closely.",
+      "author": "Emmanuel Morgan",
+      "publishDate": "2026-03-30T09:00:52.000Z",
+      "category": "Movies",
+      "tags": [
+        "Movies",
+        "Computer and Video Games",
+        "Sony Corporation",
+        "Nintendo Co Ltd",
+        "Sega Corp",
+        "A Minecraft Movie (Movie)",
+        "Five Nights at Freddy's (Movie)",
+        "The Super Mario Bros Movie (Movie)",
+        "The Last of Us (TV Program)",
+        "Until Dawn (Movie)"
+      ]
+    },
+    {
+      "title": "How to Watch and See the Artemis II Moon Launch",
+      "url": "https://www.nytimes.com/2026/01/28/travel/florida-artemis-ii-moon-launch.html",
+      "summary": "The first crewed mission around the moon in more than 50 years is coming up. Here’s how to see it at sites in and around the Kennedy Space Center in Florida.",
+      "author": "Ceylan Yeğinsu",
+      "publishDate": "2026-03-27T14:50:55.000Z",
+      "category": "Space and Astronomy",
+      "tags": [
+        "Space and Astronomy",
+        "Moon",
+        "Artemis Program",
+        "Travel and Vacations",
+        "Cape Canaveral (Fla)",
+        "Florida",
+        "Titusville (Fla)",
+        "Kennedy Space Center"
+      ]
+    },
+    {
+      "title": "The Dogma of Meat",
+      "url": "https://www.nytimes.com/2026/03/30/well/eat/the-dogma-of-meat.html",
+      "summary": "From Robert F. Kennedy Jr.’s food pyramid to online influencers, beef has become more than just a source of protein.",
+      "author": "Lisa Miller",
+      "publishDate": "2026-03-30T09:00:53.000Z",
+      "category": "Beef",
+      "tags": [
+        "Beef",
+        "United States Politics and Government",
+        "Diet and Nutrition",
+        "Cooking and Cookbooks",
+        "Weight",
+        "Agriculture and Farming",
+        "Social Media",
+        "Food",
+        "Diabetes",
+        "Meat"
+      ]
+    },
+    {
+      "title": "How a Civics School With a Conservative Bent Divided Its Supporters",
+      "url": "https://www.nytimes.com/2026/03/30/us/politics/unc-civics-school-conservative-debate.html",
+      "summary": "A University of North Carolina program was intended to promote civil discourse and ideological diversity. Some of its early conservative supporters say it is doing the opposite.",
+      "author": "Stephanie Saul and Cornell Watson",
+      "publishDate": "2026-03-30T12:48:15.000Z",
+      "category": "Colleges and Universities",
+      "tags": [
+        "Colleges and Universities",
+        "Conservatism (US Politics)",
+        "State Legislatures",
+        "National Endowment for the Humanities",
+        "Education Department (US)",
+        "University of North Carolina",
+        "Chapel Hill (NC)"
+      ]
+    },
+    {
+      "title": "In a New Memoir, Arsenio Hall Recalls His High-Flying Years as a Talk-Show Host",
+      "url": "https://www.nytimes.com/2026/03/30/books/review/arsenio-hall-memoir.html",
+      "summary": "Eddie Murphy, Snoop Dogg and Bill Clinton (naturally) show up in his gossipy new memoir. He isn’t very sentimental.",
+      "author": "Jason Zinoman",
+      "publishDate": "2026-03-30T09:01:27.000Z",
+      "category": "Television",
+      "tags": [
+        "Television",
+        "Comedy and Humor",
+        "Content Type: Personal Profile",
+        "Hall, Arsenio",
+        "Arsenio: A Memoir (Book)"
+      ]
+    },
+    {
+      "title": "Rasputin. Roy Cohn. Jeffrey Epstein. Every Elite Has a ‘Dark Connector.’",
+      "url": "https://www.nytimes.com/2026/03/30/opinion/epstein-elite-men.html",
+      "summary": "Epstein flourished by helping elite men reconcile their private desires with their public appearances.",
+      "author": "Jacob Weisberg",
+      "publishDate": "2026-03-30T09:00:48.000Z",
+      "category": "Sex Crimes",
+      "tags": [
+        "Sex Crimes",
+        "Gossip",
+        "Ethics (Personal)",
+        "Massachusetts Institute of Technology",
+        "Epstein, Jeffrey E (1953- )",
+        "Black, Leon D"
+      ]
+    },
+    {
+      "title": "MAGA Was Supposed to Be Antiwar. Nope.",
+      "url": "https://www.nytimes.com/2026/03/30/opinion/iran-war-trump-maga.html",
+      "summary": "It might be time to ditch some common assumptions about Republicans.",
+      "author": "Kristen Soltis Anderson",
+      "publishDate": "2026-03-30T09:03:24.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Presidential Election of 2024",
+        "Republican Party",
+        "Carlson, Tucker",
+        "Kelly, Megyn",
+        "Persian Gulf",
+        "Taiwan",
+        "Venezuela"
+      ]
+    },
+    {
+      "title": "Your Questions About the News",
+      "url": "https://www.nytimes.com/2026/03/30/briefing/your-questions-about-the-news.html",
+      "summary": "Times reporters answer reader questions about the war, the economy and more.",
+      "author": "Sam Sifton",
+      "publishDate": "2026-03-30T10:48:35.000Z",
+      "category": "internal-storyline-no",
+      "tags": [
+        "internal-storyline-no",
+        "US and Israeli Attack on Iran (2026)",
+        "United States Economy",
+        "Medicine and Health",
+        "Shopping and Retail"
+      ]
+    },
+    {
+      "title": "Xi Invites Taiwan’s Opposition Leader to Talk ‘Peace’ Ahead of Trump Summit",
+      "url": "https://www.nytimes.com/2026/03/30/world/asia/china-xi-taiwan-cheng.html",
+      "summary": "The planned visit by Cheng Li-wun appears designed to show Beijing’s influence and convey a benign message ahead of the summit with President Trump.",
+      "author": "Chris Buckley and Amy Chang Chien",
+      "publishDate": "2026-03-30T10:32:29.000Z",
+      "category": "International Relations",
+      "tags": [
+        "International Relations",
+        "United States International Relations",
+        "Chinese Nationalist Party (Taiwan)",
+        "Communist Party of China",
+        "Defense Department",
+        "Democratic Progressive Party (Taiwan)",
+        "Senate",
+        "Cheng Li-wun (1969- )",
+        "Xi Jinping",
+        "China"
+      ]
+    },
+    {
+      "title": "Israel to Vote on Death Penalty Targeting Palestinians Guilty of Lethal Attacks",
+      "url": "https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html",
+      "summary": "The bill is broadly popular and expected to pass. Critics say it would strip away many of the safeguards intended to preserve due process, including the possibility of a pardon.",
+      "author": "Aaron Boxerman and Johnatan Reiss",
+      "publishDate": "2026-03-30T10:26:03.000Z",
+      "category": "Law and Legislation",
+      "tags": [
+        "Law and Legislation",
+        "Palestinians",
+        "Capital Punishment",
+        "Terrorism",
+        "Gaza Strip",
+        "Israel"
+      ]
+    },
+    {
+      "title": "The Founder of a Sexual Liberation Group Is in Jail, but Still Has Fans",
+      "url": "https://www.nytimes.com/2026/03/30/nyregion/nicole-daedone-one-taste-sentencing.html",
+      "summary": "Nicole Daedone, the former leader of OneTaste, is set to be sentenced after being convicted of forced labor conspiracy last year. But she is still finding ways to spread her message from behind bars.",
+      "author": "Santul Nerkar",
+      "publishDate": "2026-03-30T12:15:21.000Z",
+      "category": "Forced Labor",
+      "tags": [
+        "Forced Labor",
+        "Decisions and Verdicts",
+        "Women and Girls",
+        "Prisons and Prisoners",
+        "Amnesties, Commutations and Pardons",
+        "Sex",
+        "Vagina",
+        "OneTaste",
+        "Cherwitz, Rachel",
+        "Dershowitz, Alan M"
       ]
     }
   ]
