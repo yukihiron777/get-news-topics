@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-30T13:53:28+09:00",
+  "timestamp": "2026-03-30T17:28:26+09:00",
   "articles": [
     {
       "title": "The U.S. Now Has Over 50,000 Troops in the Middle East",
@@ -900,6 +900,26 @@
         "Illegal Immigration",
         "Immigration and Customs Enforcement (US)",
         "Homeland Security Department"
+      ]
+    },
+    {
+      "title": "Across Asia, Trump’s War on Iran Is Dangerous for Everyone",
+      "url": "https://www.nytimes.com/2026/03/30/opinion/trump-iran-war-india-oil.html",
+      "summary": "Trump’s war on Iran is dangerous for everyone.",
+      "author": "Meena Kandasamy",
+      "publishDate": "2026-03-30T06:20:51.000Z",
+      "category": "Natural Gas",
+      "tags": [
+        "Trump, Donald J",
+        "Iran",
+        "India",
+        "Modi, Narendra",
+        "Natural Gas",
+        "Energy and Power",
+        "Strait of Hormuz",
+        "Kerosene",
+        "Russia",
+        "Embargoes and Sanctions"
       ]
     }
   ]
