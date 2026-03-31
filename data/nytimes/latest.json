@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-31T17:14:07+09:00",
+  "timestamp": "2026-03-31T22:03:07+09:00",
   "articles": [
     {
       "title": "New U.S. Missile Hit Iranian Sports Hall and School, Analysis Shows",
@@ -1291,6 +1291,364 @@
         "Maher, Bill",
         "Real Time With Bill Maher (TV Program)",
         "Demonstrations, Protests and Riots"
+      ]
+    },
+    {
+      "title": "Drivers Count Their Pennies as Gas Hits $4 a Gallon Because of War in Iran",
+      "url": "https://www.nytimes.com/2026/03/31/us/gas-prices-iran-war.html",
+      "summary": "Since the Iran conflict began on Feb. 28, gas prices across the United States have increased about 35 percent. They are now above $4 a gallon, and drivers are wincing.",
+      "author": "Audra D. S. Burch, Andy Newman, Edgar Sandoval, Anna Griffin and Pooja Salhotra",
+      "publishDate": "2026-03-31T09:03:59.000Z",
+      "category": "Prices (Fares, Fees and Rates)",
+      "tags": [
+        "Prices (Fares, Fees and Rates)",
+        "Oil (Petroleum) and Gasoline",
+        "Budgets and Budgeting",
+        "Automobile Service and Charging Stations",
+        "Brooklyn (NYC)",
+        "Mission (Tex)",
+        "Orlando (Fla)",
+        "Portland (Ore)"
+      ]
+    },
+    {
+      "title": "Will $4 Gas Hurt Trump’s Approval Ratings? Here’s What History Shows.",
+      "url": "https://www.nytimes.com/2026/03/31/us/politics/trump-approval-ratings-gas-prices.html",
+      "summary": "Presidents since at least the Carter administration have seen their approval ratings tied to gas prices. But there are signs the correlation may be weakening.",
+      "author": "Ruth Igielnik and Katherine Chui",
+      "publishDate": "2026-03-31T12:49:11.000Z",
+      "category": "Midterm Elections (2026)",
+      "tags": [
+        "Midterm Elections (2026)",
+        "Trump, Donald J",
+        "Oil (Petroleum) and Gasoline",
+        "Iran",
+        "Bush, George W",
+        "Carter, Jimmy",
+        "Reagan, Ronald Wilson",
+        "Strait of Hormuz"
+      ]
+    },
+    {
+      "title": "Trump Faces a Decision on Whether to Start a Ground War in Iran",
+      "url": "https://www.nytimes.com/2026/03/31/us/politics/trump-faces-a-decision-on-whether-to-start-a-ground-war-in-iran.html",
+      "summary": "The president wants a negotiation, but the Iranians say they are refusing until a cease-fire is declared. And while Marines and the 82nd Airborne Division offer new leverage, the risks escalate quickly.",
+      "author": "David E. Sanger and Tyler Pager",
+      "publishDate": "2026-03-31T11:42:54.000Z",
+      "category": "internal-open-access-from-nl",
+      "tags": [
+        "internal-open-access-from-nl"
+      ]
+    },
+    {
+      "title": "Europe Has a ‘Guns vs. Butter’ Problem. War in Iran Makes It Worse.",
+      "url": "https://www.nytimes.com/2026/03/31/world/europe/europe-spending-problem-military-domestic.html",
+      "summary": "After decades of prioritizing domestic over military spending, the continent’s leaders are trying to pivot. That is straining national budgets and could anger voters.",
+      "author": "Jim Tankersley and Amanda Taub",
+      "publishDate": "2026-03-31T09:00:35.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Budgets and Budgeting",
+        "Prices (Fares, Fees and Rates)",
+        "Politics and Government",
+        "Defense and Military Forces",
+        "Oil (Petroleum) and Gasoline",
+        "Europe"
+      ]
+    },
+    {
+      "title": "Deaths in ICE Custody Are Growing, and Trump Defends Ballroom Plans",
+      "url": "https://www.nytimes.com/2026/03/31/podcasts/the-headlines/deaths-ice-custody-trump-ballroom.html",
+      "summary": "Plus, a three-minute, multimillion-dollar art heist.",
+      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Ian Stewart, Adam Goldman and Jazmine Ulloa",
+      "publishDate": "2026-03-31T10:00:12.000Z",
+      "category": "Illegal Immigration",
+      "tags": [
+        "Illegal Immigration",
+        "Immigration Detention",
+        "Immigration and Customs Enforcement (US)",
+        "Trump, Donald J",
+        "internal-open-access-audio"
+      ]
+    },
+    {
+      "title": "Putin’s Internet Blackout: A Chaotic Drive to Cut Off Russians From the World",
+      "url": "https://www.nytimes.com/2026/03/31/world/europe/russia-putin-telegram-internet.html",
+      "summary": "With new outages and blockages, President Vladimir V. Putin is taking his boldest steps yet to control Russians’ communications.",
+      "author": "Paul Sonne, Valerie Hopkins and Oleg Matsnev",
+      "publishDate": "2026-03-31T09:12:17.000Z",
+      "category": "Russian Invasion of Ukraine (2022)",
+      "tags": [
+        "Russian Invasion of Ukraine (2022)",
+        "Mobile Applications",
+        "Computers and the Internet",
+        "Computer Network Outages",
+        "Social Media",
+        "Freedom of Speech and Expression",
+        "Censorship",
+        "Communications and Media Blackouts",
+        "Wireless Communications",
+        "Instant Messaging"
+      ]
+    },
+    {
+      "title": "Inside Russia During an Internet Crackdown",
+      "url": "https://www.nytimes.com/video/world/100000010774146/inside-russia-during-an-internet-crackdown.html",
+      "summary": "Our international correspondent Valerie Hopkins walks us through how she connects to the internet in Russia as the Kremlin clamps down and Moscow experiences major internet blackouts.",
+      "author": "Valerie Hopkins, Rebecca Suner and Joey Sendaydiego",
+      "publishDate": "2026-03-31T09:00:59.000Z"
+    },
+    {
+      "title": "A Cat-and-Mouse Game of Russian Internet Restrictions and Evasion",
+      "url": "https://www.nytimes.com/2026/03/31/world/europe/russia-internet-restrictions.html",
+      "summary": "As the Kremlin spends heavily on censorship technology, Russians are scrambling to find new ways to circumvent the limits.",
+      "author": "Valerie Hopkins, Paul Sonne and Oleg Matsnev",
+      "publishDate": "2026-03-31T10:36:33.000Z",
+      "category": "Computers and the Internet",
+      "tags": [
+        "Computers and the Internet",
+        "Censorship",
+        "Mobile Applications",
+        "Wireless Communications",
+        "Roskomnadzor (Federal Service for Supervision of Communications, Information Technology and Mass Media) (Russia)",
+        "Telegram LLC",
+        "Russia"
+      ]
+    },
+    {
+      "title": "‘The Book of Mormon’ Is Sorry if You Have Been Offended for 15 Years",
+      "url": "https://www.nytimes.com/2026/03/31/theater/book-of-mormon-stone-parker.html",
+      "summary": "The taboo-busting, gasp-inducing Broadway musical comedy has been a hit with audiences and critics. But could it be produced today?",
+      "author": "Jesse Green",
+      "publishDate": "2026-03-31T12:26:24.000Z",
+      "category": "Theater",
+      "tags": [
+        "Theater",
+        "Theater (Broadway)",
+        "Mormons (Church of Jesus Christ of Latter-Day Saints)",
+        "Comedy and Humor",
+        "Television",
+        "Brooks, Mel",
+        "Fox, Andrew (Composer)",
+        "Stone, Matt",
+        "Lopez, Robert (1975- )",
+        "Parker, Trey"
+      ]
+    },
+    {
+      "title": "In a Moment of Division, the Astronauts on the Artemis II Mission Hope to Inspire",
+      "url": "https://www.nytimes.com/2026/03/31/science/nasa-artemis-ii-mission-astronauts.html",
+      "summary": "Can the four astronauts of the NASA mission Artemis II make a difference in a distracted and divided world?",
+      "author": "Timothy Bella and PS Spencer",
+      "publishDate": "2026-03-31T11:32:25.000Z",
+      "category": "Moon",
+      "tags": [
+        "Wiseman, G Reid",
+        "Glover, Victor J Jr",
+        "Koch, Christina H",
+        "Hansen, Jeremy (1976- )",
+        "National Aeronautics and Space Administration",
+        "Canadian Space Agency",
+        "Moon",
+        "Space and Astronomy",
+        "Artemis Program",
+        "Conspiracy Theories"
+      ]
+    },
+    {
+      "title": "For Trump, the Artemis II Moon Mission Offers a Shot to Cement His Legacy",
+      "url": "https://www.nytimes.com/2026/03/31/us/politics/trump-artemis-ii-moon-mission.html",
+      "summary": "No president since the Apollo era has pushed harder to return to the moon than President Trump. But he wants a space achievement that is about “more than getting rocks this time.”",
+      "author": "Peter Baker",
+      "publishDate": "2026-03-31T11:40:31.000Z",
+      "category": "Artemis Program",
+      "tags": [
+        "Trump, Donald J",
+        "Artemis Program",
+        "National Aeronautics and Space Administration",
+        "Moon",
+        "United States Politics and Government",
+        "Isaacman, Jared (1983- )",
+        "Space and Astronomy",
+        "Apollo Project",
+        "International Space Station",
+        "Mars (Planet)"
+      ]
+    },
+    {
+      "title": "First Canadian Astronaut Will Travel to the Moon Amid Fraying U.S.-Canada Relations",
+      "url": "https://www.nytimes.com/2026/03/31/world/canada/canada-astronaut-artemis-ii-mission-moon.html",
+      "summary": "Canada will send its first astronaut to the moon on a joint mission with the United States, but back on Earth, the relationship between the two countries is fraying.",
+      "author": "Vjosa Isai",
+      "publishDate": "2026-03-31T11:34:35.000Z",
+      "category": "Moon",
+      "tags": [
+        "Canadian Space Agency",
+        "Hansen, Jeremy (1976- )",
+        "Moon",
+        "Space and Astronomy",
+        "National Aeronautics and Space Administration",
+        "Artemis Program",
+        "United States International Relations",
+        "Rocket Science and Propulsion"
+      ]
+    },
+    {
+      "title": "Edward Russo Says Donald Trump Is an ‘Environmental Hero’",
+      "url": "https://www.nytimes.com/2026/03/31/climate/ed-russo-trump-environment.html",
+      "summary": "Edward Russo, the only member of a White House task force, thinks the president doesn’t get enough credit for conservation at his golf courses, among other things.",
+      "author": "Maxine Joselow",
+      "publishDate": "2026-03-31T09:02:09.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Wildfires",
+        "Water Pollution",
+        "Global Warming",
+        "Golf",
+        "Conservation of Resources",
+        "Environment",
+        "Southern California Wildfires (Jan 2025)",
+        "Sewers and Sewage",
+        "Kennedy, John F, Center for the Performing Arts"
+      ]
+    },
+    {
+      "title": "The Push to Ban Cars From All New York City Parks",
+      "url": "https://www.nytimes.com/2026/03/31/nyregion/car-free-parks-nyc.html",
+      "summary": "Central Park is car-free, and so is Prospect Park. What about the rest?",
+      "author": "Winnie Hu",
+      "publishDate": "2026-03-31T07:00:08.000Z",
+      "category": "Parks and Other Recreation Areas",
+      "tags": [
+        "Parks and Other Recreation Areas",
+        "Pedestrian Malls",
+        "Urban Areas",
+        "Roads and Traffic",
+        "Bicycles and Bicycling",
+        "Walking",
+        "Area Planning and Renewal",
+        "Central Park Conservancy",
+        "Dakota (Manhattan, NY, Apartments)",
+        "New Yorkers for Parks"
+      ]
+    },
+    {
+      "title": "Inflation Hit Iceland Hard. Even Its Beloved Hot Dogs.",
+      "url": "https://www.nytimes.com/2026/03/31/dining/iceland-inflation-hot-dogs.html",
+      "summary": "This reliable food has long been a cheap option in an expensive country. Steadily increasing prices have locals complaining, but they can’t stop ordering one with everything.",
+      "author": "Amelia Nierenberg",
+      "publishDate": "2026-03-31T11:16:41.000Z",
+      "category": "Hot Dogs and Frankfurters",
+      "tags": [
+        "Hot Dogs and Frankfurters",
+        "Prices (Fares, Fees and Rates)",
+        "Inflation (Economics)",
+        "Iceland"
+      ]
+    },
+    {
+      "title": "The People Trump Pardoned Are on a Crime Spree",
+      "url": "https://www.nytimes.com/2026/03/31/opinion/trump-jan-6-pardons-crimes-recidivism.html",
+      "summary": "The president and the Republican Party deserve to pay a political price for the pardons.",
+      "author": "The Editorial Board",
+      "publishDate": "2026-03-31T10:47:13.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Amnesties, Commutations and Pardons",
+        "Right-Wing Extremism and Alt-Right",
+        "Storming of the US Capitol (Jan, 2021)",
+        "United States"
+      ]
+    },
+    {
+      "title": "The Greatest Threat to Our Elections Is No Longer Foreign",
+      "url": "https://www.nytimes.com/2026/03/31/opinion/midterm-elections-trump-interference.html",
+      "summary": "This is not how American democracy is supposed to work.",
+      "author": "Mark R. Warner",
+      "publishDate": "2026-03-31T09:02:16.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Midterm Elections (2026)",
+        "Federal-State Relations (US)",
+        "Voter Fraud (Election Fraud)",
+        "Elections",
+        "Republican Party",
+        "Gabbard, Tulsi (1981- )",
+        "Trump, Donald J",
+        "Fulton County (Ga)"
+      ]
+    },
+    {
+      "title": "A Lifeline for Cuba",
+      "url": "https://www.nytimes.com/2026/03/31/briefing/a-lifeline-for-cuba.html",
+      "summary": "We look at the energy crisis on the Caribbean island.",
+      "author": "Sam Sifton",
+      "publishDate": "2026-03-31T10:58:24.000Z",
+      "category": "internal-storyline-no",
+      "tags": [
+        "internal-storyline-no",
+        "Cuba",
+        "Oil (Petroleum) and Gasoline",
+        "Havana (Cuba)"
+      ]
+    },
+    {
+      "title": "The Army Begins an Inquiry After Kid Rock Gets Apache Helicopter Flyby",
+      "url": "https://www.nytimes.com/2026/03/30/us/kid-rock-nashville-helicopter-video-army-inquiry.html",
+      "summary": "The pro-Trump musician saluted the pair of Apache attack choppers, which appeared to be the same ones that flew low over a “No Kings” rally in Nashville.",
+      "author": "Emily Cochrane and Eric Schmitt",
+      "publishDate": "2026-03-30T22:52:40.000Z",
+      "category": "United States Defense and Military Forces",
+      "tags": [
+        "United States Defense and Military Forces",
+        "Rap and Hip-Hop",
+        "Helicopters",
+        "Video Recordings, Downloads and Streaming",
+        "United States Army",
+        "Kid Rock",
+        "Fort Campbell (Ky)",
+        "Nashville (Tenn)"
+      ]
+    },
+    {
+      "title": "These Two Countries With Social Media Bans Aren’t Happy With Google and Meta",
+      "url": "https://www.nytimes.com/2026/03/31/world/asia/indonesia-australia-social-media-ban.html",
+      "summary": "Indonesia says the two companies are violating its law that bars children under 16 from the social media. Australia has similar concerns.",
+      "author": "Sui-Lee Wee and Laura Chung",
+      "publishDate": "2026-03-31T10:49:20.000Z",
+      "category": "Social Media",
+      "tags": [
+        "Social Media",
+        "Computers and the Internet",
+        "Australia",
+        "Indonesia",
+        "Facebook Inc",
+        "Google Inc",
+        "Meta Platforms Inc"
+      ]
+    },
+    {
+      "title": "Stephen Miller’s Latest Low",
+      "url": "https://www.nytimes.com/2026/03/28/opinion/stephen-miller-birthright-citizenship-14th-amendment.html",
+      "summary": "His project of subordination at home and abroad continues unabated.",
+      "author": "Jamelle Bouie",
+      "publishDate": "2026-03-30T13:50:43.000Z",
+      "category": "Fourteenth Amendment (US Constitution)",
+      "tags": [
+        "Fourteenth Amendment (US Constitution)",
+        "Thirteenth Amendment (US Constitution)",
+        "Citizenship and Naturalization",
+        "Law and Legislation",
+        "Supreme Court (US)",
+        "Miller, Stephen (1985- )",
+        "United States Politics and Government",
+        "Trump, Donald J",
+        "Slavery (Historical)",
+        "Right-Wing Extremism and Alt-Right"
       ]
     }
   ]
