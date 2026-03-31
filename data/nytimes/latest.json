@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-31T13:43:44+09:00",
+  "timestamp": "2026-03-31T17:14:07+09:00",
   "articles": [
     {
       "title": "New U.S. Missile Hit Iranian Sports Hall and School, Analysis Shows",
@@ -1214,6 +1214,83 @@
         "United States",
         "Democracy (Theory and Philosophy)",
         "No Kings"
+      ]
+    },
+    {
+      "title": "U.S. Gas Prices Hit $4 a Gallon on Average",
+      "url": "https://www.nytimes.com/2026/03/31/business/gas-prices-4-dollars-gallon-iran.html",
+      "summary": "A month since the first U.S.-Israeli attacks and Iran’s response effectively shut off Persian Gulf oil, drivers are paying significantly more to fill up.",
+      "author": "Emmett Lindner",
+      "publishDate": "2026-03-31T07:27:02.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Prices (Fares, Fees and Rates)",
+        "United States Politics and Government",
+        "Oil (Petroleum) and Gasoline",
+        "Offshore Drilling and Exploration",
+        "Polls and Public Opinion",
+        "American Automobile Assn",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Fresh Food Distributors Add Surcharges as Fuel Costs Rise",
+      "url": "https://www.nytimes.com/2026/03/31/business/food-distributors-surcharges-fuel.html",
+      "summary": "Delivering salmon, fruits and other perishable foods has become more expensive as the war with Iran pushes up diesel prices.",
+      "author": "Julie Creswell",
+      "publishDate": "2026-03-31T08:06:53.000Z",
+      "category": "Prices (Fares, Fees and Rates)",
+      "tags": [
+        "Prices (Fares, Fees and Rates)",
+        "Food",
+        "US and Israeli Attack on Iran (2026)",
+        "Oil (Petroleum) and Gasoline",
+        "Diesel Power",
+        "Supply Chain",
+        "Salmon",
+        "Seafood",
+        "Agriculture Department",
+        "Sysco Corporation"
+      ]
+    },
+    {
+      "title": "Trump, Don’t Make Churchill’s Deadly Mistake",
+      "url": "https://www.nytimes.com/2026/03/31/opinion/trump-hormuz-turkey-dardanelles.html",
+      "summary": "A 1936 convention establishing Turkish control over the Dardanelles could be an inspiration to resolving the energy bottleneck in the Persian Gulf.",
+      "author": "Asli Aydintasbas",
+      "publishDate": "2026-03-31T05:00:06.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "World War I (1914-18)",
+        "Churchill, Winston Leonard Spencer",
+        "Gallipoli (Turkey)",
+        "Persian Gulf",
+        "Iran",
+        "Oman",
+        "Strait of Hormuz",
+        "United States International Relations",
+        "Ships and Shipping"
+      ]
+    },
+    {
+      "title": "Stephen Colbert Marvels at ‘No Kings’ Rallies Worldwide",
+      "url": "https://www.nytimes.com/2026/03/31/arts/television/colbert-no-kings-marches.html",
+      "summary": "“Just look at the crowd we got here in New York,” he said. “Oop, that’s the T.S.A. line at J.F.K.”",
+      "author": "Trish Bendix",
+      "publishDate": "2026-03-31T05:35:01.000Z",
+      "category": "Television",
+      "tags": [
+        "Television",
+        "Fallon, Jimmy",
+        "The Tonight Show (TV Program)",
+        "Colbert, Stephen",
+        "Late Show with Stephen Colbert (TV Program)",
+        "The Daily Show with Jon Stewart (TV Program)",
+        "Maher, Bill",
+        "Real Time With Bill Maher (TV Program)",
+        "Demonstrations, Protests and Riots"
       ]
     }
   ]
