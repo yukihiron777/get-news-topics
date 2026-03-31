@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-03-31T08:34:37+09:00",
+  "timestamp": "2026-03-31T13:43:44+09:00",
   "articles": [
     {
       "title": "New U.S. Missile Hit Iranian Sports Hall and School, Analysis Shows",
@@ -982,6 +982,238 @@
         "Ghazali, Ayman Mohamad",
         "Bloomfield Township (Mich)",
         "Michigan"
+      ]
+    },
+    {
+      "title": "Offensive vs. Defensive: On Iran, the Distinction Matters for Britain’s Leader",
+      "url": "https://www.nytimes.com/2026/03/31/world/europe/iran-war-united-states-britain-starmer.html",
+      "summary": "As the United States expands its armada of warplanes on British soil, Prime Minister Keir Starmer says he is trying to defend Britain’s interests while keeping the country out of war.",
+      "author": "Adam Goldman, Eric Schmitt and Michael D. Shear",
+      "publishDate": "2026-03-31T04:01:06.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Military Bases and Installations",
+        "Military Aircraft",
+        "Politics and Government",
+        "United States Politics and Government",
+        "Starmer, Keir",
+        "Great Britain",
+        "Iran",
+        "United States",
+        "International Relations"
+      ]
+    },
+    {
+      "title": "TSA Workers Begin to Receive Paychecks After Trump Signs Executive Order",
+      "url": "https://www.nytimes.com/2026/03/30/us/politics/tsa-workers-paychecks-trump-executive-order.html",
+      "summary": "A memo that President Trump signed on Friday ordering the Department of Homeland Security to pay T.S.A. officers did not specify whether they would be paid on a regular schedule.",
+      "author": "Madeleine Ngo",
+      "publishDate": "2026-03-31T00:39:33.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "Trump, Donald J",
+        "Homeland Security Department",
+        "Transportation Security Administration",
+        "United States Politics and Government",
+        "Airport Security"
+      ]
+    },
+    {
+      "title": "Senators Seek Answers From Trump Administration About Airport Immigration Arrests",
+      "url": "https://www.nytimes.com/2026/03/30/us/senators-trump-airport-immigration-arrests.html",
+      "summary": "Airport security officials have been sharing passenger data with immigration agents, but the program received little attention until videos captured a woman and her daughter being detained at San Francisco’s airport.",
+      "author": "Heather Knight and Hamed Aleaziz",
+      "publishDate": "2026-03-31T01:59:50.000Z",
+      "category": "Illegal Immigration",
+      "tags": [
+        "Illegal Immigration",
+        "Airport Security",
+        "Deportation",
+        "Immigration Detention",
+        "Homeland Security Department",
+        "Immigration and Customs Enforcement (US)",
+        "Transportation Security Administration",
+        "Padilla, Alex (1973- )",
+        "Schiff, Adam B",
+        "San Francisco (Calif)"
+      ]
+    },
+    {
+      "title": "After Months of Threats, Trump Softens His Stance on Blocking Oil to Cuba",
+      "url": "https://www.nytimes.com/2026/03/30/us/politics/trump-threats-oil-cuba-sanctions.html",
+      "summary": "The White House press secretary said the United States would evaluate oil shipments to Cuba on a “case-by-case basis,” after a Russian tanker full of crude reached the island.",
+      "author": "Zolan Kanno-Youngs, Anton Troianovski and Maria Abi-Habib",
+      "publishDate": "2026-03-31T04:16:12.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "United States International Relations",
+        "Embargoes and Sanctions",
+        "US and Israeli Attack on Iran (2026)",
+        "Russian Invasion of Ukraine (2022)",
+        "Oil (Petroleum) and Gasoline",
+        "Ships and Shipping",
+        "United States Defense and Military Forces",
+        "US-Venezuela Conflict (2025- )",
+        "United States Coast Guard"
+      ]
+    },
+    {
+      "title": "DeSantis Signs Bill to Rename Florida Airport for Trump",
+      "url": "https://www.nytimes.com/2026/03/30/us/politics/trump-airport-palm-beach-florida.html",
+      "summary": "The airport near West Palm Beach will be rebranded the President Donald J. Trump International Airport on July 1, if approved by the Federal Aviation Administration.",
+      "author": "Patricia Mazzei",
+      "publishDate": "2026-03-31T02:26:36.000Z",
+      "category": "Trademarks and Trade Names",
+      "tags": [
+        "Trump, Donald J",
+        "DeSantis, Ron",
+        "Trademarks and Trade Names",
+        "Airports",
+        "West Palm Beach (Fla)",
+        "Palm Beach International Airport"
+      ]
+    },
+    {
+      "title": "A Crash Course on Primary Elections in Maine, Michigan and Beyond",
+      "url": "https://www.nytimes.com/2026/03/30/us/politics/primary-elections-maine-michigan.html",
+      "summary": "Here’s a crash course on what’s coming up next.",
+      "author": "Katie Glueck",
+      "publishDate": "2026-03-30T23:41:21.000Z",
+      "category": "Politics and Government",
+      "tags": [
+        "Politics and Government",
+        "Elections",
+        "Midterm Elections (2026)",
+        "Primaries and Caucuses",
+        "Elections, Senate",
+        "Demonstrations, Protests and Riots",
+        "Elections, Governors",
+        "Conservative Political Action Conference",
+        "Democratic Party",
+        "Republican Party"
+      ]
+    },
+    {
+      "title": "When Will Japan’s Cherry Blossoms Bloom? A.I. Can Help Answer That",
+      "url": "https://www.nytimes.com/2026/03/31/world/asia/japan-cherry-blossoms-ai.html",
+      "summary": "Experts use artificial intelligence to analyze data, plus thousands of crowdsourced photos, to forecast the prized flowers, which are a multibillion-dollar attraction.",
+      "author": "Javier C. Hernández, Kiuko Notoya, Hisako Ueno and Kentaro Takahashi",
+      "publishDate": "2026-03-31T04:01:06.000Z",
+      "category": "Artificial Intelligence",
+      "tags": [
+        "Artificial Intelligence",
+        "Trees and Shrubs",
+        "Seasons and Months",
+        "Travel and Vacations",
+        "Weather",
+        "Japan"
+      ]
+    },
+    {
+      "title": "Woman Spent Five Months in Jail After A.I. Linked Her to Bank Fraud Case",
+      "url": "https://www.nytimes.com/2026/03/30/us/north-dakota-facial-recognition-ai-errors-bank-fraud.html",
+      "summary": "The police chief in Fargo, N.D., acknowledged “missteps” but stopped short of apologizing to Angela Lipps, a Tennessee resident who said she had never been to North Dakota before she was arrested.",
+      "author": "Michael Levenson",
+      "publishDate": "2026-03-30T21:55:53.000Z",
+      "category": "Facial Recognition Software",
+      "tags": [
+        "Facial Recognition Software",
+        "Police",
+        "Artificial Intelligence",
+        "Clearview AI Inc",
+        "Fargo (ND)",
+        "Tennessee",
+        "North Dakota",
+        "Frauds and Swindling"
+      ]
+    },
+    {
+      "title": "She Was a Famous Millennial Feminist. Her Polyamory Memoir Is Heartbreaking.",
+      "url": "https://www.nytimes.com/2026/03/30/opinion/feminism-polyamory-lindy-west.html",
+      "summary": "Almost every ideology can be wielded to make women feel that they’re failing.",
+      "author": "Michelle Goldberg",
+      "publishDate": "2026-03-30T23:55:36.000Z",
+      "category": "Women's Rights",
+      "tags": [
+        "Women's Rights",
+        "Women and Girls",
+        "West, Lindy (1982- )",
+        "Adult Braces (Book)",
+        "Books and Literature",
+        "Marriages",
+        "Polyamory and Non-Monogamous Relationships"
+      ]
+    },
+    {
+      "title": "Why Barbie Dream Fest in Florida Is Drawing Comparisons to Fyre Festival",
+      "url": "https://www.nytimes.com/2026/03/30/style/barbie-dream-fest-florida.html",
+      "summary": "Fans had high hopes for the event, a Mattel-sanctioned gathering in a Florida convention center. Now, it’s drawing comparisons to Fyre Festival.",
+      "author": "Madison Malone Kircher",
+      "publishDate": "2026-03-31T01:32:42.000Z",
+      "category": "Barbie (Doll)",
+      "tags": [
+        "Barbie (Doll)",
+        "Conventions, Fairs and Trade Shows",
+        "Fans (Persons)",
+        "Toys",
+        "Dolls",
+        "Mattel Inc"
+      ]
+    },
+    {
+      "title": "No Kings Protests Held Across the U.S.: Photos and Videos",
+      "url": "https://www.nytimes.com/2026/03/28/us/no-kings-protest-photos-videos.html",
+      "summary": "It’s the third time that the coalition behind the “No Kings” movement has organized events to protest President Trump and his policies. In the United States, more than 3,000 demonstrations were planned.",
+      "author": "Ernesto Londoño and Sonia A. Rao",
+      "publishDate": "2026-03-29T09:36:07.000Z",
+      "category": "Demonstrations, Protests and Riots",
+      "tags": [
+        "Demonstrations, Protests and Riots",
+        "United States",
+        "United States Politics and Government",
+        "Trump, Donald J",
+        "Authoritarianism (Theory and Philosophy)",
+        "US and Israeli Attack on Iran (2026)",
+        "Minneapolis (Minn)",
+        "Illegal Immigration",
+        "Immigration and Customs Enforcement (US)",
+        "Homeland Security Department"
+      ]
+    },
+    {
+      "title": "It’s Not Trump. It’s America.",
+      "url": "https://www.nytimes.com/2026/03/26/opinion/trump-america-iran-war.html",
+      "summary": "The country’s faith in its ability to shape the world to its liking is a much older malady.",
+      "author": "Lydia Polgreen",
+      "publishDate": "2026-03-27T23:28:21.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "United States International Relations",
+        "War and Armed Conflicts",
+        "US and Israeli Attack on Iran (2026)",
+        "United States",
+        "Trump, Donald J",
+        "Iran"
+      ]
+    },
+    {
+      "title": "A Challenge for ‘No Kings’ Protests, the Third Time Around",
+      "url": "https://www.nytimes.com/2026/03/28/us/politics/no-kings-protests-trump-organizers.html",
+      "summary": "Organizers want this to be the largest protest yet. But is hitting a number enough to deliver an effective political movement?",
+      "author": "Jeremy W. Peters",
+      "publishDate": "2026-03-29T03:29:36.000Z",
+      "category": "Demonstrations, Protests and Riots",
+      "tags": [
+        "Demonstrations, Protests and Riots",
+        "Indivisible Project",
+        "United States Politics and Government",
+        "Trump, Donald J",
+        "United States",
+        "Democracy (Theory and Philosophy)",
+        "No Kings"
       ]
     }
   ]
