@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-04-01T05:00:37+09:00",
+  "timestamp": "2026-04-01T08:33:03+09:00",
   "articles": [
     {
       "title": "Judge Approves Trump Effort to Obtain List of Jews From University of Pennsylvania",
@@ -766,6 +766,214 @@
         "Illegal Immigration",
         "Immigration and Customs Enforcement (US)",
         "Homeland Security Department"
+      ]
+    },
+    {
+      "title": "Justice Dept. Struggles to Respond to Trump’s Suit Against IRS",
+      "url": "https://www.nytimes.com/2026/03/31/us/politics/trump-irs-lawsuit-doj.html",
+      "summary": "Officials at the department and the White House are in the middle of a messy and complicated debate over how to respond to President Trump’s lawsuit demanding $10 billion from the I.R.S.",
+      "author": "Andrew Duehren and Alan Feuer",
+      "publishDate": "2026-03-31T22:47:24.000Z",
+      "category": "Suits and Litigation (Civil)",
+      "tags": [
+        "Suits and Litigation (Civil)",
+        "Compensation for Damages (Law)",
+        "Booz Allen Hamilton Holding Corp",
+        "Internal Revenue Service",
+        "Justice Department",
+        "New York Times",
+        "ProPublica",
+        "Habba, Alina",
+        "Littlejohn, Charles Edward",
+        "Obama, Barack"
+      ]
+    },
+    {
+      "title": "Forgoing Oversight of Iran War, G.O.P. Calls Hegseth to Testify on Budget",
+      "url": "https://www.nytimes.com/2026/03/31/world/middleeast/hegseth-iran-war-testimony.html",
+      "summary": "After resisting calls for public hearings for weeks, House Republicans have called the secretary of defense to testify at a budget hearing in late April for the first time since the attacks on Iran began.",
+      "author": "Megan Mineiro",
+      "publishDate": "2026-03-31T22:25:17.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Hegseth, Pete",
+        "Defense Department",
+        "Democratic Party",
+        "Republican Party",
+        "House of Representatives",
+        "Senate"
+      ]
+    },
+    {
+      "title": "U.N. Peacekeepers in Lebanon Were Killed by Roadside Bomb",
+      "url": "https://www.nytimes.com/2026/03/31/world/middleeast/un-peacekeepers-lebanon-killed-security-council.html",
+      "summary": "Members of the United Nations Security Council condemned deadly attacks on U.N. peacekeepers in south Lebanon and called for de-escalation between Israel and Hezbollah.",
+      "author": "Farnaz Fassihi",
+      "publishDate": "2026-03-31T22:03:06.000Z",
+      "category": "International Relations",
+      "tags": [
+        "International Relations",
+        "War and Armed Conflicts",
+        "Guterres, Antonio",
+        "Danon, Danny (1971- )",
+        "Security Council (UN)",
+        "Hezbollah",
+        "United Nations",
+        "Lebanon"
+      ]
+    },
+    {
+      "title": "Stocks Recover Sharply Amid Hope for Iran War’s End",
+      "url": "https://www.nytimes.com/2026/03/31/business/oil-stocks-gas-prices-iran.html",
+      "summary": "Investors weighed the news that the owner of a Kuwaiti tanker loaded with oil said it had been hit in an Iranian attack near Dubai.",
+      "author": "The New York Times",
+      "publishDate": "2026-03-31T20:25:34.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Prices (Fares, Fees and Rates)",
+        "Oil (Petroleum) and Gasoline",
+        "Stocks and Bonds",
+        "Standard & Poor's 500-Stock Index",
+        "American Automobile Assn",
+        "Trump, Donald J",
+        "Iran"
+      ]
+    },
+    {
+      "title": "Backdoor Funding of Homeland Security Agency Could Weaken Congress Anew",
+      "url": "https://www.nytimes.com/2026/03/31/us/politics/republicans-reconciliation-homeland-security-funding.html",
+      "summary": "An emerging Republican plan to skirt a Democratic filibuster and fund an entire department without congressional appropriations would be the latest example of surrendering power to the White House.",
+      "author": "Carl Hulse",
+      "publishDate": "2026-03-31T21:51:54.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Federal Budget (US)",
+        "Midterm Elections (2026)",
+        "Filibusters and Debate Curbs",
+        "Immigration and Emigration",
+        "Presidential Power (US)",
+        "Airport Security",
+        "Homeland Security Department",
+        "House of Representatives",
+        "Senate"
+      ]
+    },
+    {
+      "title": "Who Is Getting Paid During the Department of Homeland Security Shutdown?",
+      "url": "https://www.nytimes.com/2026/03/31/us/politics/homeland-security-pay-shutdown.html",
+      "summary": "At least 120,000 law enforcement officers who work for the agency have continued to collect paychecks throughout the funding lapse. But tens of thousands of workers have gone without pay.",
+      "author": "Madeleine Ngo",
+      "publishDate": "2026-03-31T21:38:29.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Labor and Jobs",
+        "Wages and Salaries",
+        "Airport Security",
+        "Government Employees",
+        "Politics and Government",
+        "Homeland Security Department",
+        "Cybersecurity and Infrastructure Security Agency",
+        "Customs and Border Protection (US)",
+        "Federal Emergency Management Agency"
+      ]
+    },
+    {
+      "title": "Gavin Newsom Suggests His Conservative Critics Are Gay in Online Insults Criticized as Homophobic",
+      "url": "https://www.nytimes.com/2026/03/31/us/politics/newsom-social-media-grindr-homophobia.html",
+      "summary": "Gov. Gavin Newsom’s aides said that their online insults were meant to ridicule figures on the right. But some critics say they are homophobic.",
+      "author": "Tim Balk",
+      "publishDate": "2026-03-31T19:44:38.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Homosexuality and Bisexuality",
+        "Social Media",
+        "Presidential Election of 2028",
+        "Democratic Party",
+        "Grindr.com",
+        "Republican Party",
+        "Newsom, Gavin",
+        "Bessent, Scott",
+        "Graham, Lindsey"
+      ]
+    },
+    {
+      "title": "Supreme Court Rejects a Ban on ‘Conversion Therapy’ for Minors",
+      "url": "https://www.nytimes.com/2026/03/31/briefing/supreme-court-conversion-therapy-trump-ballroom.html",
+      "summary": "Also, a judge halts construction on the White House ballroom. Here’s the latest at the end of Tuesday.",
+      "author": "Matthew Cullen",
+      "publishDate": "2026-03-31T21:58:29.000Z"
+    },
+    {
+      "title": "What Was Your Mom’s Favorite Mantra?",
+      "url": "https://www.nytimes.com/2026/03/31/well/family/mom-mantra-advice-mothers-day.html",
+      "summary": "Share the go-to motto or oft-repeated bit of advice that has stayed with you throughout the years.",
+      "author": "Catherine Pearson",
+      "publishDate": "2026-03-31T15:29:39.000Z",
+      "category": "src-reader-callout",
+      "tags": [
+        "src-reader-callout",
+        "Parenting"
+      ]
+    },
+    {
+      "title": "At the National Archives, the Declaration Gets More Company",
+      "url": "https://www.nytimes.com/2026/03/31/arts/national-archives-emancipation-19th-amendment.html",
+      "summary": "The Emancipation Proclamation and the 19th Amendment have been added to the Archives’s rotunda, the first permanent changes there in nearly 75 years.",
+      "author": "Jennifer Schuessler",
+      "publishDate": "2026-03-31T22:02:18.000Z",
+      "category": "Museums",
+      "tags": [
+        "Museums",
+        "United States Politics and Government",
+        "Archives and Records",
+        "Emancipation Proclamation (1863)",
+        "Nineteenth Amendment (US Constitution)",
+        "Slavery (Historical)",
+        "History (Academic Subject)",
+        "Constitution (US)",
+        "Gordon-Reed, Annette",
+        "Rubio, Marco"
+      ]
+    },
+    {
+      "title": "Allbirds, Once Silicon Valley’s Favorite Shoe, Sells for $39 Million",
+      "url": "https://www.nytimes.com/2026/03/31/business/allbirds-sold-39-million.html",
+      "summary": "Despite once being valued at $4 billion, the company that made sneakers from Merino wool struggled to capture a wide customer base and turn a profit.",
+      "author": "Kim Bhasin",
+      "publishDate": "2026-03-31T18:55:35.000Z",
+      "category": "Sneakers",
+      "tags": [
+        "Allbirds Inc",
+        "Sneakers",
+        "Mergers, Acquisitions and Divestitures",
+        "Start-ups",
+        "Wool and Woolen Goods",
+        "Sustainable Living",
+        "E-Commerce",
+        "Silicon Valley (Calif)",
+        "Consumer Behavior"
+      ]
+    },
+    {
+      "title": "She Was a Famous Millennial Feminist. Her Polyamory Memoir Is Heartbreaking.",
+      "url": "https://www.nytimes.com/2026/03/30/opinion/feminism-polyamory-lindy-west.html",
+      "summary": "Almost every ideology can be wielded to make women feel that they’re failing.",
+      "author": "Michelle Goldberg",
+      "publishDate": "2026-03-30T23:55:36.000Z",
+      "category": "Women's Rights",
+      "tags": [
+        "Women's Rights",
+        "Women and Girls",
+        "West, Lindy (1982- )",
+        "Adult Braces (Book)",
+        "Books and Literature",
+        "Marriages",
+        "Polyamory and Non-Monogamous Relationships"
       ]
     }
   ]
