@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-04-01T13:54:02+09:00",
+  "timestamp": "2026-04-01T17:21:19+09:00",
   "articles": [
     {
       "title": "Judge Approves Trump Effort to Obtain List of Jews From University of Pennsylvania",
@@ -1183,6 +1183,74 @@
         "Trump, Donald J",
         "Slavery (Historical)",
         "Right-Wing Extremism and Alt-Right"
+      ]
+    },
+    {
+      "title": "Judge Orders Construction Stopped on Trump’s White House Ballroom",
+      "url": "https://www.nytimes.com/2026/03/31/us/politics/trump-white-house-ballroom-construction-ruling.html",
+      "summary": "A federal judge required the president to seek lawmakers’ input and pursue traditional approvals before proceeding with the $400 million replacement for the East Wing.",
+      "author": "Zach Montague",
+      "publishDate": "2026-03-31T22:26:11.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "National Trust for Historic Preservation",
+        "National Park Service",
+        "Trump, Donald J",
+        "Suits and Litigation (Civil)",
+        "Historic Buildings and Sites",
+        "White House Building (Washington, DC)"
+      ]
+    },
+    {
+      "title": "Trump Says U.S. Will Be Out of Iran Within Two to Three Weeks",
+      "url": "https://www.nytimes.com/2026/03/31/us/politics/trump-says-us-will-be-out-of-iran-within-two-to-three-weeks.html",
+      "summary": "The White House said the president would address the nation about Iran on Wednesday evening.",
+      "author": "Tyler Pager and Edward Wong",
+      "publishDate": "2026-04-01T01:38:40.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States Politics and Government",
+        "United States International Relations",
+        "Trump, Donald J",
+        "Rubio, Marco",
+        "Iran",
+        "Middle East"
+      ]
+    },
+    {
+      "title": "Padma Lakshmi: The Decision That Would Create a Permanent American Underclass",
+      "url": "https://www.nytimes.com/2026/04/01/opinion/padma-lakshmi-birthright-citizenship-food.html",
+      "summary": "President Trump wants to take away a fundamental American promise.",
+      "author": "Padma Lakshmi",
+      "publishDate": "2026-04-01T05:27:03.000Z",
+      "category": "Citizenship and Naturalization",
+      "tags": [
+        "Citizenship and Naturalization",
+        "United States Politics and Government",
+        "Fourteenth Amendment (US Constitution)",
+        "Executive Orders and Memorandums",
+        "Supreme Court (US)",
+        "Trump, Donald J",
+        "United States"
+      ]
+    },
+    {
+      "title": "Stephen Colbert Blames ‘The Bachelorette’ Cancellation for $4 Gas",
+      "url": "https://www.nytimes.com/2026/04/01/arts/television/stephen-colbert-trump-popularity.html",
+      "summary": "The “Late Show” host joked that “Trump attacked Iran” after ABC scrapped the reality show’s latest season.",
+      "author": "Trish Bendix",
+      "publishDate": "2026-04-01T06:53:22.000Z",
+      "category": "Television",
+      "tags": [
+        "Television",
+        "Fallon, Jimmy",
+        "The Tonight Show (TV Program)",
+        "Colbert, Stephen",
+        "Late Show with Stephen Colbert (TV Program)",
+        "The Daily Show with Jon Stewart (TV Program)",
+        "Lydic, Desi (1981- )"
       ]
     }
   ]
