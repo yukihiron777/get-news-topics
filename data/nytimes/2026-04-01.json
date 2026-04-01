@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-04-01T17:21:19+09:00",
+  "timestamp": "2026-04-01T22:02:34+09:00",
   "articles": [
     {
       "title": "Judge Approves Trump Effort to Obtain List of Jews From University of Pennsylvania",
@@ -1251,6 +1251,307 @@
         "Late Show with Stephen Colbert (TV Program)",
         "The Daily Show with Jon Stewart (TV Program)",
         "Lydic, Desi (1981- )"
+      ]
+    },
+    {
+      "title": "Supreme Court to Hear Landmark Challenge to Birthright Citizenship",
+      "url": "https://www.nytimes.com/2026/04/01/us/politics/supreme-court-birthright-citizenship-arguments.html",
+      "summary": "The justices will consider the constitutionality of President Trump’s executive order ending birthright citizenship for the children of undocumented people and some temporary foreign visitors.",
+      "author": "Abbie VanSickle",
+      "publishDate": "2026-04-01T09:01:45.000Z",
+      "category": "Citizenship and Naturalization",
+      "tags": [
+        "Citizenship and Naturalization",
+        "United States Politics and Government",
+        "Decisions and Verdicts",
+        "Presidential Power (US)",
+        "Law and Legislation",
+        "Illegal Immigration",
+        "Fourteenth Amendment (US Constitution)",
+        "Courts and the Judiciary",
+        "Suits and Litigation (Civil)",
+        "Executive Orders and Memorandums"
+      ]
+    },
+    {
+      "title": "He Won Birthright Citizenship for All. His Own Family Never Knew.",
+      "url": "https://www.nytimes.com/2026/04/01/us/politics/wong-kim-ark-birthright-citizenship.html",
+      "summary": "Wong Kim Ark brought his case to the Supreme Court in 1898. But some of his descendants didn’t even know his name until about 15 years ago.",
+      "author": "Amy Qin",
+      "publishDate": "2026-04-01T09:00:50.000Z",
+      "category": "Citizenship and Naturalization",
+      "tags": [
+        "Citizenship and Naturalization",
+        "Race and Ethnicity",
+        "Supreme Court (US)",
+        "Wong Kim Ark (b 1873)"
+      ]
+    },
+    {
+      "title": "Why The Times Is Expanding Its Supreme Court Coverage",
+      "url": "https://www.nytimes.com/2026/02/02/us/supreme-court-rulings-ethics.html",
+      "summary": "How four reporters are examining the most secretive branch of government — and the nine justices who shape the law.",
+      "author": "Patrick Healy, Jodi Kantor, Adam Liptak, Ann E. Marimow and Abbie VanSickle",
+      "publishDate": "2026-02-02T20:46:00.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "Supreme Court (US)",
+        "United States Politics and Government",
+        "Decisions and Verdicts",
+        "Law and Legislation",
+        "Courts and the Judiciary",
+        "Gifts to Public Officials",
+        "Ethics and Official Misconduct",
+        "News and News Media"
+      ]
+    },
+    {
+      "title": "Trump to Address the Nation About War Plans, and TMZ Goes After Congress",
+      "url": "https://www.nytimes.com/2026/04/01/podcasts/the-headlines/trump-war-plans-tmz-congress.html",
+      "summary": "Plus, what to know about NASA’s moon mission.",
+      "author": "Tracy Mumford, Will Jarvis, Ian Stewart and Katrina Miller",
+      "publishDate": "2026-04-01T10:11:15.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "US and Israeli Attack on Iran (2026)",
+        "Iran-Israel War (2025- )",
+        "TMZ.com",
+        "Trump, Donald J",
+        "internal-open-access-audio"
+      ]
+    },
+    {
+      "title": "Israel’s Message to Southern Lebanon: Shiites Must Go",
+      "url": "https://www.nytimes.com/2026/04/01/world/middleeast/lebanon-shiite-israel-evacuation.html",
+      "summary": "Israel has issued sweeping evacuation warnings, and pressed some Christian and Druse leaders to expel Shiite Muslims from their towns, the leaders said.",
+      "author": "Christina Goldbaum and David Guttenfelder",
+      "publishDate": "2026-04-01T10:43:13.000Z",
+      "category": "Shiite Muslims",
+      "tags": [
+        "Lebanon",
+        "Israel",
+        "Shiite Muslims",
+        "Refugees and Displaced Persons",
+        "War and Armed Conflicts",
+        "Hezbollah",
+        "Christians and Christianity",
+        "Druse (Sect)",
+        "Katz, Israel (1955- )"
+      ]
+    },
+    {
+      "title": "Trump’s Brusque Threat to Europe: Go It Alone",
+      "url": "https://www.nytimes.com/2026/04/01/world/middleeast/trump-europe-nato-iran.html",
+      "summary": "Threatening to pull out of NATO, President Trump portrayed the alliance as a “paper tiger” and said Europe was on its own in trying to secure the Strait of Hormuz.",
+      "author": "Michael D. Shear",
+      "publishDate": "2026-04-01T12:28:17.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Politics and Government",
+        "Iran-Israel War (2025- )",
+        "Great Britain Withdrawal from EU (Brexit)",
+        "International Relations",
+        "European Union",
+        "North Atlantic Treaty Organization",
+        "Europe",
+        "Starmer, Keir",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Bomb Shelters and a Drone-Proof Roof: Trump Seeks to Justify Ballroom as Security Measure",
+      "url": "https://www.nytimes.com/2026/03/31/us/politics/trump-ballroom-underground-security.html",
+      "summary": "President Trump spoke about his ballroom’s security as he argued against a judge’s orders to stop construction.",
+      "author": "Zolan Kanno-Youngs",
+      "publishDate": "2026-04-01T12:48:28.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "United States Defense and Military Forces",
+        "White House Building (Washington, DC)",
+        "Decisions and Verdicts",
+        "National Capital Planning Commission",
+        "National Trust for Historic Preservation",
+        "Leon, Richard J",
+        "Trump, Donald J",
+        "Washington (DC)"
+      ]
+    },
+    {
+      "title": "Why the Artemis II Astronauts Will Be Wearing Orange",
+      "url": "https://www.nytimes.com/2026/03/31/style/artemis-ii-spacesuits-orange-astronauts.html",
+      "summary": "It’s not just any orange. It’s International Orange.",
+      "author": "Vanessa Friedman",
+      "publishDate": "2026-03-31T21:36:19.000Z",
+      "category": "Color",
+      "tags": [
+        "Color",
+        "Artemis Program",
+        "Space and Astronomy",
+        "National Aeronautics and Space Administration",
+        "Moon",
+        "your-feed-fashion"
+      ]
+    },
+    {
+      "title": "Today’s Mission to the Moon",
+      "url": "https://www.nytimes.com/2026/04/01/podcasts/the-daily/mission-moon-artemis-ii-nasa.html",
+      "summary": "Four astronauts of the Artemis II mission are preparing NASA for its next lunar landing.",
+      "author": "Michael Barbaro, Kenneth Chang, Alex Stern, Jack D’Isidoro, Rachelle Bonja, Diana Nguyen, Rachel Quester, Marion Lozano, Dan Powell, Diane Wong and Alyssa Moxley",
+      "publishDate": "2026-04-01T10:00:16.000Z",
+      "category": "Space and Astronomy",
+      "tags": [
+        "Space and Astronomy",
+        "Artemis Program",
+        "National Aeronautics and Space Administration",
+        "internal-open-access-audio"
+      ]
+    },
+    {
+      "title": "Memphis House Primary Exemplifies Democrats’ Age Fights",
+      "url": "https://www.nytimes.com/2026/04/01/us/politics/democrats-age-memphis-house-primary.html",
+      "summary": "The contest between Representative Steve Cohen, 76, a white incumbent, and Justin Pearson, 31, a Black state lawmaker, exemplifies a national push for a passing of the torch.",
+      "author": "Emily Cochrane",
+      "publishDate": "2026-04-01T09:43:31.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Midterm Elections (2026)",
+        "Elections, House of Representatives",
+        "Race and Ethnicity",
+        "Primaries and Caucuses",
+        "Cohen, Stephen I",
+        "Pearson, Justin J (1994- )",
+        "Memphis (Tenn)"
+      ]
+    },
+    {
+      "title": "U.S. Plans Military Expansion in Greenland",
+      "url": "https://www.nytimes.com/2026/04/01/world/europe/us-military-seeks-expansion-in-greenland.html",
+      "summary": "The Pentagon is in talks with Denmark for access to three more areas on the Arctic island. Several Greenlanders said they didn’t like the idea.",
+      "author": "Jeffrey Gettleman, Maya Tekeli and Eric Schmitt",
+      "publishDate": "2026-04-01T10:26:01.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Politics and Government",
+        "United States Defense and Military Forces",
+        "Territorial Disputes",
+        "Defense and Military Forces",
+        "International Relations",
+        "Military Bases and Installations",
+        "Cold War Era",
+        "Frederiksen, Mette",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "One of Apple’s First Employees Looks Back at 50 Years",
+      "url": "https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html",
+      "summary": "In 1976, 14-year-old Chris Espinosa rode a moped to his job demonstrating computers made in Steve Jobs’s childhood home. The company has changed a bit since then.",
+      "author": "Kalley Huang",
+      "publishDate": "2026-04-01T09:02:40.000Z",
+      "category": "Computers and the Internet",
+      "tags": [
+        "Computers and the Internet",
+        "iPhone",
+        "Apple Inc",
+        "Homebrew Computer Club",
+        "Jobs, Steven P",
+        "Wozniak, Stephen",
+        "Joswiak, Greg",
+        "Chris Espinosa",
+        "Cupertino (Calif)",
+        "Silicon Valley (Calif)"
+      ]
+    },
+    {
+      "title": "Our Troops Deserve More Than This",
+      "url": "https://www.nytimes.com/2026/04/01/opinion/iran-war-military-us.html",
+      "summary": "We owe it to American service members and their families to be truthful about the risks involved and why we are at war.",
+      "author": "Chuck Hagel and Leon E. Panetta",
+      "publishDate": "2026-04-01T09:02:00.000Z",
+      "category": "Nuclear Weapons",
+      "tags": [
+        "Trump, Donald J",
+        "Iran",
+        "Nuclear Weapons",
+        "United States Defense and Military Forces",
+        "Middle East",
+        "Tehran (Iran)",
+        "War and Armed Conflicts"
+      ]
+    },
+    {
+      "title": "Born American",
+      "url": "https://www.nytimes.com/2026/04/01/briefing/birthright-citizenship.html",
+      "summary": "We look at an important case before the Supreme Court.",
+      "author": "Sam Sifton",
+      "publishDate": "2026-04-01T10:51:07.000Z",
+      "category": "internal-storyline-no",
+      "tags": [
+        "internal-storyline-no",
+        "Citizenship and Naturalization",
+        "Supreme Court (US)",
+        "Fourteenth Amendment (US Constitution)"
+      ]
+    },
+    {
+      "title": "In New England, Catching Climate Data Along With Fish",
+      "url": "https://www.nytimes.com/2026/04/01/climate/new-england-fishermen-ocean-data.html",
+      "summary": "Commercial vessels are deploying high-tech sensors to map a shifting sea, providing critical data for scientists and some help for the industry.",
+      "author": "Eric Niiler and Tristan Spinski",
+      "publishDate": "2026-04-01T09:00:20.000Z",
+      "category": "Sensors",
+      "tags": [
+        "Sensors",
+        "Fishing, Commercial",
+        "Global Warming",
+        "Fish and Other Marine Life",
+        "Lobsters",
+        "Oceans and Seas",
+        "Gulf of Maine",
+        "National Oceanic and Atmospheric Administration"
+      ]
+    },
+    {
+      "title": "A ‘Traffic Jam’ of Trials Poses Headache for Mangione’s Lawyers",
+      "url": "https://www.nytimes.com/2026/04/01/nyregion/mangione-weinstein-trial-manhattan.html",
+      "summary": "Luigi Mangione’s lawyers could be in and out of court in Manhattan through the end of the year. A judge could decide as early as Wednesday on whether to delay his federal case.",
+      "author": "Benjamin Weiser and Hurubie Meko",
+      "publishDate": "2026-04-01T12:19:53.000Z",
+      "category": "Decisions and Verdicts",
+      "tags": [
+        "Decisions and Verdicts",
+        "Assassinations and Attempted Assassinations",
+        "Federal Courts (US)",
+        "Murders, Attempted Murders and Homicides",
+        "Sex Crimes",
+        "Mangione, Luigi",
+        "Weinstein, Harvey",
+        "Manhattan (NYC)"
+      ]
+    },
+    {
+      "title": "The Three Big Questions Delaying New York’s Budget",
+      "url": "https://www.nytimes.com/2026/04/01/nyregion/budget-delayed-hochul.html",
+      "summary": "Legislators are weighing tax increases on the wealthy and changes to laws meant to protect immigrants and the environment as the state budget deadline passes.",
+      "author": "Grace Ashford",
+      "publishDate": "2026-04-01T07:00:12.000Z",
+      "category": "State Legislatures",
+      "tags": [
+        "State Legislatures",
+        "Budgets and Budgeting",
+        "Taxation",
+        "Greenhouse Gas Emissions",
+        "High Net Worth Individuals",
+        "Alternative and Renewable Energy",
+        "Global Warming",
+        "Immigration and Customs Enforcement (US)",
+        "New York State",
+        "Hochul, Kathleen C"
       ]
     }
   ]
