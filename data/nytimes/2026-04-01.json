@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-04-01T08:33:03+09:00",
+  "timestamp": "2026-04-01T13:54:02+09:00",
   "articles": [
     {
       "title": "Judge Approves Trump Effort to Obtain List of Jews From University of Pennsylvania",
@@ -974,6 +974,215 @@
         "Books and Literature",
         "Marriages",
         "Polyamory and Non-Monogamous Relationships"
+      ]
+    },
+    {
+      "title": "Trump Signs Order Seeking Federal Control of Mail Voting as He Promotes False Claims",
+      "url": "https://www.nytimes.com/2026/03/31/us/politics/trump-mail-in-ballots-voting-executive-order.html",
+      "summary": "Election experts and Democratic officials called the order legally invalid, and Arizona and Oregon pledged to immediately challenge it in court.",
+      "author": "Nick Corasaniti and Michael Gold",
+      "publishDate": "2026-04-01T00:52:56.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States",
+        "Trump, Donald J",
+        "Postal Service (US)",
+        "Republican Party",
+        "United States Politics and Government",
+        "Midterm Elections (2026)",
+        "Presidential Power (US)",
+        "Postal Service and Post Offices"
+      ]
+    },
+    {
+      "title": "Trump Says He Halted Nuclear Threat From Iran, Despite Evidence to the Contrary",
+      "url": "https://www.nytimes.com/2026/03/31/us/politics/trump-nuclear-threat-iran.html",
+      "summary": "For the second time in recent days, President Trump declared that one of the key objectives of the war had been accomplished.",
+      "author": "David E. Sanger",
+      "publishDate": "2026-04-01T01:45:15.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States Politics and Government",
+        "Iran-Israel War (2025- )",
+        "United States International Relations",
+        "Nuclear Weapons",
+        "United States Defense and Military Forces",
+        "International Atomic Energy Agency",
+        "Islamic Revolutionary Guards Corps",
+        "Grossi, Rafael",
+        "Obama, Barack"
+      ]
+    },
+    {
+      "title": "The Sailors Stranded in the Persian Gulf",
+      "url": "https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html",
+      "summary": "Thousands of civilian sailors have been stranded for more than a month in waters surrounded by a conflict zone because of the U.S.-Israeli war on Iran.",
+      "author": "Aie Balagtas See",
+      "publishDate": "2026-04-01T04:01:12.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Persian Gulf",
+        "Philippines",
+        "Strait of Hormuz",
+        "Ships and Shipping",
+        "War and Armed Conflicts",
+        "Defense and Military Forces",
+        "International Maritime Organization",
+        "Maritime Accidents and Safety"
+      ]
+    },
+    {
+      "title": "South Dakotans React to Daily Mail Article on Bryon Noem, Kristi Noem’s Husband",
+      "url": "https://www.nytimes.com/2026/03/31/us/politics/kristi-noem-husband-photos-daily-mail.html",
+      "summary": "In the tiny town of Castlewood, S.D., where everyone knows the Noems, the prevailing sense was that people can’t help but feel bad for Bryon Noem after a tabloid photo leak.",
+      "author": "Shawn McCreesh",
+      "publishDate": "2026-04-01T02:14:36.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Rural Areas",
+        "Gossip",
+        "Homeland Security Department",
+        "Daily Mail",
+        "Immigration and Customs Enforcement (US)",
+        "Trump, Donald J",
+        "Noem, Kristi",
+        "South Dakota"
+      ]
+    },
+    {
+      "title": "Judge Dismisses Lawsuit That Challenged Ban on Endorsements by Churches",
+      "url": "https://www.nytimes.com/2026/03/31/us/politics/judge-johnson-amendment-settlement.html",
+      "summary": "Conservatives had expected a victory in the case after the I.R.S. agreed to a settlement that allowed churches to voice support for candidates.",
+      "author": "David A. Fahrenthold and Elizabeth Dias",
+      "publishDate": "2026-03-31T23:53:39.000Z",
+      "category": "Religion-State Relations",
+      "tags": [
+        "Religion-State Relations",
+        "United States Politics and Government",
+        "Conservatism (US Politics)",
+        "Churches (Buildings)",
+        "Religion and Belief",
+        "Places of Worship",
+        "Christians and Christianity",
+        "Internal Revenue Service",
+        "Barker, J Campbell",
+        "Johnson, Lyndon Baines"
+      ]
+    },
+    {
+      "title": "Where Million-Dollar Coastal Homes Glitter Near Metal Shacks",
+      "url": "https://www.nytimes.com/2026/04/01/world/africa/cape-town-housing-crisis.html",
+      "summary": "A shortage of affordable housing in the coastal city in South Africa has forced many people to live far outside the city center, while tourists occupy prime real estate.",
+      "author": "John Eligon and Joao Silva",
+      "publishDate": "2026-04-01T04:01:19.000Z",
+      "category": "Real Estate and Housing (Residential)",
+      "tags": [
+        "Africa",
+        "Cape Town (South Africa)",
+        "South Africa",
+        "Western Cape (South Africa)",
+        "Airbnb",
+        "Real Estate and Housing (Residential)",
+        "Affordable Housing",
+        "Travel and Vacations",
+        "Cost of Living and Affordability",
+        "Apartheid (Policy)"
+      ]
+    },
+    {
+      "title": "In UK Prisons, Drones Fly In Contraband ‘As if by Uber Eats’",
+      "url": "https://www.nytimes.com/2026/04/01/world/europe/uk-prisons-contraband-drones.html",
+      "summary": "Decades-old prison buildings were designed to be secure from the ground but not the air. Experts say that makes a lucrative smuggling trade hard to tackle.",
+      "author": "Lizzie Dearden",
+      "publishDate": "2026-04-01T04:01:05.000Z",
+      "category": "Drones (Pilotless Planes)",
+      "tags": [
+        "Drones (Pilotless Planes)",
+        "Smuggling",
+        "Gangs",
+        "Prisons and Prisoners",
+        "England",
+        "Great Britain",
+        "London (England)",
+        "Police"
+      ]
+    },
+    {
+      "title": "Yes, This Is Your War, Too",
+      "url": "https://www.nytimes.com/2026/03/31/opinion/yes-this-is-your-war-too.html",
+      "summary": "Even opponents of the conflict should want to see Iran defanged and defeated.",
+      "author": "Bret Stephens",
+      "publishDate": "2026-03-31T21:00:06.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "International Relations",
+        "Iran-Israel War (2025- )",
+        "War and Armed Conflicts",
+        "Defense and Military Forces",
+        "Missiles and Missile Defense Systems",
+        "North Atlantic Treaty Organization",
+        "Merz, Friedrich",
+        "Pistorius, Boris",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Tugboat Captain Is Charged in Miami Beach Crash That Killed 3 Children",
+      "url": "https://www.nytimes.com/2026/03/31/us/miami-sailboat-crash-biscayne-bay-manslaughter.html",
+      "summary": "Six people, including a camp counselor, were thrown into the water on July 28 when their sailboat was struck by a barge that was being pushed by a tugboat, the authorities said.",
+      "author": "Johnny Diaz and Mark Walker",
+      "publishDate": "2026-04-01T01:03:42.000Z",
+      "category": "Maritime Accidents and Safety",
+      "tags": [
+        "Maritime Accidents and Safety",
+        "Deaths (Fatalities)",
+        "Sailboats and Sailing",
+        "Summer Camps",
+        "Jackson Memorial Hospital",
+        "Miami Youth Sailing Foundation",
+        "United States Coast Guard",
+        "Miami Beach (Fla)",
+        "Miami-Dade County (Fla)",
+        "Waterfront Construction"
+      ]
+    },
+    {
+      "title": "Slava Tsukerman, Who Directed the Cult Classic ‘Liquid Sky,’ Dies at 86",
+      "url": "https://www.nytimes.com/2026/03/31/movies/slava-tsukerman-dead.html",
+      "summary": "A Russian-born director, he created a film about New Wave models and killer aliens in 1980s New York, helping to reshape independent filmmaking in America.",
+      "author": "Clay Risen",
+      "publishDate": "2026-03-31T22:16:01.000Z",
+      "category": "Movies",
+      "tags": [
+        "Tsukerman, Slava",
+        "Movies",
+        "Stalin's Wife (Movie)",
+        "Liquid Sky (Movie)",
+        "Deaths (Obituaries)"
+      ]
+    },
+    {
+      "title": "Stephen Miller’s Latest Low",
+      "url": "https://www.nytimes.com/2026/03/28/opinion/stephen-miller-birthright-citizenship-14th-amendment.html",
+      "summary": "His project of subordination at home and abroad continues unabated.",
+      "author": "Jamelle Bouie",
+      "publishDate": "2026-03-30T13:50:43.000Z",
+      "category": "Fourteenth Amendment (US Constitution)",
+      "tags": [
+        "Fourteenth Amendment (US Constitution)",
+        "Thirteenth Amendment (US Constitution)",
+        "Citizenship and Naturalization",
+        "Law and Legislation",
+        "Supreme Court (US)",
+        "Miller, Stephen (1985- )",
+        "United States Politics and Government",
+        "Trump, Donald J",
+        "Slavery (Historical)",
+        "Right-Wing Extremism and Alt-Right"
       ]
     }
   ]
