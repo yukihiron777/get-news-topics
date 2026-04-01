@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-04-02T05:04:55+09:00",
+  "timestamp": "2026-04-02T08:35:17+09:00",
   "articles": [
     {
       "title": "Trump Administration Scales Back Plan to Dismantle Consumer Protection Bureau",
@@ -710,6 +710,290 @@
         "Actors and Actresses",
         "Pornography",
         "Rumors and Misinformation"
+      ]
+    },
+    {
+      "title": "Bondi Is Vulnerable as Republican Frustrations Over DOJ’s Epstein Files Missteps Grow",
+      "url": "https://www.nytimes.com/2026/04/01/us/politics/bondi-epstein-files-doj-trump.html",
+      "summary": "Ms. Bondi’s critics inside and outside the administration say she has made unforced errors that have turned the Justice Department’s handling of the Epstein files into a political crisis.",
+      "author": "Glenn Thrush and Michael Gold",
+      "publishDate": "2026-04-01T23:18:40.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Right-Wing Extremism and Alt-Right",
+        "Ethics and Official Misconduct",
+        "Biden, Joseph R Jr",
+        "Blanche, Todd (Attorney)",
+        "Bondi, Pamela J",
+        "Bongino, Daniel",
+        "Comey, James B",
+        "Brennan, John O",
+        "James, Letitia"
+      ]
+    },
+    {
+      "title": "Key Justices Appear Skeptical of Limiting Birthright Citizenship",
+      "url": "https://www.nytimes.com/2026/04/01/us/politics/supreme-court-birthright-citizenship-arguments.html",
+      "summary": "President Trump appeared in court, watching as members of the court’s conservative majority raised questions about his efforts to limit birthright citizenship.",
+      "author": "Abbie VanSickle",
+      "publishDate": "2026-04-01T20:53:40.000Z",
+      "category": "Citizenship and Naturalization",
+      "tags": [
+        "Citizenship and Naturalization",
+        "United States Politics and Government",
+        "Decisions and Verdicts",
+        "Presidential Power (US)",
+        "Law and Legislation",
+        "Illegal Immigration",
+        "Fourteenth Amendment (US Constitution)",
+        "Courts and the Judiciary",
+        "Suits and Litigation (Civil)",
+        "Executive Orders and Memorandums"
+      ]
+    },
+    {
+      "title": "Iran Is Skeptical About Diplomacy, U.S. Intelligence Says",
+      "url": "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war.html",
+      "summary": "Any decision by Iran to keep fighting would complicate President Trump’s stated goal of trying to end the war within weeks.",
+      "author": "Edward Wong and Julian E. Barnes",
+      "publishDate": "2026-04-01T23:15:25.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States International Relations",
+        "Defense and Military Forces",
+        "Peace Process",
+        "Uranium",
+        "Trump, Donald J",
+        "Iran",
+        "Strait of Hormuz"
+      ]
+    },
+    {
+      "title": "Trump Officials Try to Fight Foreign Disinformation They Once Dismissed",
+      "url": "https://www.nytimes.com/2026/04/01/business/trump-foreign-disinformation-iran.html",
+      "summary": "The war in Iran has exposed the need to mount a defense against foreign influence campaigns, officials and experts say.",
+      "author": "Steven Lee Myers and Edward Wong",
+      "publishDate": "2026-04-01T21:56:32.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "US and Israeli Attack on Iran (2026)",
+        "United States International Relations",
+        "Freedom of Speech and Expression",
+        "Rumors and Misinformation",
+        "War and Armed Conflicts",
+        "Propaganda",
+        "Global Engagement Center",
+        "Radio Free Asia",
+        "Radio Free Europe"
+      ]
+    },
+    {
+      "title": "Elon Musk’s SpaceX Files to Go Public, Setting Stage for Huge I.P.O.",
+      "url": "https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html",
+      "summary": "An initial public offering of Elon Musk’s rocket and satellite company would most likely be a generational wealth event and one of the largest offerings ever.",
+      "author": "Ryan Mac, Lauren Hirsch and Maureen Farrell",
+      "publishDate": "2026-04-01T19:41:15.000Z",
+      "category": "Space and Astronomy",
+      "tags": [
+        "Space Exploration Technologies Corp",
+        "Musk, Elon",
+        "Space and Astronomy",
+        "Artificial Intelligence",
+        "Satellites",
+        "Initial Public Offerings",
+        "Mars (Planet)",
+        "Data Centers",
+        "Moon",
+        "Computers and the Internet"
+      ]
+    },
+    {
+      "title": "Trump-Backed Candidate in Louisiana Primary Also Praised DEI. Will It Hurt Her?",
+      "url": "https://www.nytimes.com/2026/04/01/us/politics/julia-letlow-louisiana-republican-primary.html",
+      "summary": "Representative Julia Letlow of Louisiana, running to challenge Senator Bill Cassidy, is facing conservative blowback over remarks from 2020.",
+      "author": "Kellen Browning",
+      "publishDate": "2026-04-01T21:39:16.000Z",
+      "category": "Politics and Government",
+      "tags": [
+        "Politics and Government",
+        "Elections",
+        "Conservatism (US Politics)",
+        "Midterm Elections (2026)",
+        "Diversity Initiatives",
+        "Illegal Immigration",
+        "US and Israeli Attack on Iran (2026)",
+        "Primaries and Caucuses",
+        "Colleges and Universities",
+        "Elections, Senate"
+      ]
+    },
+    {
+      "title": "Goodbye ‘Geeky Hunk’? Gmail Users Can Now Change Their Usernames.",
+      "url": "https://www.nytimes.com/2026/04/01/technology/gmail-change-email-address-google.html",
+      "summary": "Users who have been saddled with now-cringe email handles since the mid-2000s can now change them without losing any data under a policy Google announced on Wednesday.",
+      "author": "Sopan Deb",
+      "publishDate": "2026-04-01T22:14:50.000Z",
+      "category": "E-Mail",
+      "tags": [
+        "E-Mail",
+        "Computers and the Internet",
+        "Names, Personal",
+        "Indecency, Obscenity and Profanity",
+        "Two Thousands (Decade)",
+        "Google Inc",
+        "Pichai, Sundar"
+      ]
+    },
+    {
+      "title": "DNA Confirms Ted Bundy Killed Utah Teen in 1974, Investigators Say",
+      "url": "https://www.nytimes.com/2026/04/01/us/ted-bundy-utah-murder-confirmed.html",
+      "summary": "Mr. Bundy had confessed to killing Laura Ann Aime before he was executed in 1989. Investigators said DNA testing provided conclusive proof.",
+      "author": "Michael Levenson",
+      "publishDate": "2026-04-01T23:13:58.000Z",
+      "category": "Forensic Science",
+      "tags": [
+        "Bundy, Ted",
+        "Forensic Science",
+        "Serial Murders",
+        "DNA (Deoxyribonucleic Acid)",
+        "Genetics and Heredity",
+        "Murders, Attempted Murders and Homicides",
+        "Smith, Mike (Utah County, Utah, Sheriff)",
+        "Utah"
+      ]
+    },
+    {
+      "title": "What to Know About Ted Bundy, the Notorious Serial Killer",
+      "url": "https://www.nytimes.com/2026/04/01/us/what-to-know-about-ted-bundy-serial-killer.html",
+      "summary": "On Wednesday, the authorities said DNA evidence had linked Mr. Bundy, who was executed in 1989, to the murder of a 17-year-old Utah girl in 1974.",
+      "author": "Christina Morales",
+      "publishDate": "2026-04-01T22:52:43.000Z",
+      "category": "Serial Murders",
+      "tags": [
+        "Bundy, Ted",
+        "Serial Murders",
+        "Murders, Attempted Murders and Homicides",
+        "Sex Crimes"
+      ]
+    },
+    {
+      "title": "Trump Will Lose the Birthright Citizenship Case. But in a Way, He’s Already Won.",
+      "url": "https://www.nytimes.com/2026/04/01/opinion/birthright-citizenship-case-trump.html",
+      "summary": "The case is open-and-shut on the merits. But its procedural course still leaves plenty of room for Trump administration overreach.",
+      "author": "Stephen I. Vladeck",
+      "publishDate": "2026-04-01T22:30:09.000Z",
+      "category": "Citizenship and Naturalization",
+      "tags": [
+        "Citizenship and Naturalization",
+        "Federal Courts (US)",
+        "Fourteenth Amendment (US Constitution)",
+        "Executive Orders and Memorandums",
+        "Supreme Court (US)",
+        "University of Arizona",
+        "Barrett, Amy Coney",
+        "Kagan, Elena"
+      ]
+    },
+    {
+      "title": "Remember the Oil Shocks of the ’70s? This Is Going to Be Worse. Much Worse.",
+      "url": "https://www.nytimes.com/2026/04/01/opinion/oil-crisis-iran-electric-solar.html",
+      "summary": "Higher oil prices and limited supply will accelerate a turn toward cleaner technologies, especially in Asia and Europe.",
+      "author": "Jonathan Mingle",
+      "publishDate": "2026-04-01T20:48:59.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Oil (Petroleum) and Gasoline",
+        "Solar Energy",
+        "Natural Gas",
+        "Greenhouse Gas Emissions",
+        "Electric and Hybrid Vehicles",
+        "United States",
+        "India",
+        "Pakistan",
+        "Strait of Hormuz"
+      ]
+    },
+    {
+      "title": "Key Justices Appear Skeptical of Limiting Birthright Citizenship",
+      "url": "https://www.nytimes.com/2026/04/01/briefing/supreme-court-citizenship-moon-launch.html",
+      "summary": "Also, NASA prepares to launch the first crewed moon mission in 50 years. Here’s the latest at the end of Wednesday.",
+      "author": "Matthew Cullen",
+      "publishDate": "2026-04-01T21:55:15.000Z"
+    },
+    {
+      "title": "Pipe Bomb Defendant Says He May Adopt Debunked Account as Defense",
+      "url": "https://www.nytimes.com/2026/04/01/us/politics/pipe-bomb-jan-6.html",
+      "summary": "Court papers show that Brian Cole Jr.’s lawyers might seek to blame a former Capitol Police officer whose name first surfaced in a right-wing media account and whom the F.B.I. briefly investigated.",
+      "author": "Alan Feuer",
+      "publishDate": "2026-04-01T21:46:27.000Z",
+      "category": "Storming of the US Capitol (Jan, 2021)",
+      "tags": [
+        "Storming of the US Capitol (Jan, 2021)",
+        "United States Politics and Government",
+        "Bombs and Explosives",
+        "Federal Bureau of Investigation",
+        "United States Capitol Police",
+        "Blaze, The",
+        "Cole, Brian Jr (1995- )"
+      ]
+    },
+    {
+      "title": "Man in Custody After 7-Month-Old Girl Is Fatally Shot in Brooklyn",
+      "url": "https://www.nytimes.com/2026/04/01/nyregion/williamsburg-nyc-baby-shooting.html",
+      "summary": "The baby was struck by a stray bullet on Wednesday afternoon in the Williamsburg neighborhood. The police said they were still looking for another person.",
+      "author": "Chelsia Rose Marcius and Nate Schweber",
+      "publishDate": "2026-04-01T23:11:42.000Z",
+      "category": "Murders, Attempted Murders and Homicides",
+      "tags": [
+        "Murders, Attempted Murders and Homicides",
+        "Babies and Infants",
+        "Deaths (Fatalities)",
+        "Brooklyn (NYC)",
+        "Williamsburg (Brooklyn, NY)"
+      ]
+    },
+    {
+      "title": "Mahmoud Khalil Asks Emil Bove to Recuse Himself From Immigration Case",
+      "url": "https://www.nytimes.com/2026/04/01/nyregion/mahmoud-khalil-columbia-appeal.html",
+      "summary": "Mr. Khalil, who is fighting his deportation, and Judge Bove were on opposite sides of President Trump’s crackdown on campus protesters when the judge was a Justice Department official.",
+      "author": "Jonah E. Bromwich",
+      "publishDate": "2026-04-01T22:13:11.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Pro-Palestinian Campus Protests (2023- )",
+        "Deportation",
+        "Immigration Detention",
+        "Conflicts of Interest",
+        "Columbia University",
+        "Justice Department",
+        "Bove, Emil",
+        "Khalil, Mahmoud (Activist)",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Tennessee Library Director Luanne James Fired Over L.G.B.T.Q. Books",
+      "url": "https://www.nytimes.com/2026/04/01/us/tennessee-library-luanne-james-firing.html",
+      "summary": "The director, Luanne James, was fired at a board meeting for the Rutherford County Library System on Monday after she refused to move certain books to the adult section.",
+      "author": "Sonia A. Rao and Emily Cochrane",
+      "publishDate": "2026-04-01T21:02:38.000Z",
+      "category": "Libraries and Librarians",
+      "tags": [
+        "Libraries and Librarians",
+        "Books and Literature",
+        "Homosexuality and Bisexuality",
+        "United States Politics and Government",
+        "Gender",
+        "Book Bans",
+        "Executive Orders and Memorandums",
+        "Harlem Hellfighters",
+        "Rutherford County (Tenn)",
+        "Tennessee"
       ]
     }
   ]
