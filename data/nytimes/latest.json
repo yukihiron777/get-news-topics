@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-04-02T13:37:20+09:00",
+  "timestamp": "2026-04-02T17:10:41+09:00",
   "articles": [
     {
       "title": "Trump Administration Scales Back Plan to Dismantle Consumer Protection Bureau",
@@ -1288,6 +1288,100 @@
         "Illegal Immigration",
         "Immigration and Customs Enforcement (US)",
         "Homeland Security Department"
+      ]
+    },
+    {
+      "title": "China’s Aiming for the Moon, and NASA Is Looking Over Its Shoulder",
+      "url": "https://www.nytimes.com/2026/04/02/world/asia/china-space-moon-nasa-artemis.html",
+      "summary": "The U.S. space agency launched a lunar flyby Wednesday, but Beijing is pursuing its own space program with formidable focus. Here’s what we know about it, in photos and videos.",
+      "author": "Selam Gebrekidan and Joy Dong",
+      "publishDate": "2026-04-02T05:57:27.000Z",
+      "category": "Space and Astronomy",
+      "tags": [
+        "Space and Astronomy",
+        "Moon",
+        "Rocket Science and Propulsion",
+        "Artemis Program",
+        "Robots and Robotics",
+        "China Aerospace",
+        "National Aeronautics and Space Administration",
+        "Space Exploration Technologies Corp",
+        "China",
+        "United States"
+      ]
+    },
+    {
+      "title": "5 Takeaways From Trump’s Address on Iran",
+      "url": "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-address-takeaways.html",
+      "summary": "President Trump did not define a clear path out of the conflict, which he estimated would end within three weeks.",
+      "author": "Luke Broadwater and Tyler Pager",
+      "publishDate": "2026-04-02T03:36:15.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States Politics and Government",
+        "International Relations",
+        "Iran-Israel War (2025- )",
+        "United States Economy",
+        "Maduro, Nicolas",
+        "Trump, Donald J",
+        "United States International Relations"
+      ]
+    },
+    {
+      "title": "Iran War Showcases Strength of South Korean Defense Sector",
+      "url": "https://www.nytimes.com/2026/04/02/business/korea-missile-defense-iran.html",
+      "summary": "Missile interceptors made by the South Korean firm LIG Nex1 are said to be performing well, at a small fraction of the cost of U.S. interceptors.",
+      "author": "Aaron Krolik and Farah Stockman",
+      "publishDate": "2026-04-02T04:00:07.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Defense Contracts",
+        "Missiles and Missile Defense Systems",
+        "United States Politics and Government",
+        "Factories and Manufacturing",
+        "Drones (Pilotless Planes)",
+        "Center for Strategic and International Studies",
+        "Hanwha Aerospace",
+        "Lockheed Martin Corporation",
+        "Raytheon Company"
+      ]
+    },
+    {
+      "title": "The Only Thing Trump Is Missing in Cuba Is a Plan",
+      "url": "https://www.nytimes.com/2026/04/02/opinion/trump-cuba-oil-blockade.html",
+      "summary": "Starving Cubans does nothing to advance American interests.",
+      "author": "Ricardo Zúniga",
+      "publishDate": "2026-04-02T05:00:06.000Z",
+      "category": "Cold War Era",
+      "tags": [
+        "Cuba",
+        "Castro, Fidel",
+        "Castro, Raul",
+        "Obama, Barack",
+        "Trump, Donald J",
+        "Cold War Era",
+        "Embargoes and Sanctions",
+        "Humanitarian Aid",
+        "Oil (Petroleum) and Gasoline"
+      ]
+    },
+    {
+      "title": "Desi Lydic Wants Trump to Take a Hint About the Ballroom",
+      "url": "https://www.nytimes.com/2026/04/02/arts/television/late-night-trump-ballroom.html",
+      "summary": "“Might I suggest: If the ballroom starts experiencing ballistic assault, maybe we just cancel the ball?” she said on “The Daily Show.”",
+      "author": "Trish Bendix",
+      "publishDate": "2026-04-02T07:26:06.000Z",
+      "category": "Television",
+      "tags": [
+        "Television",
+        "The Daily Show with Jon Stewart (TV Program)",
+        "Lydic, Desi (1981- )",
+        "Fallon, Jimmy",
+        "The Tonight Show (TV Program)",
+        "Colbert, Stephen",
+        "Late Show with Stephen Colbert (TV Program)"
       ]
     }
   ]
