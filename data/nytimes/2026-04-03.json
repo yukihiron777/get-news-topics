@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-04-03T04:56:56+09:00",
+  "timestamp": "2026-04-03T08:32:10+09:00",
   "articles": [
     {
       "title": "How Trump Boxed Himself In on Iran",
@@ -802,6 +802,316 @@
         "McLuhan, Marshall",
         "Anthropic AI LLC",
         "Books and Literature"
+      ]
+    },
+    {
+      "title": "Rival Nations Seize On Choke Points to Counter Trump",
+      "url": "https://www.nytimes.com/2026/04/02/business/economy/trump-iran-china-choke-points.html",
+      "summary": "From Iran to China, President Trump’s global aggression has encouraged other countries to search for new ways to pressure the U.S. economy.",
+      "author": "Ana Swanson",
+      "publishDate": "2026-04-02T22:42:24.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "United States Economy",
+        "International Trade and World Market",
+        "Trump, Donald J",
+        "Strait of Hormuz",
+        "Rare Earths",
+        "China",
+        "Iran",
+        "US and Israeli Attack on Iran (2026)",
+        "International Relations"
+      ]
+    },
+    {
+      "title": "Trump Hails Strike on Iranian Bridge, Warning ‘More to Follow’",
+      "url": "https://www.nytimes.com/2026/04/02/world/middleeast/trump-iran-bridge-strike.html",
+      "summary": "Iran state media said eight people had been killed in the attack and dozens wounded. A local official said the bridge, in the mountains, was not yet in operation and that the people had been nearby when the attack happened.",
+      "author": "Euan Ward, Edward Wong, Parin Behrooz and Farnaz Fassihi",
+      "publishDate": "2026-04-02T22:34:21.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States International Relations",
+        "Civilian Casualties",
+        "Infrastructure (Public Works)",
+        "Iran"
+      ]
+    },
+    {
+      "title": "Pam Bondi Fired as Trump’s Attorney General",
+      "url": "https://www.nytimes.com/2026/04/02/us/politics/trump-fires-bondi-attorney-general.html",
+      "summary": "In a social media post, President Trump said he was replacing Ms. Bondi with Todd Blanche, her deputy, on an interim basis.",
+      "author": "Tyler Pager and Glenn Thrush",
+      "publishDate": "2026-04-02T22:26:07.000Z",
+      "category": "Attorneys General",
+      "tags": [
+        "Bondi, Pamela J",
+        "Attorneys General",
+        "Justice Department",
+        "Appointments and Executive Changes",
+        "United States Politics and Government",
+        "Trump, Donald J",
+        "Blanche, Todd (Attorney)",
+        "internal-open-access-from-nl"
+      ]
+    },
+    {
+      "title": "Who Is Todd Blanche, Trump’s Acting Attorney General?",
+      "url": "https://www.nytimes.com/2026/04/02/us/politics/todd-blanche-attorney-general-trump.html",
+      "summary": "While it remains unclear how long Todd Blanche will stay in the job, whoever ends up taking over permanently will lead a department that he has shaped in his own image.",
+      "author": "Alan Feuer",
+      "publishDate": "2026-04-02T20:34:14.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Attorneys General",
+        "Justice Department",
+        "Blanche, Todd (Attorney)",
+        "Bondi, Pamela J",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "The Awe of a Moon Launch in an Age of Trump, Turmoil and Tribal Divisions",
+      "url": "https://www.nytimes.com/2026/04/02/us/politics/artemis-ii-launch-trump.html",
+      "summary": "The launch of Artemis II captured the tenor of the times in a country that can still do big things but seems forever mired in big problems.",
+      "author": "Peter Baker",
+      "publishDate": "2026-04-02T21:58:31.000Z",
+      "category": "Space and Astronomy",
+      "tags": [
+        "Space and Astronomy",
+        "United States Politics and Government",
+        "Apollo Project",
+        "Moon",
+        "Artemis Program",
+        "National Aeronautics and Space Administration",
+        "Trump, Donald J",
+        "Kelly, Mark E (1964- )"
+      ]
+    },
+    {
+      "title": "Hegseth Fires Army Chief Amid Battle With Its Leaders",
+      "url": "https://www.nytimes.com/2026/04/02/us/politics/hegseth-fires-general-randy-george.html",
+      "summary": "Senior Army officers reacted with anger and frustration to news of Gen. Randy George’s dismissal, characterizing it as the latest blow to the service.",
+      "author": "Greg Jaffe, Helene Cooper and Eric Schmitt",
+      "publishDate": "2026-04-02T23:18:41.000Z",
+      "category": "United States Defense and Military Forces",
+      "tags": [
+        "United States Defense and Military Forces",
+        "Appointments and Executive Changes",
+        "United States Army",
+        "George, Randy (1964- )",
+        "Hegseth, Pete",
+        "United States Politics and Government",
+        "Defense Department"
+      ]
+    },
+    {
+      "title": "What to Know About the ‘Massive’ Military Bunker Beneath Trump’s Ballroom",
+      "url": "https://www.nytimes.com/2026/04/02/us/politics/trump-ballroom-military-bunker.html",
+      "summary": "President Trump has been talking about the emergency facility beneath what was once the East Wing, details of which are usually kept secret, as he tries to justify his renovation.",
+      "author": "Luke Broadwater",
+      "publishDate": "2026-04-02T22:16:09.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Building (Construction)",
+        "National Capital Planning Commission",
+        "Trump, Donald J",
+        "White House Building (Washington, DC)"
+      ]
+    },
+    {
+      "title": "Johnson Wavers on Ending the Shutdown, Reflecting His Weak Hold on Power",
+      "url": "https://www.nytimes.com/2026/04/02/us/elections/mike-johnson-shutdown-power.html",
+      "summary": "The House speaker first panned, then endorsed, then punted on, then pitched and now is delaying a bill to reopen the Homeland Security Department, showing his vulnerability in the face of party rifts.",
+      "author": "Michael Gold",
+      "publishDate": "2026-04-02T22:11:33.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Midterm Elections (2026)",
+        "Immigration and Emigration",
+        "Federal Budget (US)",
+        "Presidential Power (US)",
+        "House of Representatives",
+        "Republican Party",
+        "Homeland Security Department",
+        "Immigration and Customs Enforcement (US)",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I.",
+      "url": "https://www.nytimes.com/2026/04/02/technology/openai-buys-tbpn.html",
+      "summary": "OpenAI said the deal would help it “create a space for a real, constructive conversation about the changes A.I. creates.”",
+      "author": "Mike Isaac",
+      "publishDate": "2026-04-02T20:16:56.000Z",
+      "category": "Artificial Intelligence",
+      "tags": [
+        "Artificial Intelligence",
+        "Computers and the Internet",
+        "Start-ups",
+        "Social Media",
+        "Mergers, Acquisitions and Divestitures",
+        "Video Recordings, Downloads and Streaming",
+        "Media",
+        "OpenAI Labs",
+        "TBPN (YouTube Channel)",
+        "Altman, Samuel H"
+      ]
+    },
+    {
+      "title": "Blake Lively’s Retaliation Case Against Justin Baldoni Heads to Trial Without Harassment Claims",
+      "url": "https://www.nytimes.com/2026/04/02/movies/blake-lively-justin-baldoni-harassment-claims-dismissed.html",
+      "summary": "A federal judge tossed the actress’s sexual harassment claims against Justin Baldoni in a split decision that sets the stage for a contentious trial.",
+      "author": "Julia Jacobs",
+      "publishDate": "2026-04-02T23:04:24.000Z",
+      "category": "Sexual Harassment",
+      "tags": [
+        "Sexual Harassment",
+        "Decisions and Verdicts",
+        "Baldoni, Justin",
+        "Lively, Blake",
+        "It Ends With Us (Movie)",
+        "Social Media"
+      ]
+    },
+    {
+      "title": "The One Thing Trump Wanted That Pam Bondi Failed to Deliver",
+      "url": "https://www.nytimes.com/2026/04/02/opinion/pam-bondi-fired-trump.html",
+      "summary": "The core of Mr. Trump’s dissatisfaction with the attorney general was apparently her failure to serve his need for revenge against his enemies.",
+      "author": "Jeffrey Toobin",
+      "publishDate": "2026-04-02T23:21:01.000Z",
+      "category": "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+      "tags": [
+        "Bondi, Pamela J",
+        "Trump, Donald J",
+        "Justice Department",
+        "Epstein, Jeffrey E (1953- )",
+        "Blanche, Todd (Attorney)",
+        "Zeldin, Lee M",
+        "Comey, James B",
+        "James, Letitia",
+        "Schiff, Adam B",
+        "Obama, Barack"
+      ]
+    },
+    {
+      "title": "Every President Tries It. It Never Works.",
+      "url": "https://www.nytimes.com/2026/04/02/opinion/trump-manufacturing-industry-liberation-day.html",
+      "summary": "What’s really behind all these attempts to revive American industry?",
+      "author": "Jason Furman",
+      "publishDate": "2026-04-02T10:50:29.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Factories and Manufacturing",
+        "Layoffs and Job Reductions",
+        "United States Economy",
+        "International Trade and World Market",
+        "Prices (Fares, Fees and Rates)",
+        "Unemployment",
+        "Wages and Salaries",
+        "Labor and Jobs",
+        "Hiring and Promotion"
+      ]
+    },
+    {
+      "title": "Trump Fires His Attorney General",
+      "url": "https://www.nytimes.com/2026/04/02/briefing/trump-fires-attorney-general.html",
+      "summary": "Also, France’s president voices European frustration with the U.S. leader. Here’s the latest at the end of Thursday.",
+      "author": "Matthew Cullen",
+      "publishDate": "2026-04-02T21:39:23.000Z"
+    },
+    {
+      "title": "How Are High California Gas Prices Affecting Your Life?",
+      "url": "https://www.nytimes.com/2026/04/02/us/california-gas-prices-expenses.html",
+      "summary": "Tell us how the sharp increase in gas prices is changing how you live and work.",
+      "author": "Jill Cowan",
+      "publishDate": "2026-04-02T20:52:30.000Z",
+      "category": "Oil (Petroleum) and Gasoline",
+      "tags": [
+        "California",
+        "Oil (Petroleum) and Gasoline",
+        "Prices (Fares, Fees and Rates)",
+        "US and Israeli Attack on Iran (2026)",
+        "internal-reader-callout"
+      ]
+    },
+    {
+      "title": "Biruté Galdikas, 79, Who Worked to Save Wild Orangutans in Borneo, Dies",
+      "url": "https://www.nytimes.com/2026/04/02/science/earth/birute-galdikas-dead.html",
+      "summary": "With Jane Goodall and Dian Fossey, she was one of three prominent researchers of great apes who were sometimes called the “trimates.”",
+      "author": "Richard Sandomir",
+      "publishDate": "2026-04-02T21:28:13.000Z",
+      "category": "Deaths (Obituaries)",
+      "tags": [
+        "Galdikas, Birute M F",
+        "Deaths (Obituaries)",
+        "Orangutan",
+        "Research",
+        "Endangered and Extinct Species",
+        "Fossey, Dian",
+        "Goodall, Jane",
+        "Borneo (Indonesia)",
+        "Orangutan Foundation International"
+      ]
+    },
+    {
+      "title": "Hershey’s Promises to Use Only Real Chocolate After Backlash",
+      "url": "https://www.nytimes.com/2026/04/02/business/hershey-reeses-recipe-real-chocolate.html",
+      "summary": "The change follows weeks of complaints from a grandson of the Reese’s Peanut Butter Cup inventor and other vocal consumers.",
+      "author": "Alice Callahan",
+      "publishDate": "2026-04-02T21:27:39.000Z",
+      "category": "Peanuts",
+      "tags": [
+        "Peanuts",
+        "Candy",
+        "Chocolate",
+        "Peanut Butter",
+        "Hershey Company",
+        "Kennedy, Robert F Jr",
+        "Trump, Donald J",
+        "Palm Beach (Fla)"
+      ]
+    },
+    {
+      "title": "Wisconsin Universities Chief Defies Board’s Push for Resignation",
+      "url": "https://www.nytimes.com/2026/04/02/us/wisconsin-universities-rothman-defies-board.html",
+      "summary": "Jay Rothman, the president of the state university system, said he had received no explanation for why regents want to oust him.",
+      "author": "Alan Blinder",
+      "publishDate": "2026-04-02T21:45:14.000Z",
+      "category": "Colleges and Universities",
+      "tags": [
+        "Colleges and Universities",
+        "Appointments and Executive Changes",
+        "Boards of Directors",
+        "University of Wisconsin-Madison",
+        "Wisconsin",
+        "Jay Rothman"
+      ]
+    },
+    {
+      "title": "Trump Has Discussed Firing Attorney General Pam Bondi",
+      "url": "https://www.nytimes.com/2026/04/01/us/politics/trump-pam-bondi-future.html",
+      "summary": "President Trump has not made a final decision, but he has floated the idea of replacing Ms. Bondi with Lee Zeldin, the E.P.A. administrator.",
+      "author": "Tyler Pager",
+      "publishDate": "2026-04-02T00:25:39.000Z",
+      "category": "Attorneys General",
+      "tags": [
+        "Justice Department",
+        "Bondi, Pamela J",
+        "Attorneys General",
+        "Federal Bureau of Investigation",
+        "United States Politics and Government",
+        "Epstein, Jeffrey E (1953- )",
+        "Human Trafficking",
+        "Sex Crimes",
+        "Child Abuse and Neglect",
+        "Prostitution"
       ]
     }
   ]
