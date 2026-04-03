@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-04-03T12:50:24+09:00",
+  "timestamp": "2026-04-03T13:05:37+09:00",
   "articles": [
     {
       "title": "How Trump Boxed Himself In on Iran",
@@ -1200,6 +1200,54 @@
         "United States",
         "Democracy (Theory and Philosophy)",
         "No Kings"
+      ]
+    },
+    {
+      "title": "In Syria, Kidnappings of Women and Girls Fuel a Minority Group’s Fears",
+      "url": "https://www.nytimes.com/2026/04/03/world/middleeast/syria-kidnapping-alawite-woman-girls.html",
+      "summary": "A Times investigation found that abductions of women and girls from Syria’s Alawite minority were more common, and more brutal, than the government has acknowledged.",
+      "author": "Ben Hubbard and Laura Boushnak",
+      "publishDate": "2026-04-03T04:01:12.000Z",
+      "category": "Alawite Muslims",
+      "tags": [
+        "Alawite Muslims",
+        "Kidnapping and Hostages",
+        "Sex Crimes",
+        "New York Times",
+        "Assad, Bashar al-",
+        "Syria"
+      ]
+    },
+    {
+      "title": "Cosmopolitan Shanghai Is an Uneasy Fit in China’s Narrative of Western Sins",
+      "url": "https://www.nytimes.com/2026/04/03/world/asia/shanghai-dispatch-architecture.html",
+      "summary": "Shanghai’s many layers of architecture, culture and politics have made it a difficult fit for the Communist Party’s preferred narrative of Chinese victimhood and Western sins.",
+      "author": "Andrew Higgins and Qilai Shen",
+      "publishDate": "2026-04-03T04:01:15.000Z",
+      "category": "Politics and Government",
+      "tags": [
+        "Politics and Government",
+        "Architecture",
+        "Urban Areas",
+        "Building (Construction)",
+        "Cultural Revolution",
+        "Communist Party of China",
+        "Deng Xiaoping",
+        "Shanghai (China)",
+        "Demolition",
+        "Historic Buildings and Sites"
+      ]
+    },
+    {
+      "title": "Cuba Says It Is Pardoning More Than 2,000 Prisoners",
+      "url": "https://www.nytimes.com/2026/04/02/world/americas/cuba-prisoner-release.html",
+      "summary": "The Cuban government said the releases were a humanitarian gesture during Holy Week. It was not clear if they were related to ongoing negotiations between Cuba and the United States.",
+      "author": "Francesca Regalado",
+      "publishDate": "2026-04-03T03:45:44.000Z",
+      "category": "Amnesties, Commutations and Pardons",
+      "tags": [
+        "Amnesties, Commutations and Pardons",
+        "Prisons and Prisoners"
       ]
     }
   ]
