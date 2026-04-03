@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-04-03T13:38:36+09:00",
+  "timestamp": "2026-04-03T17:08:50+09:00",
   "articles": [
     {
       "title": "How Trump Boxed Himself In on Iran",
@@ -1248,6 +1248,53 @@
       "tags": [
         "Amnesties, Commutations and Pardons",
         "Prisons and Prisoners"
+      ]
+    },
+    {
+      "title": "Myanmar Junta Chief Ascends to President, Five Years After Coup",
+      "url": "https://www.nytimes.com/2026/04/03/world/asia/myanmar-president-min-aung-hlaing.html",
+      "summary": "U Min Aung Hlaing’s elevation to the civilian post is the conclusion of elections in the country, which were stage managed by the military.",
+      "author": "Richard C. Paddock",
+      "publishDate": "2026-04-03T06:42:53.000Z",
+      "category": "Political Prisoners",
+      "tags": [
+        "Min Aung Hlaing",
+        "Myanmar",
+        "Political Prisoners",
+        "War and Armed Conflicts",
+        "International Relations",
+        "Politics and Government",
+        "Defense and Military Forces"
+      ]
+    },
+    {
+      "title": "How Giorgia Meloni Fell to Earth",
+      "url": "https://www.nytimes.com/2026/04/03/opinion/trump-europe-iran-meloni-italy.html",
+      "summary": "For more than three years, Giorgia Meloni’s leadership of Italy has seemed unshakable. Now she suddenly seems vulnerable.",
+      "author": "Anna Momigliano",
+      "publishDate": "2026-04-03T05:27:41.000Z",
+      "category": "International Relations",
+      "tags": [
+        "Meloni, Giorgia (1977- )",
+        "Italy",
+        "International Relations",
+        "US and Israeli Attack on Iran (2026)"
+      ]
+    },
+    {
+      "title": "Late Night Says Goodbye to Pam Bondi",
+      "url": "https://www.nytimes.com/2026/04/03/arts/television/late-night-pam-bondi.html",
+      "summary": "President Trump is “on a bit of a firing spree,” Jimmy Fallon said on “The Tonight Show” on Thursday, adding, “Ironically, the only staffer who has immunity is RFK Jr.”",
+      "author": "Trish Bendix",
+      "publishDate": "2026-04-03T05:37:48.000Z",
+      "category": "Television",
+      "tags": [
+        "Television",
+        "Fallon, Jimmy",
+        "The Tonight Show (TV Program)",
+        "Gutfeld, Greg",
+        "Colbert, Stephen",
+        "Late Show with Stephen Colbert (TV Program)"
       ]
     }
   ]
