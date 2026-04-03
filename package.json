@@ -8,6 +8,7 @@
     "fetch:nikkei-business": "tsx src/sources/nikkei-business/index.ts",
     "fetch:toyokeizai": "tsx src/sources/toyokeizai/index.ts",
     "fetch:nytimes": "tsx src/sources/nytimes/index.ts",
+    "fetch:kabutan": "tsx src/sources/kabutan/index.ts",
     "build": "tsc",
     "start": "node dist/index.js",
     "dispatch:article": "tsx scripts/dispatch-article.ts",
