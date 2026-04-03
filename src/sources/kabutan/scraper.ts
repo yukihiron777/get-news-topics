@@ -66,8 +66,8 @@ export async function fetchArticles(): Promise<Article[]> {
         ? relativeUrl
         : `${config.baseUrl}${relativeUrl}`;
 
-      // URL正規化して重複チェック
-      const normalizedUrl = fullUrl.split('?')[0].replace(/\/+$/, '');
+      // URL正規化して重複チェック（クエリパラメータが記事IDのため保持）
+      const normalizedUrl = fullUrl.replace(/\/+$/, '');
       if (seenUrls.has(normalizedUrl)) {
         duplicateCount++;
         return;
