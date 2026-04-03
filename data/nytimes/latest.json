@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-04-04T04:44:38+09:00",
+  "timestamp": "2026-04-04T08:32:56+09:00",
   "articles": [
     {
       "title": "Hegseth Says U.S. Troops Are Fighting for Jesus. The Pope Disagrees.",
@@ -698,6 +698,232 @@
         "Kushner, Jared",
         "Leavitt, Karoline",
         "Modi, Narendra"
+      ]
+    },
+    {
+      "title": "What We Know About the F-15E Strike Eagle Shot Down by Iran",
+      "url": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
+      "summary": "An F-15E Strike Eagle was lost to enemy fire and an A-10 Warthog crashed in the Persian Gulf region on Friday, officials said. A rescue helicopter was also fired upon.",
+      "author": "Neil Vigdor",
+      "publishDate": "2026-04-03T22:41:11.000Z",
+      "category": "United States Defense and Military Forces",
+      "tags": [
+        "United States Defense and Military Forces",
+        "US and Israeli Attack on Iran (2026)",
+        "Military Aircraft",
+        "Rescues",
+        "United States Politics and Government",
+        "Defense and Military Forces",
+        "War and Armed Conflicts",
+        "United States International Relations",
+        "United States Air Force",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Iran Is Quickly Repairing Missile Bunkers, U.S. Intelligence Says",
+      "url": "https://www.nytimes.com/2026/04/03/us/politics/iran-missiles-launchers.html",
+      "summary": "Reports cast doubt on how close the United States is to destroying Iran’s missile capability, a key goal in the war.",
+      "author": "Julian E. Barnes and Eric Schmitt",
+      "publishDate": "2026-04-03T23:07:31.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States International Relations",
+        "Defense and Military Forces",
+        "Missiles and Missile Defense Systems",
+        "Espionage and Intelligence Services",
+        "Iran",
+        "Israel"
+      ]
+    },
+    {
+      "title": "Ex-US Army Pilot Recalls Battle for Survival When Shot Down in Iraq",
+      "url": "https://www.nytimes.com/2026/04/03/world/middleeast/iraq-us-pow-rescue-survival.html",
+      "summary": "Ronald Young Jr. was in the Army when his Apache Longbow copter went down during the U.S. invasion of Iraq.",
+      "author": "Pranav Baskar",
+      "publishDate": "2026-04-03T22:35:05.000Z",
+      "category": "Prisoners of War",
+      "tags": [
+        "Iraq",
+        "Prisoners of War",
+        "Ronald Young Jr.",
+        "Pilots",
+        "War and Armed Conflicts",
+        "Rescues",
+        "United States Army",
+        "Interrogations",
+        "Military Aircraft",
+        "US and Israeli Attack on Iran (2026)"
+      ]
+    },
+    {
+      "title": "Trump Seeks $152 Million to Begin to Turn Alcatraz Back Into a Prison",
+      "url": "https://www.nytimes.com/2026/04/03/us/trump-alcatraz-funding.html",
+      "summary": "The plan faces significant local political opposition and the dilapidated state of the site poses considerable logistical challenges.",
+      "author": "Soumya Karlamangla and Heather Knight",
+      "publishDate": "2026-04-03T21:06:01.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Federal Budget (US)",
+        "Prisons and Prisoners",
+        "Trump, Donald J",
+        "Alcatraz (San Francisco)"
+      ]
+    },
+    {
+      "title": "Trump Goes After Programs He Calls ‘Woke’ in Budget Proposal",
+      "url": "https://www.nytimes.com/2026/04/03/us/politics/trump-budget-proposal-woke.html",
+      "summary": "The president’s request for 2027 reflects his preoccupation with eliminating programs that support diversity and civil rights.",
+      "author": "Luke Broadwater and Michael C. Bender",
+      "publishDate": "2026-04-03T22:55:56.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Minorities",
+        "Civil Rights and Liberties",
+        "Budgets and Budgeting",
+        "Diversity Initiatives",
+        "Politics and Government",
+        "Federal Budget (US)",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Forest Service Will Close Research Stations That Study Wildfire Risk",
+      "url": "https://www.nytimes.com/2026/04/03/climate/forest-service-research-stations.html",
+      "summary": "Scientists say their work on fires and climate change could be lost as the agency moves its headquarters to Utah from Washington and shuts 57 research stations.",
+      "author": "Eric Niiler",
+      "publishDate": "2026-04-03T22:08:08.000Z",
+      "category": "Forests and Forestry",
+      "tags": [
+        "Forests and Forestry",
+        "Wildfires",
+        "Global Warming",
+        "United States Politics and Government",
+        "Federal Lands",
+        "Agriculture Department",
+        "Forest Service",
+        "Bureau of Land Management",
+        "Salt Lake City (Utah)",
+        "Research"
+      ]
+    },
+    {
+      "title": "NASA’s Artemis II Astronauts Took iPhones Into Space",
+      "url": "https://www.nytimes.com/2026/04/03/technology/iphones-artemis-nasa.html",
+      "summary": "The astronauts traveling in the Artemis II spacecraft were allowed to take smartphones with them. Sadly, they can’t connect to the internet.",
+      "author": "Kalley Huang",
+      "publishDate": "2026-04-03T20:36:47.000Z",
+      "category": "Space and Astronomy",
+      "tags": [
+        "Space and Astronomy",
+        "Smartphones",
+        "iPhone",
+        "Computers and the Internet",
+        "Photography",
+        "Apple Inc",
+        "National Aeronautics and Space Administration",
+        "Glover, Victor J Jr",
+        "Isaacman, Jared (1983- )",
+        "Koch, Christina H"
+      ]
+    },
+    {
+      "title": "Six Senate Races to Watch as Democrats Grow Bullish Ahead of Midterm Elections",
+      "url": "https://www.nytimes.com/2026/04/03/us/politics/senate-races-midterms-primary-election.html",
+      "summary": "It’s still a tall task for the party to win back control. Here’s the latest.",
+      "author": "Shane Goldmacher",
+      "publishDate": "2026-04-03T21:00:05.000Z",
+      "category": "Politics and Government",
+      "tags": [
+        "Politics and Government",
+        "Elections",
+        "Midterm Elections (2026)",
+        "Elections, Senate",
+        "Content Type: Quiz",
+        "Two Thousand Twenty Six",
+        "Democratic Party",
+        "Republican Party",
+        "Senate",
+        "Cassidy, Bill (1957- )"
+      ]
+    },
+    {
+      "title": "In the Philippines, Rising Fuel Prices Force Travelers to Stay Home During Holy Week",
+      "url": "https://www.nytimes.com/2026/04/03/world/asia/philippines-holy-week-oil-fuel-prices.html",
+      "summary": "Surging gasoline prices in the Philippines have forced some people to cancel or scale back the Visita Iglesia, a Holy Week tradition in which Catholics travel to seven churches.",
+      "author": "Francesca Regalado and Ezra Acayan",
+      "publishDate": "2026-04-03T21:45:13.000Z",
+      "category": "Oil (Petroleum) and Gasoline",
+      "tags": [
+        "Oil (Petroleum) and Gasoline",
+        "Easter and Holy Week",
+        "US and Israeli Attack on Iran (2026)",
+        "Roman Catholic Church",
+        "Manila (Philippines)",
+        "Philippines"
+      ]
+    },
+    {
+      "title": "Is Iran Winning?",
+      "url": "https://www.nytimes.com/2026/04/03/opinion/ezra-klein-podcast-suzanne-maloney.html",
+      "summary": "The Iran expert Suzanne Maloney explains why Iran believes it has the upper hand.",
+      "author": "Ezra Klein and Rollin Hu",
+      "publishDate": "2026-04-03T22:58:29.000Z",
+      "category": "internal-open-access-audio",
+      "tags": [
+        "Trump, Donald J",
+        "Iran",
+        "internal-open-access-audio"
+      ]
+    },
+    {
+      "title": "What Trump Is Doing to the English Language",
+      "url": "https://www.nytimes.com/2026/04/03/opinion/trump-speech-language-verb.html",
+      "summary": "There is a morality to verbs, especially in political speech.",
+      "author": "Sarah L. Kaufman",
+      "publishDate": "2026-04-03T20:21:02.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "Trump, Donald J",
+        "Iran",
+        "US and Israeli Attack on Iran (2026)",
+        "English Language",
+        "Grammar"
+      ]
+    },
+    {
+      "title": "Stray Bullet That Killed Baby Girl in Brooklyn Also Grazed Brother",
+      "url": "https://www.nytimes.com/2026/04/03/nyregion/baby-murder-williamsburg-arrest.html",
+      "summary": "Two men have been arrested in connection to a shooting on Wednesday that killed an infant. One was charged with murder, attempted murder and assault.",
+      "author": "Christopher Maag",
+      "publishDate": "2026-04-03T23:27:47.000Z",
+      "category": "Murders, Attempted Murders and Homicides",
+      "tags": [
+        "Murders, Attempted Murders and Homicides",
+        "Williamsburg (Brooklyn, NY)",
+        "Police Department (NYC)",
+        "Gangs",
+        "Brooklyn (NYC)",
+        "Mamdani, Zohran",
+        "Tisch, Jessica (1981- )"
+      ]
+    },
+    {
+      "title": "Preschool Instructor Charged With Sexually Assaulting Children",
+      "url": "https://www.nytimes.com/2026/04/03/nyregion/nj-preschool-instructor-sexual-assault-children.html",
+      "summary": "A 43-year-old man was accused of abusing “multiple” children over an 11-year period in South Jersey, and prosecutors fear there could be more victims, given his employment.",
+      "author": "Tracey Tully",
+      "publishDate": "2026-04-03T21:46:26.000Z",
+      "category": "Sex Crimes",
+      "tags": [
+        "Sex Crimes",
+        "Child Abuse and Neglect",
+        "Education (K-12)",
+        "Education (Pre-School)",
+        "Atlantic County (NJ)"
       ]
     }
   ]
