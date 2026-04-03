@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-04-03T08:32:10+09:00",
+  "timestamp": "2026-04-03T12:50:24+09:00",
   "articles": [
     {
       "title": "How Trump Boxed Himself In on Iran",
@@ -1112,6 +1112,94 @@
         "Sex Crimes",
         "Child Abuse and Neglect",
         "Prostitution"
+      ]
+    },
+    {
+      "title": "Pam Bondi Wanted a Graceful Exit. But Trump Wanted Her Gone.",
+      "url": "https://www.nytimes.com/2026/04/02/us/politics/pam-bondi-attorney-general-trump.html",
+      "summary": "Pam Bondi had a feeling her days as attorney general were numbered. But she didn’t expect President Trump to drop the curtain quite so soon.",
+      "author": "Glenn Thrush and Tyler Pager",
+      "publishDate": "2026-04-03T03:26:40.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Bondi, Pamela J",
+        "Trump, Donald J",
+        "Pulte, William J (1988- )",
+        "Epshteyn, Boris",
+        "Ethics and Official Misconduct",
+        "Justice Department",
+        "Epstein, Jeffrey E (1953- )"
+      ]
+    },
+    {
+      "title": "Evacuated From War-Torn Gaza, 11 Toddlers Return Home to Hugs and Tears",
+      "url": "https://www.nytimes.com/2026/04/01/world/middleeast/gaza-children-evacuated-return.html",
+      "summary": "The Palestinian children were born prematurely in the early days of the war and moved from a besieged hospital to Egypt. They have now returned home to the enclave, which lies in ruins.",
+      "author": "Adam Rasgon, Bilal Shbair and Iyad Abuheweila",
+      "publishDate": "2026-04-01T18:31:36.000Z",
+      "category": "Israel-Gaza War (2023- )",
+      "tags": [
+        "Israel-Gaza War (2023- )",
+        "Al Shifa Hospital (Gaza Strip)",
+        "Hamas",
+        "World Health Organization",
+        "Gaza City (Gaza Strip)",
+        "Gaza Strip",
+        "internal-open-access-from-nl"
+      ]
+    },
+    {
+      "title": "Danish Warship Sunk by Britain’s Lord Nelson 225 Years Ago Is Found",
+      "url": "https://www.nytimes.com/2026/04/02/world/europe/danish-warship-britain-nelson-copenhagen.html",
+      "summary": "The ship sank during the Battle of Copenhagen, an important moment in Danish and British history, and became the origin of a common saying.",
+      "author": "Lynsey Chutel",
+      "publishDate": "2026-04-02T17:04:42.000Z",
+      "category": "Ships and Shipping",
+      "tags": [
+        "Ships and Shipping",
+        "Shipwrecks (Historic)",
+        "Museums",
+        "Archaeology and Anthropology",
+        "Copenhagen (Denmark)",
+        "Denmark"
+      ]
+    },
+    {
+      "title": "Bondi Is Vulnerable as Republican Frustrations Over DOJ’s Epstein Files Missteps Grow",
+      "url": "https://www.nytimes.com/2026/04/01/us/politics/bondi-epstein-files-doj-trump.html",
+      "summary": "Ms. Bondi’s critics inside and outside the administration say she has made unforced errors that have turned the Justice Department’s handling of the Epstein files into a political crisis.",
+      "author": "Glenn Thrush and Michael Gold",
+      "publishDate": "2026-04-01T23:18:40.000Z",
+      "category": "Attorneys General",
+      "tags": [
+        "Bondi, Pamela J",
+        "Blanche, Todd (Attorney)",
+        "Attorneys General",
+        "Justice Department",
+        "United States Politics and Government",
+        "Federal Bureau of Investigation",
+        "Right-Wing Extremism and Alt-Right",
+        "Ethics and Official Misconduct",
+        "Trump, Donald J",
+        "House Committee on the Judiciary"
+      ]
+    },
+    {
+      "title": "A Challenge for ‘No Kings’ Protests, the Third Time Around",
+      "url": "https://www.nytimes.com/2026/03/28/us/politics/no-kings-protests-trump-organizers.html",
+      "summary": "Organizers want this to be the largest protest yet. But is hitting a number enough to deliver an effective political movement?",
+      "author": "Jeremy W. Peters",
+      "publishDate": "2026-03-29T03:29:36.000Z",
+      "category": "Demonstrations, Protests and Riots",
+      "tags": [
+        "Demonstrations, Protests and Riots",
+        "Indivisible Project",
+        "United States Politics and Government",
+        "Trump, Donald J",
+        "United States",
+        "Democracy (Theory and Philosophy)",
+        "No Kings"
       ]
     }
   ]
