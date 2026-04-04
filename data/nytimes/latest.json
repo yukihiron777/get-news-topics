@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-04-05T04:36:32+09:00",
+  "timestamp": "2026-04-05T08:28:42+09:00",
   "articles": [
     {
       "title": "Missing Airman Raises Concerns That Iran Could Gain Leverage Over the U.S.",
@@ -580,6 +580,83 @@
         "Sex Crimes",
         "Child Abuse and Neglect",
         "Prostitution"
+      ]
+    },
+    {
+      "title": "U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield",
+      "url": "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html",
+      "summary": "A military analyst identified markings consistent with a squadron based at R.A.F. Lakenheath, one of two British bases that host the largest U.S. fighter jet operation in Europe.",
+      "author": "Stephen Castle",
+      "publishDate": "2026-04-04T16:43:42.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States Air Force",
+        "Trump, Donald J",
+        "Starmer, Keir",
+        "Iran",
+        "Military Bases and Installations",
+        "Military Aircraft",
+        "United States Defense and Military Forces",
+        "United States Central Command"
+      ]
+    },
+    {
+      "title": "Satellite image company restricts Mideast content, citing a U.S. government request.",
+      "url": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/satellite-image-company-restricts-mideast-content-citing-a-us-government-request",
+      "author": "Pranav Baskar",
+      "publishDate": "2026-04-04T21:30:58.000Z"
+    },
+    {
+      "title": "Where Are NASA’s Artemis II Astronauts Now? Closer to the Moon Than Earth.",
+      "url": "https://www.nytimes.com/2026/04/04/science/nasa-moon-artemis-day-4.html",
+      "summary": "The astronauts said they had lost track of which day it is on Earth on their transit to the moon.",
+      "author": "Katrina Miller",
+      "publishDate": "2026-04-04T22:18:25.000Z",
+      "category": "Artemis Program",
+      "tags": [
+        "Artemis Program",
+        "National Aeronautics and Space Administration",
+        "Moon",
+        "Space and Astronomy"
+      ]
+    },
+    {
+      "title": "Deadly Earthquake and Floods Worsen Afghanistan’s Troubles",
+      "url": "https://www.nytimes.com/2026/04/04/world/asia/afghanistan-floods-earthquake.html",
+      "summary": "Floods have killed at least 77 people this week and destroyed or damaged thousands of homes, and an earthquake on Friday killed a dozen more.",
+      "author": "Yaqoob Akbary",
+      "publishDate": "2026-04-04T21:35:29.000Z",
+      "category": "Floods",
+      "tags": [
+        "Afghanistan",
+        "Floods",
+        "Earthquakes",
+        "Deaths (Fatalities)",
+        "Food Insecurity",
+        "War and Armed Conflicts",
+        "Humanitarian Aid",
+        "United States Agency for International Development"
+      ]
+    },
+    {
+      "title": "For Many Patients Leaving the I.C.U., the Struggle Has Only Just Begun",
+      "url": "https://www.nytimes.com/2026/04/04/health/post-icu-syndrome.html",
+      "summary": "A long stay in intensive care can bring physical, cognitive and mental health challenges that can take months or longer to resolve.",
+      "author": "Paula Span",
+      "publishDate": "2026-04-04T09:01:04.000Z",
+      "category": "Hospitals",
+      "tags": [
+        "Hospitals",
+        "Mental Health and Disorders",
+        "Depression (Mental)",
+        "Psychology and Psychologists",
+        "Elderly",
+        "Disabilities",
+        "Anxiety and Stress",
+        "Therapy and Rehabilitation",
+        "Memory",
+        "Sedatives"
       ]
     }
   ]
