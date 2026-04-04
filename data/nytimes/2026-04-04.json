@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-04-04T13:26:18+09:00",
+  "timestamp": "2026-04-04T16:54:28+09:00",
   "articles": [
     {
       "title": "Hegseth Says U.S. Troops Are Fighting for Jesus. The Pope Disagrees.",
@@ -1093,6 +1093,25 @@
         "Illegal Immigration",
         "Immigration and Customs Enforcement (US)",
         "Homeland Security Department"
+      ]
+    },
+    {
+      "title": "In a Muzzled Russia, He Still Speaks His Mind",
+      "url": "https://www.nytimes.com/2026/04/02/world/europe/dimitri-muratov-russia-ukraine-war-nobel.html",
+      "summary": "While hundreds of other journalists fled into exile after Moscow’s invasion of Ukraine in 2022, the Nobel Peace Prize laureate Dmitri A. Muratov stayed. But he did not stay quiet.",
+      "author": "Valerie Hopkins",
+      "publishDate": "2026-04-02T09:44:11.000Z",
+      "category": "Russian Invasion of Ukraine (2022)",
+      "tags": [
+        "Russian Invasion of Ukraine (2022)",
+        "Political Prisoners",
+        "News and News Media",
+        "Freedom of Speech and Expression",
+        "Censorship",
+        "Prisoners of War",
+        "Novaya Gazeta",
+        "Muratov, Dmitri A",
+        "Russia"
       ]
     }
   ]
