@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-04-04T16:54:28+09:00",
+  "timestamp": "2026-04-04T21:40:07+09:00",
   "articles": [
     {
       "title": "Hegseth Says U.S. Troops Are Fighting for Jesus. The Pope Disagrees.",
@@ -1112,6 +1112,261 @@
         "Novaya Gazeta",
         "Muratov, Dmitri A",
         "Russia"
+      ]
+    },
+    {
+      "title": "Missing Airman Raises Concerns That Iran Could Gain Leverage Over the U.S.",
+      "url": "https://www.nytimes.com/2026/04/04/world/middleeast/missing-airman-iran.html",
+      "summary": "Since 1979, Iran has repeatedly used Americans and Europeans detained on its territory to win concessions over more powerful adversaries.",
+      "author": "Yeganeh Torbati",
+      "publishDate": "2026-04-04T10:51:47.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Kidnapping and Hostages",
+        "Iran",
+        "Politics and Government",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Trump Pledged a Quick End to the Iran War, but He Hasn’t Explained How",
+      "url": "https://www.nytimes.com/2026/04/04/us/politics/trump-endless-wars.html",
+      "summary": "President Trump bet that American firepower could cow Iran into compliance. So far, Iran’s leaders have been unwilling to quit.",
+      "author": "Greg Jaffe",
+      "publishDate": "2026-04-04T09:01:43.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "United States International Relations",
+        "War and Armed Conflicts",
+        "Defense and Military Forces",
+        "Afghanistan War (2001- )",
+        "Defense Department",
+        "Israel",
+        "Iran"
+      ]
+    },
+    {
+      "title": "New Attorney General, Same Albatross: Trump’s Quest for Retribution",
+      "url": "https://www.nytimes.com/2026/04/04/us/politics/attorney-general-trump.html",
+      "summary": "The name atop the Justice Department’s organizational chart matters less than the presence of a president whose demands for revenge have become so extreme that even his most obsequious appointees have fallen short.",
+      "author": "Alan Feuer and Glenn Thrush",
+      "publishDate": "2026-04-04T09:02:00.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Attorneys General",
+        "Justice Department",
+        "Blanche, Todd (Attorney)",
+        "Bondi, Pamela J",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Trump Budget Does Little to Address Nation’s Fiscal Challenges",
+      "url": "https://www.nytimes.com/2026/04/04/business/trump-budget-federal-deficit.html",
+      "summary": "While the federal deficit has started to shrink under President Trump, his plans could make the long-term situation worse.",
+      "author": "Andrew Duehren and Alan Rappeport",
+      "publishDate": "2026-04-04T09:01:49.000Z",
+      "category": "Federal Budget (US)",
+      "tags": [
+        "Federal Budget (US)",
+        "National Debt (US)",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Trump Wants to Make Deportation Deals. Autocrats Are Ready to Listen.",
+      "url": "https://www.nytimes.com/2026/04/04/world/africa/trump-deportation-africa-migrants.html",
+      "summary": "The White House has turned deportations, a signature domestic issue, into a major piece of foreign policy. Here’s what we know about the program.",
+      "author": "Eileen Sullivan, Hamed Aleaziz, Megha Rajagopalan and Pranav Baskar",
+      "publishDate": "2026-04-04T11:12:59.000Z",
+      "category": "Illegal Immigration",
+      "tags": [
+        "Illegal Immigration",
+        "Deportation",
+        "United States Politics and Government",
+        "International Relations",
+        "United States International Relations",
+        "Immigration Detention",
+        "Human Rights and Human Rights Violations",
+        "Refugees and Displaced Persons",
+        "Immigration and Emigration",
+        "Immigration and Customs Enforcement (US)"
+      ]
+    },
+    {
+      "title": "Foreign Doctors Forced Out of U.S. Hospitals by Trump Immigration Policy",
+      "url": "https://www.nytimes.com/2026/04/04/us/trumps-immigration-policy-sidelines-foreign-doctors-amid-shortage.html",
+      "summary": "Physicians from 39 countries are being pushed out of U.S. hospitals as a policy blocks their ability to work.",
+      "author": "Miriam Jordan",
+      "publishDate": "2026-04-04T09:00:18.000Z",
+      "category": "International Relations",
+      "tags": [
+        "International Relations",
+        "Hospitals",
+        "Rural Areas",
+        "Labor and Jobs",
+        "Doctors",
+        "American College of Physicians",
+        "Citizenship and Immigration Services (US)",
+        "United States"
+      ]
+    },
+    {
+      "title": "ICE Review Finds Dozens of Violations at Texas Migrant Detention Center",
+      "url": "https://www.nytimes.com/2026/04/03/us/ice-texas-camp-montana-east.html",
+      "summary": "A review of Camp East Montana in Texas found failures in medical care, disease control and oversight, including improperly documented uses of force.",
+      "author": "Jesus Jiménez",
+      "publishDate": "2026-04-04T02:00:01.000Z",
+      "category": "Immigration Detention",
+      "tags": [
+        "Immigration Detention",
+        "Illegal Immigration",
+        "United States Politics and Government",
+        "Homeland Security Department",
+        "El Paso (Tex)",
+        "Texas"
+      ]
+    },
+    {
+      "title": "Houston Cheers on Artemis II Moon Mission, Reclaiming Its Place as ‘Space City’",
+      "url": "https://www.nytimes.com/2026/04/04/us/artemis-ii-nasa-moon-houston-texas.html",
+      "summary": "The Artemis II mission elicited deep feelings for many Americans, particularly in Houston, the home of mission control.",
+      "author": "J. David Goodman and Meridith Kohut",
+      "publishDate": "2026-04-04T09:00:51.000Z",
+      "category": "Artemis Program",
+      "tags": [
+        "Houston (Tex)",
+        "Texas",
+        "Artemis Program",
+        "National Aeronautics and Space Administration",
+        "Cruz, Ted",
+        "Musk, Elon",
+        "Johnson Space Center",
+        "Space Exploration Technologies Corp",
+        "Private Spaceflight",
+        "Space and Astronomy"
+      ]
+    },
+    {
+      "title": "‘Hacks’ Has the Last Laugh",
+      "url": "https://www.nytimes.com/2026/04/04/arts/television/hacks-final-season.html",
+      "summary": "As the HBO comedy finished production earlier this year, a photographer captured some of the final days on set and the showrunners looked back on its award-winning run.",
+      "author": "Chantal Anderson and Alexis Soloski",
+      "publishDate": "2026-04-04T10:00:19.000Z",
+      "category": "Television",
+      "tags": [
+        "Television",
+        "Hacks (TV Program)",
+        "Aniello, Lucia (1983- )",
+        "Downs, Paul W (1981- )",
+        "Statsky, Jen"
+      ]
+    },
+    {
+      "title": "Pam and Kristi, Kicked to the Curb",
+      "url": "https://www.nytimes.com/2026/04/04/opinion/pam-bondi-kristi-noem-trump.html",
+      "summary": "Trump girls gone wild — or just gone.",
+      "author": "Maureen Dowd",
+      "publishDate": "2026-04-04T11:00:25.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Bondi, Pamela J",
+        "Noem, Kristi",
+        "Trump, Donald J",
+        "Homeland Security Department",
+        "Justice Department"
+      ]
+    },
+    {
+      "title": "Trump’s Relentless, ‘Utterly Incoherent’ Battles",
+      "url": "https://www.nytimes.com/2026/04/04/opinion/trump-wars-iran-birthright-citizenship.html",
+      "summary": "From Tehran to the Supreme Court, a look at Trump’s relentless battles.",
+      "author": "Michelle Cottle, Jamelle Bouie, David French and Derek Arthur",
+      "publishDate": "2026-04-04T11:47:33.000Z",
+      "category": "audio-neutral-informative",
+      "tags": [
+        "audio-neutral-informative",
+        "Illegal Immigration",
+        "US and Israeli Attack on Iran (2026)",
+        "United States Politics and Government",
+        "United States Defense and Military Forces",
+        "International Relations",
+        "Citizenship and Naturalization",
+        "United States International Relations",
+        "Conservatism (US Politics)",
+        "Decisions and Verdicts"
+      ]
+    },
+    {
+      "title": "Living Space",
+      "url": "https://www.nytimes.com/2026/04/04/briefing/living-space.html",
+      "summary": "We don’t have to travel to the moon to gain some of the insight that astronauts do.",
+      "author": "Melissa Kirsch",
+      "publishDate": "2026-04-04T10:13:47.000Z",
+      "category": "internal-storyline-no",
+      "tags": [
+        "internal-storyline-no",
+        "Space and Astronomy",
+        "Moon",
+        "Earth",
+        "Colleges and Universities",
+        "Movies"
+      ]
+    },
+    {
+      "title": "Fight Escalates Over Plan to Demolish and Rebuild N.Y.C. Public Housing",
+      "url": "https://www.nytimes.com/2026/04/04/nyregion/fight-escalates-over-plan-to-demolish-and-rebuild-nyc-public-housing.html",
+      "summary": "The city thinks four developments in Chelsea are too run-down to be saved, and wants to rebuild them, adding mixed-income housing. Some residents are opposed.",
+      "author": "Mihir Zaveri",
+      "publishDate": "2026-04-04T07:00:13.000Z",
+      "category": "Public and Subsidized Housing",
+      "tags": [
+        "Public and Subsidized Housing",
+        "Real Estate and Housing (Residential)",
+        "Affordable Housing",
+        "Section 8 (Housing)",
+        "Housing Authority (NYC)",
+        "Related Cos",
+        "Chelsea (Manhattan, NY)",
+        "New York City"
+      ]
+    },
+    {
+      "title": "Three Charged With Arson in Attack on U.K. Jewish Charity’s Ambulances",
+      "url": "https://www.nytimes.com/2026/04/04/world/europe/london-arson-attack.html",
+      "summary": "Two men and a teenager were arrested this week, the London police said, adding that the March attack had not been declared a terrorist incident.",
+      "author": "Stephen Castle",
+      "publishDate": "2026-04-04T11:13:41.000Z",
+      "category": "Arson",
+      "tags": [
+        "Arson",
+        "London (England)",
+        "Great Britain",
+        "Ambulances",
+        "Scotland Yard (Metropolitan Police Service)"
+      ]
+    },
+    {
+      "title": "She Wanted Her Hair Done for a Special Day. She Left the Salon in Tears.",
+      "url": "https://www.nytimes.com/2026/04/04/nyregion/ulta-harlem-nyc-civil-rights-black-hair.html",
+      "summary": "A Black woman is pushing for changes in the hair industry after claiming in a lawsuit that she and her 7-year-old were turned away from an Ulta Beauty salon in Manhattan because of their hair texture.",
+      "author": "Skylar Mitchell",
+      "publishDate": "2026-04-04T07:00:05.000Z",
+      "category": "Beauty Salons",
+      "tags": [
+        "Beauty Salons",
+        "Suits and Litigation (Civil)",
+        "Human Rights and Human Rights Violations",
+        "Discrimination",
+        "Ulta Salon Cosmetics & Fragrance Inc",
+        "Ulta Beauty Inc",
+        "New York City",
+        "Black People",
+        "Race and Ethnicity"
       ]
     }
   ]
