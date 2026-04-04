@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-04-04T08:32:56+09:00",
+  "timestamp": "2026-04-04T13:26:18+09:00",
   "articles": [
     {
       "title": "Hegseth Says U.S. Troops Are Fighting for Jesus. The Pope Disagrees.",
@@ -924,6 +924,175 @@
         "Education (K-12)",
         "Education (Pre-School)",
         "Atlantic County (NJ)"
+      ]
+    },
+    {
+      "title": "Trump Contemplates Other Cabinet Changes as He Faces Political Clock",
+      "url": "https://www.nytimes.com/2026/04/03/us/politics/trump-cabinet-changes.html",
+      "summary": "With the midterms approaching, the president may be running out of time to get new cabinet members confirmed without bipartisan support.",
+      "author": "Zolan Kanno-Youngs, Rebecca Davis O’Brien and Julian E. Barnes",
+      "publishDate": "2026-04-04T01:55:20.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "Appointments and Executive Changes",
+        "Politics and Government",
+        "Chavez-DeRemer, Lori",
+        "Lutnick, Howard W",
+        "Gabbard, Tulsi (1981- )",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "Trump Requests $1.5 Trillion for Military Spending",
+      "url": "https://www.nytimes.com/2026/04/03/us/politics/white-house-defense-budget.html",
+      "summary": "The huge proposed increase would be partly offset by steep cuts to domestic programs, some of which the Trump administration describes as wasteful.",
+      "author": "Tony Romm",
+      "publishDate": "2026-04-03T18:20:27.000Z",
+      "category": "Federal Budget (US)",
+      "tags": [
+        "Federal Budget (US)",
+        "Defense Department",
+        "United States Politics and Government",
+        "Trump, Donald J",
+        "US and Israeli Attack on Iran (2026)"
+      ]
+    },
+    {
+      "title": "Trump Directs Officials to Pay All D.H.S. Employees",
+      "url": "https://www.nytimes.com/2026/04/03/us/politics/trump-order-dhs-funding.html",
+      "summary": "The memorandum calls for paying employees at the Coast Guard, Federal Emergency Management Agency and Cybersecurity and Infrastructure Security Agency who have gone without pay during a record-long shutdown.",
+      "author": "Zolan Kanno-Youngs",
+      "publishDate": "2026-04-04T02:55:21.000Z",
+      "category": "United States Politics and Government",
+      "tags": [
+        "United States Politics and Government",
+        "One Big Beautiful Bill Act (2025)",
+        "Government Employees",
+        "Shutdowns (Institutional)",
+        "Executive Orders and Memorandums",
+        "Customs and Border Protection (US)",
+        "Cybersecurity and Infrastructure Security Agency",
+        "Democratic Party",
+        "Federal Emergency Management Agency",
+        "Homeland Security Department"
+      ]
+    },
+    {
+      "title": "Epstein Presented Himself to Indian Tycoon as a Trump White House Insider",
+      "url": "https://www.nytimes.com/2026/04/04/world/asia/epstein-india-ambani.html",
+      "summary": "The convicted sex offender gave Anil Ambani information on appointments and foreign policy. Some seemed prescient, though there was no evidence he was close to the administration.",
+      "author": "Anupreeta Das",
+      "publishDate": "2026-04-04T04:01:08.000Z",
+      "category": "International Relations",
+      "tags": [
+        "Epstein, Jeffrey E (1953- )",
+        "Ambani, Anil D",
+        "International Relations",
+        "United States Politics and Government",
+        "Politics and Government",
+        "United States International Relations",
+        "Human Trafficking",
+        "Sex Crimes",
+        "Prostitution",
+        "Child Abuse and Neglect"
+      ]
+    },
+    {
+      "title": "Arrest of Wisconsin Mosque Leader Was Tied to Trump Antisemitism Campaign",
+      "url": "https://www.nytimes.com/2026/04/03/us/wisconsin-mosque-leader-antisemitism.html",
+      "summary": "Immigration lawyers and former federal officials say the case of Salah Sarsour echoes those against other pro-Palestinian activists.",
+      "author": "Jazmine Ulloa and Hamed Aleaziz",
+      "publishDate": "2026-04-04T03:04:42.000Z",
+      "category": "Immigration Detention",
+      "tags": [
+        "Immigration Detention",
+        "United States Politics and Government",
+        "Anti-Semitism",
+        "Palestinians",
+        "Homeland Security Department",
+        "Immigration and Customs Enforcement (US)",
+        "Rubio, Marco",
+        "Sarsour, Salah",
+        "Milwaukee (Wis)"
+      ]
+    },
+    {
+      "title": "After 11 Years in Court, Heir Reclaims a Modigliani Looted by the Nazis",
+      "url": "https://www.nytimes.com/2026/04/03/arts/modigliani-nazi-court-ruling.html",
+      "summary": "A judge ruled against a holding company controlled by David Nahmad, the billionaire art dealer, which had bought the work at auction in 1996.",
+      "author": "Graham Bowley",
+      "publishDate": "2026-04-03T22:50:33.000Z",
+      "category": "Art",
+      "tags": [
+        "Art",
+        "Decisions and Verdicts",
+        "Christie's",
+        "International Art Center",
+        "Maestracci, Philippe",
+        "Modigliani, Amedeo",
+        "Nahmad, David (1947- )",
+        "Palmer, James (Art Executive)"
+      ]
+    },
+    {
+      "title": "Stephen Miller’s Latest Low",
+      "url": "https://www.nytimes.com/2026/03/28/opinion/stephen-miller-birthright-citizenship-14th-amendment.html",
+      "summary": "His project of subordination at home and abroad continues unabated.",
+      "author": "Jamelle Bouie",
+      "publishDate": "2026-03-30T13:50:43.000Z",
+      "category": "Fourteenth Amendment (US Constitution)",
+      "tags": [
+        "Fourteenth Amendment (US Constitution)",
+        "Thirteenth Amendment (US Constitution)",
+        "Citizenship and Naturalization",
+        "Law and Legislation",
+        "Supreme Court (US)",
+        "Miller, Stephen (1985- )",
+        "United States Politics and Government",
+        "Trump, Donald J",
+        "Slavery (Historical)",
+        "Right-Wing Extremism and Alt-Right"
+      ]
+    },
+    {
+      "title": "Michael Rousseau, Air Canada’s CEO, to Step Down Amid Backlash Over Comments After Crash",
+      "url": "https://www.nytimes.com/2026/03/30/business/air-canada-ceo-crash-retire.html",
+      "summary": "Michael Rousseau’s mostly English statement after a fatal runway collision drew sharp criticism. The airline said it would emphasize French fluency in its search for a successor.",
+      "author": "Kailyn Rhone",
+      "publishDate": "2026-03-30T21:42:47.000Z",
+      "category": "internal-open-access-from-nl",
+      "tags": [
+        "internal-open-access-from-nl",
+        "Airlines and Airplanes",
+        "Appointments and Executive Changes",
+        "French Language",
+        "Aviation Accidents, Safety and Disasters",
+        "Boards of Directors",
+        "Politics and Government",
+        "Air Canada",
+        "Rousseau, Michael (Airline Executive)",
+        "LaGuardia Airport (Queens, NY)"
+      ]
+    },
+    {
+      "title": "No Kings Protests Held Across the U.S.: Photos and Videos",
+      "url": "https://www.nytimes.com/2026/03/28/us/no-kings-protest-photos-videos.html",
+      "summary": "It’s the third time that the coalition behind the “No Kings” movement has organized events to protest President Trump and his policies. In the United States, more than 3,000 demonstrations were planned.",
+      "author": "Ernesto Londoño and Sonia A. Rao",
+      "publishDate": "2026-03-29T09:36:07.000Z",
+      "category": "Demonstrations, Protests and Riots",
+      "tags": [
+        "Demonstrations, Protests and Riots",
+        "United States",
+        "United States Politics and Government",
+        "Trump, Donald J",
+        "Authoritarianism (Theory and Philosophy)",
+        "US and Israeli Attack on Iran (2026)",
+        "Minneapolis (Minn)",
+        "Illegal Immigration",
+        "Immigration and Customs Enforcement (US)",
+        "Homeland Security Department"
       ]
     }
   ]
