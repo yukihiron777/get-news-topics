@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-04-05T08:28:42+09:00",
+  "timestamp": "2026-04-05T13:44:39+09:00",
   "articles": [
     {
       "title": "Missing Airman Raises Concerns That Iran Could Gain Leverage Over the U.S.",
@@ -657,6 +657,110 @@
         "Therapy and Rehabilitation",
         "Memory",
         "Sedatives"
+      ]
+    },
+    {
+      "title": "Judge Pauses Trump Demand for Student Race Data in 17 States",
+      "url": "https://www.nytimes.com/2026/04/04/us/trump-lawsuit-admissions-data.html",
+      "summary": "The Trump administration had said it would collect data from colleges to ensure compliance with a Supreme Court ruling ending affirmative action in admissions.",
+      "author": "Orlando Mayorquín",
+      "publishDate": "2026-04-05T00:51:12.000Z",
+      "category": "Colleges and Universities",
+      "tags": [
+        "Colleges and Universities",
+        "Affirmative Action",
+        "Admissions Standards",
+        "Suits and Litigation (Civil)",
+        "Education Department (US)",
+        "United States Politics and Government",
+        "Federal Courts (US)",
+        "Saylor, F Dennis IV",
+        "McMahon, Linda E",
+        "Trump, Donald J"
+      ]
+    },
+    {
+      "title": "China Built the World’s Drone Industry. Now It’s Locking Down the Skies.",
+      "url": "https://www.nytimes.com/2026/04/05/world/asia/china-drone-regulations.html",
+      "summary": "The Chinese government tightened rules to curb what it described as illegal drone use, but some users say the changes are now restricting too many flights.",
+      "author": "Joy Dong",
+      "publishDate": "2026-04-05T04:01:08.000Z",
+      "category": "Drones (Pilotless Planes)",
+      "tags": [
+        "China",
+        "Drones (Pilotless Planes)",
+        "Regulation and Deregulation of Industry",
+        "Beijing (China)"
+      ]
+    },
+    {
+      "title": "Trump’s Relentless, ‘Utterly Incoherent’ Battles",
+      "url": "https://www.nytimes.com/2026/04/04/opinion/trump-wars-iran-birthright-citizenship.html",
+      "summary": "A look at a conflict without end and a constitution under pressure.",
+      "author": "Michelle Cottle, Jamelle Bouie, David French and Derek Arthur",
+      "publishDate": "2026-04-04T14:04:49.000Z",
+      "category": "audio-neutral-informative",
+      "tags": [
+        "audio-neutral-informative",
+        "Illegal Immigration",
+        "US and Israeli Attack on Iran (2026)",
+        "United States Politics and Government",
+        "United States Defense and Military Forces",
+        "International Relations",
+        "Citizenship and Naturalization",
+        "United States International Relations",
+        "Conservatism (US Politics)",
+        "Decisions and Verdicts"
+      ]
+    },
+    {
+      "title": "Hollywood Writers Union and Studios Reach Contract Deal",
+      "url": "https://www.nytimes.com/2026/04/04/business/media/hollywood-writers-contract-deal.html",
+      "summary": "With the global entertainment business reeling during a period of rapid change, there was little enthusiasm on either side for a costly standoff.",
+      "author": "Brooks Barnes",
+      "publishDate": "2026-04-05T03:41:02.000Z",
+      "category": "Organized Labor",
+      "tags": [
+        "Organized Labor",
+        "Writing and Writers",
+        "Movies",
+        "SAG-AFTRA",
+        "Writers Guild of America",
+        "Los Angeles (Calif)"
+      ]
+    },
+    {
+      "title": "Dozens Killed in Haiti Massacre as International Force Trickles In",
+      "url": "https://www.nytimes.com/2026/04/04/world/americas/haiti-gang-massacre.html",
+      "summary": "Gangs tore through several rural communities last weekend, underscoring the challenges that will face the new, U.N.-backed Gang Suppression Force starting to enter the country.",
+      "author": "André Paultre and Frances Robles",
+      "publishDate": "2026-04-04T23:17:17.000Z",
+      "category": "Gangs",
+      "tags": [
+        "Gangs",
+        "Murders, Attempted Murders and Homicides",
+        "United Nations",
+        "Haiti"
+      ]
+    },
+    {
+      "title": "Michael Rousseau, Air Canada’s CEO, to Step Down Amid Backlash Over Comments After Crash",
+      "url": "https://www.nytimes.com/2026/03/30/business/air-canada-ceo-crash-retire.html",
+      "summary": "Michael Rousseau’s mostly English statement after a fatal runway collision drew sharp criticism. The airline said it would emphasize French fluency in its search for a successor.",
+      "author": "Kailyn Rhone",
+      "publishDate": "2026-03-30T21:42:47.000Z",
+      "category": "internal-open-access-from-nl",
+      "tags": [
+        "internal-open-access-from-nl",
+        "Airlines and Airplanes",
+        "Appointments and Executive Changes",
+        "French Language",
+        "Aviation Accidents, Safety and Disasters",
+        "Boards of Directors",
+        "Politics and Government",
+        "Air Canada",
+        "Rousseau, Michael (Airline Executive)",
+        "LaGuardia Airport (Queens, NY)"
       ]
     }
   ]
