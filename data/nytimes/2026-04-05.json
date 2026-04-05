@@ -1,6 +1,6 @@
 {
   "source": "nytimes",
-  "timestamp": "2026-04-05T17:00:55+09:00",
+  "timestamp": "2026-04-05T21:41:52+09:00",
   "articles": [
     {
       "title": "Missing Airman Raises Concerns That Iran Could Gain Leverage Over the U.S.",
@@ -797,6 +797,161 @@
         "Shortages",
         "Medicine and Health",
         "Women's Health Initiative"
+      ]
+    },
+    {
+      "title": "Iran Downing of Plane and Daring U.S. Rescue Leave Both Sides Emboldened",
+      "url": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-us-rescue.html",
+      "summary": "Iran’s downing of a U.S. plane and the complex two-day American rescue operation to extract a stranded airman has emboldened both sides, a potential recipe for escalation.",
+      "author": "Erika Solomon",
+      "publishDate": "2026-04-05T12:33:42.000Z",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "tags": [
+        "US and Israeli Attack on Iran (2026)",
+        "Politics and Government",
+        "United States Politics and Government",
+        "United States International Relations",
+        "Trump, Donald J",
+        "Iran",
+        "Strait of Hormuz",
+        "Tehran (Iran)",
+        "United States"
+      ]
+    },
+    {
+      "title": "Stephen Miller Is Still Pursuing His Immigration Agenda, but More Quietly",
+      "url": "https://www.nytimes.com/2026/04/05/us/politics/stephen-miller-immigration-agenda.html",
+      "summary": "The architect of President Trump’s mass deportation campaign wants “a moratorium on immigration from third world countries until we can heal ourselves as a nation.” The chaos in Minneapolis has not pushed him off that course.",
+      "author": "Zolan Kanno-Youngs, Hamed Aleaziz, Christopher Flavelle, Emily Cochrane and Glenn Thrush",
+      "publishDate": "2026-04-05T09:00:22.000Z",
+      "category": "Illegal Immigration",
+      "tags": [
+        "Illegal Immigration",
+        "United States Politics and Government",
+        "Federal Actions in US Cities",
+        "Deportation",
+        "Immigration Detention",
+        "Immigration and Emigration",
+        "Border Patrol (US)",
+        "Homeland Security Department",
+        "Immigration and Customs Enforcement (US)",
+        "Bovino, Gregory"
+      ]
+    },
+    {
+      "title": "ICE Arrests in Texas Leave Children to Raise Their Siblings After Parents Are Detained",
+      "url": "https://www.nytimes.com/2026/04/05/us/their-parents-were-taken-by-ice-the-children-had-to-raise-one-another.html",
+      "summary": "Andrea García and her siblings are carrying on in a home reshaped by fear, loss and new responsibility.",
+      "author": "Edgar Sandoval and Gabriel V. Cárdenas",
+      "publishDate": "2026-04-05T09:00:50.000Z",
+      "category": "Illegal Immigration",
+      "tags": [
+        "Illegal Immigration",
+        "Immigration Detention",
+        "Deportation",
+        "Parenting",
+        "Children and Childhood",
+        "Immigration and Customs Enforcement (US)",
+        "Mexico",
+        "Texas"
+      ]
+    },
+    {
+      "title": "What Were Bob Dylan and John Lennon Really Saying in the Back of That Limo?",
+      "url": "https://www.nytimes.com/2026/04/05/style/bob-dylan-john-lennon-limo-ride.html",
+      "summary": "A film scene of Dylan and Lennon at a low moment in 1966 has held a grim fascination for fans. Beneath the repartee, a touchy issue was at stake.",
+      "author": "Jim Windolf",
+      "publishDate": "2026-04-05T09:00:14.000Z",
+      "category": "Pop and Rock Music",
+      "tags": [
+        "Pop and Rock Music",
+        "Nineteen Hundred Sixties",
+        "Beatles, The",
+        "Dylan, Bob",
+        "Lennon, John",
+        "London (England)",
+        "Royal Albert Hall"
+      ]
+    },
+    {
+      "title": "A Smoldering Wick in the Darkness",
+      "url": "https://www.nytimes.com/2026/04/05/opinion/easter-vigil-paschal-candle.html",
+      "summary": "The light that changed my life.",
+      "author": "David French",
+      "publishDate": "2026-04-05T10:00:19.000Z",
+      "category": "Christians and Christianity",
+      "tags": [
+        "Christians and Christianity",
+        "Candles",
+        "Anxiety and Stress",
+        "Holidays and Special Occasions",
+        "Easter and Holy Week",
+        "Roman Catholic Church",
+        "Jesus Christ",
+        "Lewis, C S"
+      ]
+    },
+    {
+      "title": "Is Christianity Making a Comeback?",
+      "url": "https://www.nytimes.com/2026/04/05/briefing/easte-christian-revival-trump.html",
+      "summary": "Some see Easter Sunday’s packed pews and overflowing chapels as a sign of a religious revival. But experts are urging caution.",
+      "author": "Lauren Jackson",
+      "publishDate": "2026-04-05T12:13:38.000Z",
+      "category": "internal-storyline-no",
+      "tags": [
+        "internal-storyline-no"
+      ]
+    },
+    {
+      "title": "Pope Leo Calls for Peace and Warns of a World Indifferent to Violence",
+      "url": "https://www.nytimes.com/2026/04/05/world/europe/pope-leo-easter.html",
+      "summary": "The pontiff’s Easter remarks follow a Palm Sunday homily in which he said God rejected the prayers of “those who wage war.”",
+      "author": "Elisabetta Povoledo",
+      "publishDate": "2026-04-05T11:44:11.000Z",
+      "category": "Popes",
+      "tags": [
+        "Popes",
+        "US and Israeli Attack on Iran (2026)",
+        "Easter and Holy Week",
+        "United States Defense and Military Forces",
+        "Christians and Christianity",
+        "Roman Catholic Church",
+        "Leo XIV",
+        "Trump, Donald J",
+        "Vatican City"
+      ]
+    },
+    {
+      "title": "Uber and Trial Lawyers Spar Over New Yorkers’ Auto Insurance Premiums",
+      "url": "https://www.nytimes.com/2026/04/05/nyregion/lawyers-uber-auto-insurance.html",
+      "summary": "A powerful lawyers’ association is opposing a bill that would cap damages, but the ride-share company has spent millions lobbying state lawmakers to lower rates, some of the highest in the country.",
+      "author": "Benjamin Oreskes and Stefanos Chen",
+      "publishDate": "2026-04-05T07:00:13.000Z",
+      "category": "State Legislatures",
+      "tags": [
+        "New York State Trial Lawyers Assn",
+        "Uber Technologies Inc",
+        "State Legislatures",
+        "Automobile Insurance and Liability",
+        "Lobbying and Lobbyists",
+        "Law and Legislation",
+        "Insurance",
+        "Compensation for Damages (Law)",
+        "New York State"
+      ]
+    },
+    {
+      "title": "After 53 Years, This New Jersey Town’s Fight to Secede Is Over. Kind of.",
+      "url": "https://www.nytimes.com/2026/04/05/nyregion/south-seaside-nj-secession.html",
+      "summary": "South Seaside Park on the Jersey Shore has just succeeded in leaving Berkeley Township and joining its neighbor, Seaside Park, but there are still more challenges ahead.",
+      "author": "Christopher Maag",
+      "publishDate": "2026-04-05T07:00:17.000Z",
+      "category": "Secession and Independence Movements",
+      "tags": [
+        "Secession and Independence Movements",
+        "Beaches",
+        "Seaside Park (NJ)",
+        "New Jersey"
       ]
     }
   ]
